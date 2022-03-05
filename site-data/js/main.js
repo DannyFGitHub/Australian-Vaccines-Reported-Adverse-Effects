@@ -100,9 +100,10 @@ $(".no-propagate").on("click", function (el) {
   el.stopPropagation();
 });
 
+setIsLoading(true);
+
 //Check url to load remote DB
 var loadUrlDB = "CaseListings.sqlite3"; //$.urlParam("url");
-setIsLoading(true);
 var xhr = new XMLHttpRequest();
 xhr.open("GET", decodeURIComponent(loadUrlDB), true);
 xhr.responseType = "arraybuffer";
@@ -167,7 +168,7 @@ function loadDB(arrayBuffer) {
     $("#sample-db-link").hide();
     $("#success-box").show();
 
-    setIsLoading(false);
+    // setIsLoading(false);
   });
 }
 
@@ -524,5 +525,6 @@ function renderQuery(query) {
 
   setTimeout(function () {
     positionFooter();
+    setIsLoading(false);
   }, 100);
 }
