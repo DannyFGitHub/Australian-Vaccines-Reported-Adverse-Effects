@@ -157,7 +157,7 @@ function loadDB(arrayBuffer) {
     $("#sample-db-link").hide();
     $("#success-box").show();
 
-    // setIsLoading(false);
+    setIsLoading(false);
   });
 }
 
@@ -439,12 +439,6 @@ function renderQueryInCardsGrid(query) {
     // }
     // dataBox.append(card);
   }
-
-  refreshPagination(query, tableName);
-
-  setTimeout(function () {
-    positionFooter();
-  }, 100);
 }
 
 function renderQuery(query) {
@@ -511,6 +505,5 @@ function renderQuery(query) {
 
   setTimeout(function () {
     positionFooter();
-    setIsLoading(false);
   }, 100);
 }
