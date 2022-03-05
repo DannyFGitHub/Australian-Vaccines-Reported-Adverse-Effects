@@ -21,15 +21,6 @@ $.urlParam = function (name) {
   }
 };
 
-var fileReaderOpts = {
-  readAsDefault: "ArrayBuffer",
-  on: {
-    load: function (e, file) {
-      loadDB(e.target.result);
-    },
-  },
-};
-
 var selectFormatter = function (item) {
   var index = item.text.indexOf("(");
   if (index > -1) {
@@ -100,7 +91,9 @@ $(".no-propagate").on("click", function (el) {
   el.stopPropagation();
 });
 
-setIsLoading(true);
+$(document).ready(() => {
+  documentsetIsLoading(true);
+});
 
 //Check url to load remote DB
 var loadUrlDB = "CaseListings.sqlite3"; //$.urlParam("url");
