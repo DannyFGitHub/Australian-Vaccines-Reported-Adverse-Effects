@@ -118,7 +118,7 @@ $(".no-propagate").on("click", function (el) {
 
 //Check url to load remote DB
 var loadUrlDB =
-  "https://dannyfgithub.github.io/Australian-Vaccines-Reported-Adverse-Effects/CaseListings.sqlite3"; //$.urlParam("url");
+  "Australian-Vaccines-Reported-Adverse-Effects/CaseListings.sqlite3"; //$.urlParam("url");
 if (loadUrlDB != null) {
   setIsLoading(true);
   var xhr = new XMLHttpRequest();
