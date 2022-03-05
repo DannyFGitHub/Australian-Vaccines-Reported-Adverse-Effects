@@ -358,10 +358,17 @@ function htmlEncode(value) {
   return $("<div/>").text(value).html();
 }
 
+function camelCaseToCapitalisation(value) {
+  var valueText = value.replace(/([A-Z])/g, " $1");
+  valueText = valueText.charAt(0).toUpperCase() + valueText.slice(1);
+  valueText = htmlEncode(valueText);
+  return valueText;
+}
+
 function renderQueryInCardsGrid(query) {
   var dataBox = $("#data-cards");
   errorBox.hide();
-  dataBox.empty();
+  dataBox.html("");
   dataBox.show();
 
   var columnTypes = [];
@@ -379,129 +386,160 @@ function renderQueryInCardsGrid(query) {
   }
 
   while (sel.step()) {
-    // var row = sel.getAsObject();
-    // var card = $("<div class='card'></div>");
-    // var cardBody = $("<div class='card-body'></div>");
-    // var cardText = $("<p class='card-text'></p>");
-    // for (var i = 0; i < row.length; i++) {
-    //   var value = row[i];
-    //   if (typeof value === "undefined") {
-    //     value = "";
-    //   }
-    //   var columnType = columnTypes[i];
-    //   if (columnType == "TEXT") {
-    //     value = htmlEncode(value);
-    //   }
-    //   cardText.append(
-    //     "<span class='badge badge-secondary'>" +
-    //       columnTypes[i] +
-    //       "</span> " +
-    //       value +
-    //       "<br>"
-    //   );
-    // }
-    // cardBody.append("<h6 class='card-title'>" + tableName + "</h6>");
-    // cardBody.append(cardText);
-    // card.append(cardBody);
-    // for (var i = 0; i < columnNames.length; i++) {
-    // var type = columnTypes[columnNames[i]];
-    // // Create row class div with bootstrap card inside
-    // dataBox.append(
-    //   '<div class="card">' +
-    //     '<div class="card-body">' +
-    //     '<div class="card-body-inner">' +
-    //     "<span>" +
-    //     columnNames[i] +
-    //     "</span>" +
-    //     "</div>" +
-    //     "</div>" +
-    //     '<div class="card-footer">' +
-    //     '<div class="card-footer-inner">' +
-    //     "<span>" +
-    //     // htmlEncode(sel.getString(i)) +
-    //     JSON.stringify() +
-    //     "</span>" +
-    //     "</div>" +
-    //     "</div>" +
-    //     "</div>"
-    // );
-    // }
-    // var tr = $("<div>");
-    // var s = sel.get;
-    // for (var i = 0; i < s.length; i++) {
-    //   tr.append(
-    //     '<div><span title="' +
-    //       htmlEncode(s[i]) +
-    //       '">' +
-    //       htmlEncode(s[i]) +
-    //       "</span></div>"
-    //   );
-    // }
-    // dataBox.append(card);
+    var column = $("<div class='col'></div>");
+    var card = $("<div class='card h-100 text-dark bg-light mb-3'></div>");
+    var cardHeader = $("<div class='card-header'></div>");
+    var cardBody = $("<div class='card-body'></div>");
+    var cardText = $("<div class='row'></p>");
+    var cardFooter = $("<div class='card-footer row'></div>");
+    var row = sel.getAsObject();
+
+    var meddraReactionTerms = "meddraReactionTerms";
+    cardText.append(
+      "<div class='col-12'><div><strong>" +
+        camelCaseToCapitalisation(meddraReactionTerms) +
+        '</strong></div><div class="row">' +
+        htmlEncode(row[meddraReactionTerms])
+          .split(",")
+          .map((v) => {
+            return "<div class='col-4'><small>" + v + "</small></div>";
+          })
+          .join("") +
+        "</div></div>"
+    );
+
+    var medicinesReportedAsBeingTaken = "medicinesReportedAsBeingTaken";
+    cardText.append(
+      "<div class='col-12'><div><strong>" +
+        camelCaseToCapitalisation(medicinesReportedAsBeingTaken) +
+        "</strong></div>" +
+        htmlEncode(row.medicinesReportedAsBeingTaken)
+          .split(",")
+          .map((v) => {
+            return "<p><small>" + v + "</small></p>";
+          })
+          .join("") +
+        "</div>"
+    );
+
+    var caseNumber = "caseNumber";
+    cardFooter.append(
+      "<div class='col-6'><small>" +
+        camelCaseToCapitalisation(caseNumber) +
+        ":</small> <span>" +
+        row[caseNumber] +
+        "</span></div>"
+    );
+
+    var reportEntryDate = "reportEntryDate";
+    let reportEntryDateStringValue = "";
+    try {
+      reportEntryDateStringValue = new Date(
+        row[reportEntryDate]
+      ).toLocaleDateString();
+    } catch (e) {}
+    cardFooter.append(
+      "<div class='col-6'><small>" +
+        camelCaseToCapitalisation(reportEntryDate) +
+        ":</small> <span>" +
+        reportEntryDateStringValue +
+        "</span></div>"
+    );
+
+    cardHeader.append(tableName);
+
+    var age = "age";
+    var gender = "gender";
+    cardBody.append(
+      "<h6 class='card-title'><div><small>" +
+        camelCaseToCapitalisation(age) +
+        ":</small> " +
+        row[age] +
+        "</div><div>" +
+        "<small>" +
+        camelCaseToCapitalisation(gender) +
+        ":</small> " +
+        row[gender] +
+        "</div></h6>"
+    );
+
+    cardBody.append(cardText);
+    card.append(cardHeader);
+    card.append(cardBody);
+    card.append(cardFooter);
+
+    column.append(card);
+    dataBox.append(column);
   }
 }
 
 function renderQuery(query) {
-  renderQueryInCardsGrid(query);
+  $("#data-cards").html("");
+  $("#data").hide();
 
-  var dataBox = $("#data");
-  var thead = dataBox.find("thead").find("tr");
-  var tbody = dataBox.find("tbody");
+  if ($("#flexSwitchViewType").is(":checked")) {
+    renderQueryInCardsGrid(query);
+  } else {
+    var dataBox = $("#data");
+    var thead = dataBox.find("thead").find("tr");
+    var tbody = dataBox.find("tbody");
 
-  thead.empty();
-  tbody.empty();
-  errorBox.hide();
-  dataBox.show();
+    thead.empty();
+    tbody.empty();
+    errorBox.hide();
+    dataBox.show();
 
-  var columnTypes = [];
-  var tableName = getTableNameFromQuery(query);
-  if (tableName != null) {
-    columnTypes = getTableColumnTypes(tableName);
-  }
+    var columnTypes = [];
+    var tableName = getTableNameFromQuery(query);
+    if (tableName != null) {
+      columnTypes = getTableColumnTypes(tableName);
+    }
 
-  var sel;
-  try {
-    sel = db.prepare(query);
-  } catch (ex) {
-    showError(ex);
-    return;
-  }
+    var sel;
+    try {
+      sel = db.prepare(query);
+    } catch (ex) {
+      showError(ex);
+      return;
+    }
 
-  var addedColums = false;
-  while (sel.step()) {
-    if (!addedColums) {
-      addedColums = true;
-      var columnNames = sel.getColumnNames();
-      for (var i = 0; i < columnNames.length; i++) {
-        var type = columnTypes[columnNames[i]];
-        thead.append(
-          '<th><span data-bs-toggle="tooltip" data-bs-placement="top" data-bs-html="true" title="' +
-            type +
+    var addedColums = false;
+    while (sel.step()) {
+      if (!addedColums) {
+        addedColums = true;
+        var columnNames = sel.getColumnNames();
+        for (var i = 0; i < columnNames.length; i++) {
+          var type = columnTypes[columnNames[i]];
+          thead.append(
+            '<th><span data-bs-toggle="tooltip" data-bs-placement="top" data-bs-html="true" title="' +
+              type +
+              '">' +
+              columnNames[i] +
+              "</span></th>"
+          );
+        }
+      }
+
+      var tr = $("<tr>");
+      var s = sel.get();
+      for (var i = 0; i < s.length; i++) {
+        tr.append(
+          '<td><span title="' +
+            htmlEncode(s[i]) +
             '">' +
-            columnNames[i] +
-            "</span></th>"
+            htmlEncode(s[i]) +
+            "</span></td>"
         );
       }
+      tbody.append(tr);
     }
 
-    var tr = $("<tr>");
-    var s = sel.get();
-    for (var i = 0; i < s.length; i++) {
-      tr.append(
-        '<td><span title="' +
-          htmlEncode(s[i]) +
-          '">' +
-          htmlEncode(s[i]) +
-          "</span></td>"
-      );
-    }
-    tbody.append(tr);
+    dataBox.editableTableWidget();
   }
 
   refreshPagination(query, tableName);
 
   $('[data-bs-toggle="tooltip"]').tooltip({ html: true });
-  dataBox.editableTableWidget();
 
   setTimeout(function () {
     positionFooter();
