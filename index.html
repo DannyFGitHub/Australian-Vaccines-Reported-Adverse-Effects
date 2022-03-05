@@ -91,6 +91,24 @@
               </a>
               .
             </p>
+            <div>
+              <div>
+                <strong>Why SQL Queries?</strong>
+              </div>
+              SQL Queries are the most flexible and powerful for querying
+              information.
+              <p>For example, try:</p>
+              <small>
+                Select everything from the AstraZeneca table where age is 20 and
+                gender is Female:
+              </small>
+
+              <p>
+                <code>
+                  SELECT * FROM 'AstraZeneca' WHERE age="20" and gender="F"
+                </code>
+              </p>
+            </div>
           </div>
         </div>
       </div>
@@ -113,15 +131,14 @@
       </div>
     </div>
 
-    <div id="output-box" class="container">
+    <div id="output-box" class="container-fluid">
       <div class="row">
         <div class="col-12">
           <select
             id="tables"
             class="form-control select2"
             title="Table"
-          ></select
-          ><br />
+          ></select>
         </div>
 
         <div class="col-12 my-2">
@@ -158,6 +175,12 @@
             >
               Run Query
             </button>
+          </div>
+        </div>
+
+        <div class="col-12">
+          <div class="d-flex align-items-center justify-content-start m-2">
+            <div id="total-result-count" class="fs-4"></div>
           </div>
         </div>
 

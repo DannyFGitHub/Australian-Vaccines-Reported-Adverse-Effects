@@ -385,6 +385,7 @@ function renderQueryInCardsGrid(query) {
     return;
   }
 
+  var itemCount = 0;
   while (sel.step()) {
     var column = $("<div class='col'></div>");
     var card = $("<div class='card h-100 text-dark bg-light mb-3'></div>");
@@ -470,7 +471,11 @@ function renderQueryInCardsGrid(query) {
 
     column.append(card);
     dataBox.append(column);
+
+    itemCount++;
   }
+
+  $("#total-result-count").html("Current Page Count: " + itemCount);
 }
 
 function renderQuery(query) {
@@ -503,6 +508,7 @@ function renderQuery(query) {
       return;
     }
 
+    var itemCount = 0;
     var addedColums = false;
     while (sel.step()) {
       if (!addedColums) {
@@ -532,9 +538,13 @@ function renderQuery(query) {
         );
       }
       tbody.append(tr);
+
+      itemCount++;
     }
 
     dataBox.editableTableWidget();
+
+    $("#total-result-count").html("Results: " + itemCount);
   }
 
   refreshPagination(query, tableName);
