@@ -91,10 +91,6 @@ $(".no-propagate").on("click", function (el) {
   el.stopPropagation();
 });
 
-$(document).ready(() => {
-  documentsetIsLoading(true);
-});
-
 //Check url to load remote DB
 var loadUrlDB = "CaseListings.sqlite3"; //$.urlParam("url");
 var xhr = new XMLHttpRequest();
@@ -233,13 +229,10 @@ function resetTableList() {
 }
 
 function setIsLoading(isLoading) {
-  var dropText = $("#drop-text");
   var loading = $("#loading-box");
   if (isLoading) {
-    dropText.hide();
     loading.show();
   } else {
-    dropText.show();
     loading.hide();
   }
 }
