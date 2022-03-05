@@ -116,25 +116,15 @@ $(".no-propagate").on("click", function (el) {
   el.stopPropagation();
 });
 
-function showLoading() {
-  $("#loading-box").show();
-}
-
-function hideLoading() {
-  $("#loading-box").hide();
-}
-
 //Check url to load remote DB
 var loadUrlDB = "CaseListings.sqlite3"; //$.urlParam("url");
 if (loadUrlDB != null) {
-  showLoading();
   setIsLoading(true);
   var xhr = new XMLHttpRequest();
   xhr.open("GET", decodeURIComponent(loadUrlDB), true);
   xhr.responseType = "arraybuffer";
 
   xhr.onload = function (e) {
-    hideLoading();
     loadDB(this.response);
   };
   xhr.onerror = function (e) {
@@ -269,7 +259,7 @@ function resetTableList() {
 
 function setIsLoading(isLoading) {
   var dropText = $("#drop-text");
-  var loading = $("#drop-loading");
+  var loading = $("#loading-box");
   if (isLoading) {
     dropText.hide();
     loading.show();
