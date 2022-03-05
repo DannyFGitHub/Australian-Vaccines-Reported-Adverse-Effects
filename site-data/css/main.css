@@ -40,8 +40,8 @@ footer small a {
 }
 
 #header {
-  background: #a0cfff;
-  color: #3474a8;
+  background: #08417a;
+  color: #acd9ff;
   padding: 16px;
   margin-left: -15px;
   margin-right: -15px;
@@ -49,33 +49,6 @@ footer small a {
 
 #header h3 {
   margin: 0;
-}
-
-#resizer {
-  font-size: 26px;
-}
-
-#resizer i {
-  padding-top: 15px;
-}
-
-#resizer i.glyphicon-resize-small {
-  margin-right: 120px;
-}
-
-#dropzone {
-  height: 450px;
-  width: 100%;
-  font-size: 1.2em;
-  cursor: pointer;
-  text-align: center;
-  display: table;
-  table-layout: fixed;
-}
-
-#dropzone .panel-body {
-  display: table-cell;
-  vertical-align: middle;
 }
 
 #output-box {
@@ -153,12 +126,6 @@ a:hover {
 
 .ribbon {
   z-index: 3;
-}
-/* Animated loading icon */
-
-.glyphicon-refresh-animate {
-  -animation: spin 0.7s infinite linear;
-  -webkit-animation: spin2 0.7s infinite linear;
 }
 
 @-webkit-keyframes spin2 {

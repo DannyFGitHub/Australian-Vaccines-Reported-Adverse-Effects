@@ -80,13 +80,6 @@ var positionFooter = function () {
   }
 };
 
-if (typeof FileReader === "undefined") {
-  $("#dropzone, #dropzone-dialog").hide();
-  $("#compat-error").show();
-} else {
-  $("#dropzone, #dropzone-dialog").fileReaderJS(fileReaderOpts);
-}
-
 //Initialize editor
 editor.setTheme("ace/theme/chrome");
 editor.renderer.setShowGutter(false);
@@ -109,20 +102,18 @@ $(".no-propagate").on("click", function (el) {
 
 //Check url to load remote DB
 var loadUrlDB = "CaseListings.sqlite3"; //$.urlParam("url");
-if (loadUrlDB != null) {
-  setIsLoading(true);
-  var xhr = new XMLHttpRequest();
-  xhr.open("GET", decodeURIComponent(loadUrlDB), true);
-  xhr.responseType = "arraybuffer";
+setIsLoading(true);
+var xhr = new XMLHttpRequest();
+xhr.open("GET", decodeURIComponent(loadUrlDB), true);
+xhr.responseType = "arraybuffer";
 
-  xhr.onload = function (e) {
-    loadDB(this.response);
-  };
-  xhr.onerror = function (e) {
-    setIsLoading(false);
-  };
-  xhr.send();
-}
+xhr.onload = function (e) {
+  loadDB(this.response);
+};
+xhr.onerror = function (e) {
+  setIsLoading(false);
+};
+xhr.send();
 
 function loadDB(arrayBuffer) {
   setIsLoading(true);
@@ -174,7 +165,6 @@ function loadDB(arrayBuffer) {
     $("#output-box").fadeIn();
     $(".nouploadinfo").hide();
     $("#sample-db-link").hide();
-    $("#dropzone").delay(50).animate({ height: 50 }, 500);
     $("#success-box").show();
 
     setIsLoading(false);
@@ -258,19 +248,6 @@ function setIsLoading(isLoading) {
     dropText.show();
     loading.hide();
   }
-}
-
-function extractFileNameWithoutExt(filename) {
-  var dotIndex = filename.lastIndexOf(".");
-  if (dotIndex > -1) {
-    return filename.substr(0, dotIndex);
-  } else {
-    return filename;
-  }
-}
-
-function dropzoneClick() {
-  $("#dropzone-dialog").click();
 }
 
 function doDefaultSelect(name) {
@@ -362,7 +339,7 @@ function refreshPagination(query, tableName) {
   if (limit !== null && limit.pages > 0) {
     var pager = $("#pager");
     pager.attr("title", "Row count: " + limit.rowCount);
-    pager.tooltip("fixTitle");
+    pager.tooltip("_fixTitle");
     pager.text(limit.currentPage + " / " + limit.pages);
 
     if (limit.currentPage <= 1) {
@@ -394,7 +371,98 @@ function htmlEncode(value) {
   return $("<div/>").text(value).html();
 }
 
+function renderQueryInCardsGrid(query) {
+  var dataBox = $("#data-cards");
+  errorBox.hide();
+  dataBox.empty();
+  dataBox.show();
+
+  var columnTypes = [];
+  var tableName = getTableNameFromQuery(query);
+  if (tableName != null) {
+    columnTypes = getTableColumnTypes(tableName);
+  }
+
+  var sel;
+  try {
+    sel = db.prepare(query);
+  } catch (ex) {
+    showError(ex);
+    return;
+  }
+
+  while (sel.step()) {
+    // var row = sel.getAsObject();
+    // var card = $("<div class='card'></div>");
+    // var cardBody = $("<div class='card-body'></div>");
+    // var cardText = $("<p class='card-text'></p>");
+    // for (var i = 0; i < row.length; i++) {
+    //   var value = row[i];
+    //   if (typeof value === "undefined") {
+    //     value = "";
+    //   }
+    //   var columnType = columnTypes[i];
+    //   if (columnType == "TEXT") {
+    //     value = htmlEncode(value);
+    //   }
+    //   cardText.append(
+    //     "<span class='badge badge-secondary'>" +
+    //       columnTypes[i] +
+    //       "</span> " +
+    //       value +
+    //       "<br>"
+    //   );
+    // }
+    // cardBody.append("<h6 class='card-title'>" + tableName + "</h6>");
+    // cardBody.append(cardText);
+    // card.append(cardBody);
+    // for (var i = 0; i < columnNames.length; i++) {
+    // var type = columnTypes[columnNames[i]];
+    // // Create row class div with bootstrap card inside
+    // dataBox.append(
+    //   '<div class="card">' +
+    //     '<div class="card-body">' +
+    //     '<div class="card-body-inner">' +
+    //     "<span>" +
+    //     columnNames[i] +
+    //     "</span>" +
+    //     "</div>" +
+    //     "</div>" +
+    //     '<div class="card-footer">' +
+    //     '<div class="card-footer-inner">' +
+    //     "<span>" +
+    //     // htmlEncode(sel.getString(i)) +
+    //     JSON.stringify() +
+    //     "</span>" +
+    //     "</div>" +
+    //     "</div>" +
+    //     "</div>"
+    // );
+    // }
+    // var tr = $("<div>");
+    // var s = sel.get;
+    // for (var i = 0; i < s.length; i++) {
+    //   tr.append(
+    //     '<div><span title="' +
+    //       htmlEncode(s[i]) +
+    //       '">' +
+    //       htmlEncode(s[i]) +
+    //       "</span></div>"
+    //   );
+    // }
+    // dataBox.append(card);
+  }
+
+  refreshPagination(query, tableName);
+
+  setTimeout(function () {
+    positionFooter();
+  }, 100);
+}
+
 function renderQuery(query) {
+  renderQueryInCardsGrid(query);
+
   var dataBox = $("#data");
   var thead = dataBox.find("thead").find("tr");
   var tbody = dataBox.find("tbody");
@@ -426,7 +494,7 @@ function renderQuery(query) {
       for (var i = 0; i < columnNames.length; i++) {
         var type = columnTypes[columnNames[i]];
         thead.append(
-          '<th><span data-toggle="tooltip" data-placement="top" title="' +
+          '<th><span data-bs-toggle="tooltip" data-bs-placement="top" data-bs-html="true" title="' +
             type +
             '">' +
             columnNames[i] +
@@ -451,7 +519,7 @@ function renderQuery(query) {
 
   refreshPagination(query, tableName);
 
-  $('[data-toggle="tooltip"]').tooltip({ html: true });
+  $('[data-bs-toggle="tooltip"]').tooltip({ html: true });
   dataBox.editableTableWidget();
 
   setTimeout(function () {
