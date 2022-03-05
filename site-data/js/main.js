@@ -388,7 +388,9 @@ function renderQueryInCardsGrid(query) {
   var itemCount = 0;
   while (sel.step()) {
     var column = $("<div class='col'></div>");
-    var card = $("<div class='card h-100 text-dark bg-light mb-3'></div>");
+    var card = $(
+      "<div class='card h-100 border-dark text-white bg-secondary'></div>"
+    );
     var cardHeader = $("<div class='card-header'></div>");
     var cardBody = $("<div class='card-body'></div>");
     var cardText = $("<div class='row'></p>");
@@ -397,13 +399,17 @@ function renderQueryInCardsGrid(query) {
 
     var meddraReactionTerms = "meddraReactionTerms";
     cardText.append(
-      "<div class='col-12'><div><strong>" +
+      "<hr/><div class='col-12 mb-4'><div><strong>" +
         camelCaseToCapitalisation(meddraReactionTerms) +
         '</strong></div><div class="row">' +
         htmlEncode(row[meddraReactionTerms])
           .split(",")
           .map((v) => {
-            return "<div class='col-4'><small>" + v + "</small></div>";
+            return (
+              "<div class='col-4'><div class='p-2'><li><em>" +
+              v +
+              "</em></li></div></div>"
+            );
           })
           .join("") +
         "</div></div>"
@@ -411,7 +417,7 @@ function renderQueryInCardsGrid(query) {
 
     var medicinesReportedAsBeingTaken = "medicinesReportedAsBeingTaken";
     cardText.append(
-      "<div class='col-12'><div><strong>" +
+      "<hr/><div class='col-12'><div><strong>" +
         camelCaseToCapitalisation(medicinesReportedAsBeingTaken) +
         "</strong></div>" +
         htmlEncode(row.medicinesReportedAsBeingTaken)
@@ -427,9 +433,9 @@ function renderQueryInCardsGrid(query) {
     cardFooter.append(
       "<div class='col-6'><small>" +
         camelCaseToCapitalisation(caseNumber) +
-        ":</small> <span>" +
+        ":</small> <div><strong>" +
         row[caseNumber] +
-        "</span></div>"
+        "</strong></div></div>"
     );
 
     var reportEntryDate = "reportEntryDate";
@@ -442,25 +448,74 @@ function renderQueryInCardsGrid(query) {
     cardFooter.append(
       "<div class='col-6'><small>" +
         camelCaseToCapitalisation(reportEntryDate) +
-        ":</small> <span>" +
+        ":</small> <div><strong><em>" +
         reportEntryDateStringValue +
-        "</span></div>"
+        "</em></strong></div></div>"
     );
 
     cardHeader.append(tableName);
 
     var age = "age";
     var gender = "gender";
+    var ageValueString = row[age] + "";
+    var genderValueString = row[gender] + "";
+
+    var ageCharacter = "";
+    var ageValueInt = -1;
+    try {
+      ageValueInt = parseInt(ageValueString);
+    } catch (e) {
+      ageValueInt = -1;
+    }
+    var genderValue = genderValueString.toLowerCase();
+
+    if (genderValue === "m") {
+      if (ageValueString.trim() === "< 1") {
+        ageCharacter =
+          '<img src="site-data/img/baby-boy.png" class="card-img-top" style="height: 50px; width: 50px" alt="">';
+      } else if (ageValueInt > 0 && ageValueInt < 16) {
+        ageCharacter =
+          '<img src="site-data/img/little-boy.png" class="card-img-top" style="height: 50px; width: 50px" alt="...">';
+      } else if (ageValueInt >= 16 && ageValueInt < 30) {
+        ageCharacter =
+          '<img src="site-data/img/young-man.png" class="card-img-top" style="height: 50px; width: 50px" alt="...">';
+      } else if (ageValueInt >= 30 && ageValueInt < 60) {
+        ageCharacter =
+          '<img src="site-data/img/mature-man.png" class="card-img-top" style="height: 50px; width: 50px" alt="...">';
+      } else if (ageValueInt >= 60) {
+        ageCharacter =
+          '<img src="site-data/img/old-man.png" class="card-img-top" style="height: 50px; width: 50px" alt="...">';
+      }
+    } else if (genderValue === "f") {
+      if (ageValueString.trim() === "< 1") {
+        ageCharacter =
+          '<img src="site-data/img/baby-girl.png" class="card-img-top" style="height: 50px; width: 50px" alt="...">';
+      } else if (ageValueInt > 0 && ageValueInt < 16) {
+        ageCharacter =
+          '<img src="site-data/img/little-girl.png" class="card-img-top" style="height: 50px; width: 50px" alt="...">';
+      } else if (ageValueInt >= 16 && ageValueInt < 30) {
+        ageCharacter =
+          '<img src="site-data/img/young-woman.png" class="card-img-top" style="height: 50px; width: 50px" alt="...">';
+      } else if (ageValueInt >= 30 && ageValueInt < 60) {
+        ageCharacter =
+          '<img src="site-data/img/mature-woman.png" class="card-img-top" style="height: 50px; width: 50px" alt="...">';
+      } else if (ageValueInt >= 60) {
+        ageCharacter =
+          '<img src="site-data/img/old-woman.png" class="card-img-top" style="height: 50px; width: 50px" alt="...">';
+      }
+    }
+
     cardBody.append(
-      "<h6 class='card-title'><div><small>" +
+      ageCharacter +
+        "<h6 class='card-title'><div><small>" +
         camelCaseToCapitalisation(age) +
         ":</small> " +
-        row[age] +
+        ageValueString +
         "</div><div>" +
         "<small>" +
         camelCaseToCapitalisation(gender) +
         ":</small> " +
-        row[gender] +
+        genderValueString +
         "</div></h6>"
     );
 
