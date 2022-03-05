@@ -125,8 +125,7 @@ function hideLoading() {
 }
 
 //Check url to load remote DB
-var loadUrlDB =
-  "Australian-Vaccines-Reported-Adverse-Effects/CaseListings.sqlite3"; //$.urlParam("url");
+var loadUrlDB = "CaseListings.sqlite3"; //$.urlParam("url");
 if (loadUrlDB != null) {
   showLoading();
   setIsLoading(true);
