@@ -1,4 +1,4 @@
-# DAEN Adverse Effects Reports for Australian Vaccines
+# DAEN Adverse Effects Reports for Australian COVID-19 Injection rollout
 
 DAEN's site for obtaining reports on medicine adverse effects is slow, and sadly, if we were to depend on their built-in "Generate a PDF report" reporting function to run our own analysis, we are greeted with this error:
 
