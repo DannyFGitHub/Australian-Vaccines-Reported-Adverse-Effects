@@ -603,7 +603,7 @@ function renderQuery(query) {
 
     dataBox.editableTableWidget();
 
-    $("#total-result-count").html("Results: " + itemCount);
+    $("#total-result-count").html("Current Page Count: " + itemCount);
   }
 
   refreshPagination(query, tableName);
