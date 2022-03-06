@@ -243,7 +243,21 @@
         </button>
       </div>
     </div>
-
+    <script type="module">
+      import { initializeApp } from "https://www.gstatic.com/firebasejs/9.6.8/firebase-app.js";
+      import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.6.8/firebase-analytics.js";
+      const firebaseConfig = {
+        apiKey: "AIzaSyBuUc-N3IbzUBJ3uCfzadcjkUiqZtkXN-E",
+        authDomain: "adverse-events-dashboard.firebaseapp.com",
+        projectId: "adverse-events-dashboard",
+        storageBucket: "adverse-events-dashboard.appspot.com",
+        messagingSenderId: "345937906130",
+        appId: "1:345937906130:web:ee7254f267fa68612ce00b",
+        measurementId: "G-S7G79Z5J6L",
+      };
+      const app = initializeApp(firebaseConfig);
+      const analytics = getAnalytics(app);
+    </script>
     <script src="site-data/js/jquery-1.11.3.min.js"></script>
     <script src="site-data/js/filereader.js"></script>
     <script src="site-data/js/sql.js"></script>
