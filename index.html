@@ -75,10 +75,7 @@
               </a>
               site.
             </p>
-            <p>
-              To query the data on this page you need to use
-              <a href="query.html">SQL queries</a>.
-            </p>
+            <p>To query the data on this page you need to use SQL queries.</p>
             <ul>
               <li>Use the SQL query editor to prepare your query.</li>
               <li>Click Run Query to view your results.</li>
@@ -108,6 +105,32 @@
                   SELECT * FROM 'AstraZeneca' WHERE age="20" and gender="F"
                 </code>
               </p>
+
+              <p>
+                The columns or fields available for case listings from DAEN are:
+                <code>
+                  caseNumber age gender reportEntryDate meddraReactionTerms
+                  medicinesReportedAsBeingTaken
+                </code>
+              </p>
+
+              <div>
+                You will be able to navigate between pages using the buttons at
+                the bottom of this page. Alternatively, clicking on the current
+                page number to set the page number manually.
+              </div>
+
+              <div>
+                Adding "LIMIT 0,30" to your query, means: "limit the results to
+                30 per page". You can increase the number 30 to any number you
+                like. Please consider that any number above 1000 will take up
+                computing power and may freeze the page on some devices.
+              </div>
+
+              <div>
+                If you would like to improve and add features to this site,
+                please fork and submit a pull request.
+              </div>
             </div>
           </div>
         </div>
