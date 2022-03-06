@@ -1,6 +1,6 @@
-# DAEN Adverse Effects Reports for Australian COVID-19 Injection rollout
+# DAEN Adverse Events Reports for Australian COVID-19 Injection rollout
 
-DAEN's site for obtaining reports on medicine adverse effects is slow, and sadly, if we were to depend on their built-in "Generate a PDF report" reporting function to run our own analysis, we are greeted with this error:
+DAEN's site for obtaining reports on medicine adverse event is slow, and sadly, if we were to depend on their built-in "Generate a PDF report" reporting function to run our own analysis, we are greeted with this error:
 
 ```
 To improve performance for the large number of users searching DAEN Medicines,
@@ -17,7 +17,7 @@ whether a medicine or vaccine is safe.
 
 But researchers aren't interested in a pre-masticated report.
 
-In the name of all researchers out there, we are providing a WIP export from the beginning of time to the most current date possible of Australian COVID-19 vaccines adverse effect data that we could find on the DAEN site.
+In the name of all researchers out there, we are providing a WIP export from the beginning of time to the most current date possible of Australian COVID-19 vaccines adverse events data that we could find on the DAEN site.
 
 We were able to locate 3 out of 4 approved vaccine data on the DAEN site. These include:
 
