@@ -143,8 +143,8 @@
     "age": "36",
     "gender": "M",
     "medicinesReportedAsBeingTaken": [
-      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected",
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
     ],
     "meddraReactionTerms": [
       "Tinnitus"
@@ -410,9 +410,9 @@
     "gender": "M",
     "medicinesReportedAsBeingTaken": [
       "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected",
-      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected",
+      "Somac (pantoprazole) - Not suspected",
       "Thyroxine (levothyroxine sodium) - Not suspected",
-      "Somac (pantoprazole) - Not suspected"
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected"
     ],
     "meddraReactionTerms": [
       "Arrhythmia",
