@@ -326,7 +326,11 @@ function refreshPagination(query, tableName) {
   if (limit !== null && limit.pages > 0) {
     var pager = $("#pager");
     pager.attr("title", "Row count: " + limit.rowCount);
-    pager.tooltip("_fixTitle");
+    try {
+      pager.tooltip("_fixTitle");
+    } catch (e) {
+      console.log(e);
+    }
     pager.text(limit.currentPage + " / " + limit.pages);
 
     if (limit.currentPage <= 1) {
