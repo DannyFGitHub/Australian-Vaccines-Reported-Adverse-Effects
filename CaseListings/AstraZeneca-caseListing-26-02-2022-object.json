@@ -1,0 +1,721 @@
+[
+  {
+    "caseNumber": "713828",
+    "reportEntryDate": "2022-02-24T00:00:00.000+11:00",
+    "age": "16",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Not suspected"
+    ],
+    "meddraReactionTerms": [
+      "Malaise",
+      "Nausea",
+      "Neuropathy peripheral",
+      "Peripheral swelling"
+    ]
+  },
+  {
+    "caseNumber": "713772",
+    "reportEntryDate": "2022-02-24T00:00:00.000+11:00",
+    "age": "17",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Product administered to patient of inappropriate age",
+      "Vaccination error"
+    ]
+  },
+  {
+    "caseNumber": "714143",
+    "reportEntryDate": "2022-02-25T00:00:00.000+11:00",
+    "age": "26",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Arthralgia"
+    ]
+  },
+  {
+    "caseNumber": "713814",
+    "reportEntryDate": "2022-02-24T00:00:00.000+11:00",
+    "age": "26",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Colitis ulcerative"
+    ]
+  },
+  {
+    "caseNumber": "713370",
+    "reportEntryDate": "2022-02-23T00:00:00.000+11:00",
+    "age": "32",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected"
+    ],
+    "meddraReactionTerms": [
+      "Vaccination error",
+      "Wrong product administered"
+    ]
+  },
+  {
+    "caseNumber": "713608",
+    "reportEntryDate": "2022-02-23T00:00:00.000+11:00",
+    "age": "33",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain",
+      "Dyspnoea",
+      "Echocardiogram",
+      "Electrocardiogram",
+      "Fatigue",
+      "Headache",
+      "Influenza like illness",
+      "Injection site reaction",
+      "Pericarditis",
+      "Troponin increased"
+    ]
+  },
+  {
+    "caseNumber": "714170",
+    "reportEntryDate": "2022-02-25T00:00:00.000+11:00",
+    "age": "34",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Alopecia",
+      "Headache",
+      "Myalgia"
+    ]
+  },
+  {
+    "caseNumber": "714140",
+    "reportEntryDate": "2022-02-25T00:00:00.000+11:00",
+    "age": "34",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Arthralgia",
+      "Chest pain",
+      "Concomitant disease aggravated",
+      "Dyspnoea",
+      "Fibrin D dimer increased",
+      "Headache",
+      "Malaise",
+      "Pulmonary embolism"
+    ]
+  },
+  {
+    "caseNumber": "713880",
+    "reportEntryDate": "2022-02-24T00:00:00.000+11:00",
+    "age": "34",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Conjunctival oedema",
+      "Eye pruritus",
+      "Headache",
+      "Paraesthesia",
+      "Urticaria"
+    ]
+  },
+  {
+    "caseNumber": "714157",
+    "reportEntryDate": "2022-02-25T00:00:00.000+11:00",
+    "age": "35",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Fatigue",
+      "Menstrual disorder",
+      "Menstruation delayed"
+    ]
+  },
+  {
+    "caseNumber": "713250",
+    "reportEntryDate": "2022-02-23T00:00:00.000+11:00",
+    "age": "36",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
+      "Keflex (cefalexin monohydrate) - Not suspected"
+    ],
+    "meddraReactionTerms": [
+      "Cyst",
+      "Intermenstrual bleeding",
+      "Menstrual disorder",
+      "Menstruation irregular",
+      "Paraesthesia"
+    ]
+  },
+  {
+    "caseNumber": "713863",
+    "reportEntryDate": "2022-02-24T00:00:00.000+11:00",
+    "age": "39",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Headache",
+      "Inappropriate schedule of product administration",
+      "Vaccination error"
+    ]
+  },
+  {
+    "caseNumber": "713550",
+    "reportEntryDate": "2022-02-23T00:00:00.000+11:00",
+    "age": "45",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Concomitant disease aggravated",
+      "Dizziness",
+      "Pericarditis",
+      "Postural orthostatic tachycardia syndrome",
+      "Pyrexia"
+    ]
+  },
+  {
+    "caseNumber": "714601",
+    "reportEntryDate": "2022-02-26T00:00:00.000+11:00",
+    "age": "52",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Tinnitus"
+    ]
+  },
+  {
+    "caseNumber": "714242",
+    "reportEntryDate": "2022-02-25T00:00:00.000+11:00",
+    "age": "52",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Dyspnoea"
+    ]
+  },
+  {
+    "caseNumber": "714583",
+    "reportEntryDate": "2022-02-26T00:00:00.000+11:00",
+    "age": "54",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Herpes zoster"
+    ]
+  },
+  {
+    "caseNumber": "714125",
+    "reportEntryDate": "2022-02-25T00:00:00.000+11:00",
+    "age": "55",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Injection site reaction",
+      "Myalgia",
+      "Neuralgia",
+      "Thyroiditis"
+    ]
+  },
+  {
+    "caseNumber": "713344",
+    "reportEntryDate": "2022-02-23T00:00:00.000+11:00",
+    "age": "56",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Abdominal pain",
+      "Chest pain",
+      "Headache"
+    ]
+  },
+  {
+    "caseNumber": "714387",
+    "reportEntryDate": "2022-02-25T00:00:00.000+11:00",
+    "age": "57",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Concomitant disease aggravated",
+      "Palpitations"
+    ]
+  },
+  {
+    "caseNumber": "713332",
+    "reportEntryDate": "2022-02-23T00:00:00.000+11:00",
+    "age": "59",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Abdominal pain upper",
+      "Depression",
+      "Diarrhoea",
+      "Dizziness",
+      "Headache",
+      "Inflammatory pain",
+      "Influenza like illness",
+      "Injection site reaction",
+      "Insomnia",
+      "Lethargy",
+      "Nausea",
+      "Vomiting"
+    ]
+  },
+  {
+    "caseNumber": "713384",
+    "reportEntryDate": "2022-02-23T00:00:00.000+11:00",
+    "age": "59",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Fatigue",
+      "Hypertension",
+      "Pain in extremity",
+      "Palpitations"
+    ]
+  },
+  {
+    "caseNumber": "714119",
+    "reportEntryDate": "2022-02-25T00:00:00.000+11:00",
+    "age": "60",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Lymphadenopathy",
+      "Myalgia",
+      "Pain in extremity"
+    ]
+  },
+  {
+    "caseNumber": "713266",
+    "reportEntryDate": "2022-02-23T00:00:00.000+11:00",
+    "age": "60",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Dyskinesia",
+      "Headache",
+      "Muscular weakness",
+      "Musculoskeletal stiffness"
+    ]
+  },
+  {
+    "caseNumber": "714107",
+    "reportEntryDate": "2022-02-25T00:00:00.000+11:00",
+    "age": "61",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Abdominal pain",
+      "Chills",
+      "Decreased appetite",
+      "Diarrhoea",
+      "Dizziness",
+      "Fatigue",
+      "Nausea",
+      "Pain",
+      "Pruritus",
+      "Rash",
+      "Somnolence"
+    ]
+  },
+  {
+    "caseNumber": "714074",
+    "reportEntryDate": "2022-02-25T00:00:00.000+11:00",
+    "age": "62",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Nasal congestion",
+      "Viral infection"
+    ]
+  },
+  {
+    "caseNumber": "714127",
+    "reportEntryDate": "2022-02-25T00:00:00.000+11:00",
+    "age": "63",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain",
+      "Dyspnoea exertional"
+    ]
+  },
+  {
+    "caseNumber": "713727",
+    "reportEntryDate": "2022-02-24T00:00:00.000+11:00",
+    "age": "64",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Pain in extremity"
+    ]
+  },
+  {
+    "caseNumber": "713725",
+    "reportEntryDate": "2022-02-24T00:00:00.000+11:00",
+    "age": "65",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain",
+      "Fatigue"
+    ]
+  },
+  {
+    "caseNumber": "713723",
+    "reportEntryDate": "2022-02-24T00:00:00.000+11:00",
+    "age": "65",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Headache"
+    ]
+  },
+  {
+    "caseNumber": "713343",
+    "reportEntryDate": "2022-02-23T00:00:00.000+11:00",
+    "age": "65",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Concomitant disease aggravated",
+      "Diarrhoea",
+      "Fatigue",
+      "Injection site pain",
+      "Myalgia",
+      "Oral candidiasis",
+      "Oropharyngeal pain",
+      "Pyrexia",
+      "Swelling",
+      "Upper-airway cough syndrome"
+    ]
+  },
+  {
+    "caseNumber": "714165",
+    "reportEntryDate": "2022-02-25T00:00:00.000+11:00",
+    "age": "66",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Rheumatoid arthritis"
+    ]
+  },
+  {
+    "caseNumber": "714171",
+    "reportEntryDate": "2022-02-25T00:00:00.000+11:00",
+    "age": "66",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Blood urine present",
+      "Renal pain"
+    ]
+  },
+  {
+    "caseNumber": "713767",
+    "reportEntryDate": "2022-02-24T00:00:00.000+11:00",
+    "age": "66",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Injection site reaction",
+      "Malaise",
+      "Pain in extremity"
+    ]
+  },
+  {
+    "caseNumber": "714077",
+    "reportEntryDate": "2022-02-25T00:00:00.000+11:00",
+    "age": "67",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Fatigue",
+      "Headache",
+      "Hypertension",
+      "Nausea",
+      "Presyncope"
+    ]
+  },
+  {
+    "caseNumber": "714577",
+    "reportEntryDate": "2022-02-26T00:00:00.000+11:00",
+    "age": "68",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Atrial fibrillation",
+      "Palpitations"
+    ]
+  },
+  {
+    "caseNumber": "713714",
+    "reportEntryDate": "2022-02-24T00:00:00.000+11:00",
+    "age": "68",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chills",
+      "Dizziness",
+      "Headache",
+      "Lethargy"
+    ]
+  },
+  {
+    "caseNumber": "714355",
+    "reportEntryDate": "2022-02-25T00:00:00.000+11:00",
+    "age": "69",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Thrombosis"
+    ]
+  },
+  {
+    "caseNumber": "714000",
+    "reportEntryDate": "2022-02-24T00:00:00.000+11:00",
+    "age": "69",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Bradycardia",
+      "Dizziness",
+      "Pulmonary embolism"
+    ]
+  },
+  {
+    "caseNumber": "714518",
+    "reportEntryDate": "2022-02-25T00:00:00.000+11:00",
+    "age": "70",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Drug tolerance"
+    ]
+  },
+  {
+    "caseNumber": "713286",
+    "reportEntryDate": "2022-02-23T00:00:00.000+11:00",
+    "age": "72",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Dyspnoea",
+      "Sleep disorder"
+    ]
+  },
+  {
+    "caseNumber": "713303",
+    "reportEntryDate": "2022-02-23T00:00:00.000+11:00",
+    "age": "72",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Polymyalgia rheumatica"
+    ]
+  },
+  {
+    "caseNumber": "713223",
+    "reportEntryDate": "2022-02-23T00:00:00.000+11:00",
+    "age": "76",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Angioedema",
+      "Lip swelling",
+      "Rash erythematous",
+      "Sensation of foreign body"
+    ]
+  },
+  {
+    "caseNumber": "713294",
+    "reportEntryDate": "2022-02-23T00:00:00.000+11:00",
+    "age": "76",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Muscular weakness"
+    ]
+  },
+  {
+    "caseNumber": "713385",
+    "reportEntryDate": "2022-02-23T00:00:00.000+11:00",
+    "age": "80",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Retinal vein occlusion"
+    ]
+  },
+  {
+    "caseNumber": "713649",
+    "reportEntryDate": "2022-02-24T00:00:00.000+11:00",
+    "age": "82",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Anticoagulation drug level below therapeutic",
+      "Encephalomalacia",
+      "Miller Fisher syndrome",
+      "Pneumonia aspiration",
+      "Subacute inflammatory demyelinating polyneuropathy"
+    ]
+  },
+  {
+    "caseNumber": "714207",
+    "reportEntryDate": "2022-02-25T00:00:00.000+11:00",
+    "age": "-",
+    "gender": "-",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Gingival bleeding"
+    ]
+  },
+  {
+    "caseNumber": "713678",
+    "reportEntryDate": "2022-02-24T00:00:00.000+11:00",
+    "age": "-",
+    "gender": "-",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Guillain-Barre syndrome"
+    ]
+  },
+  {
+    "caseNumber": "713669",
+    "reportEntryDate": "2022-02-24T00:00:00.000+11:00",
+    "age": "-",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Asthenia",
+      "Bradyphrenia",
+      "Dizziness",
+      "Fatigue",
+      "Grip strength decreased",
+      "Paraesthesia"
+    ]
+  },
+  {
+    "caseNumber": "713458",
+    "reportEntryDate": "2022-02-23T00:00:00.000+11:00",
+    "age": "-",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Expired product administered",
+      "Vaccination error"
+    ]
+  },
+  {
+    "caseNumber": "713456",
+    "reportEntryDate": "2022-02-23T00:00:00.000+11:00",
+    "age": "-",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Expired product administered",
+      "Vaccination error"
+    ]
+  }
+]
