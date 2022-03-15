@@ -1,29 +1,5 @@
 [
   [
-    "715858",
-    "01/03/2022",
-    "43",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Herpes (link is external) zoster (link is external)"
-  ],
-  [
-    "715892",
-    "01/03/2022",
-    "9",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "COVID-19 (link is external)"
-  ],
-  [
-    "715928",
-    "01/03/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Chest (link is external) discomfort (link is external) \n \n Dyspnoea (link is external) \n \n Fibrin (link is external) D (link is external) dimer (link is external) increased (link is external) \n \n Urticaria (link is external)"
-  ],
-  [
     "715492",
     "01/03/2022",
     "53",
@@ -96,28 +72,28 @@
     "Atrial (link is external) fibrillation (link is external)"
   ],
   [
-    "715866",
+    "715858",
     "01/03/2022",
-    "55",
+    "43",
     "F",
     "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Seizure (link is external)"
+    "Herpes (link is external) zoster (link is external)"
   ],
   [
-    "715874",
+    "715892",
     "01/03/2022",
-    "8",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Basedow's (link is external) disease (link is external)"
-  ],
-  [
-    "715969",
-    "01/03/2022",
-    "47",
+    "9",
     "F",
     "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Asthma (link is external) \n \n Depression (link is external) \n \n Diarrhoea (link is external) \n \n Tachycardia (link is external)"
+    "COVID-19 (link is external)"
+  ],
+  [
+    "715928",
+    "01/03/2022",
+    "-",
+    "F",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Chest (link is external) discomfort (link is external) \n \n Dyspnoea (link is external) \n \n Fibrin (link is external) D (link is external) dimer (link is external) increased (link is external) \n \n Urticaria (link is external)"
   ],
   [
     "715468",
@@ -296,52 +272,28 @@
     "Ovarian (link is external) cyst (link is external) ruptured (link is external)"
   ],
   [
-    "715860",
+    "715866",
     "01/03/2022",
-    "68",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Haematoma (link is external) muscle (link is external)"
-  ],
-  [
-    "715885",
-    "01/03/2022",
-    "70",
+    "55",
     "F",
     "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Diverticulitis (link is external)"
+    "Seizure (link is external)"
   ],
   [
-    "715887",
+    "715874",
     "01/03/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Gastric (link is external) ulcer (link is external)"
-  ],
-  [
-    "715917",
-    "01/03/2022",
-    "14",
+    "8",
     "M",
     "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Vaccination (link is external) error (link is external)"
+    "Basedow's (link is external) disease (link is external)"
   ],
   [
-    "715963",
-    "01/03/2022",
-    "26",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Pericarditis (link is external)"
-  ],
-  [
-    "715979",
+    "715969",
     "01/03/2022",
     "47",
     "F",
     "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Neuralgia (link is external)"
+    "Asthma (link is external) \n \n Depression (link is external) \n \n Diarrhoea (link is external) \n \n Tachycardia (link is external)"
   ],
   [
     "715472",
@@ -400,60 +352,52 @@
     "Herpes (link is external) zoster (link is external)"
   ],
   [
-    "715863",
+    "715860",
     "01/03/2022",
-    "62",
+    "68",
     "M",
     "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Appendicitis (link is external)"
+    "Haematoma (link is external) muscle (link is external)"
   ],
   [
-    "715868",
+    "715885",
     "01/03/2022",
-    "11",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Rash (link is external)"
-  ],
-  [
-    "715869",
-    "01/03/2022",
-    "5",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Food (link is external) allergy (link is external)"
-  ],
-  [
-    "715870",
-    "01/03/2022",
-    "85",
+    "70",
     "F",
     "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Small (link is external) intestinal (link is external) obstruction (link is external)"
+    "Diverticulitis (link is external)"
   ],
   [
-    "715883",
-    "01/03/2022",
-    "45",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Cholecystitis (link is external)"
-  ],
-  [
-    "715915",
-    "01/03/2022",
-    "5",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Syncope (link is external)"
-  ],
-  [
-    "715953",
+    "715887",
     "01/03/2022",
     "-",
     "F",
     "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Axillary (link is external) mass (link is external) \n \n Axillary (link is external) pain (link is external) \n \n Breast (link is external) pain (link is external) \n \n Contusion (link is external) \n \n Headache (link is external) \n \n Injection (link is external) site (link is external) swelling (link is external) \n \n Myalgia (link is external) \n \n Pyrexia (link is external)"
+    "Gastric (link is external) ulcer (link is external)"
+  ],
+  [
+    "715917",
+    "01/03/2022",
+    "14",
+    "M",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Vaccination (link is external) error (link is external)"
+  ],
+  [
+    "715963",
+    "01/03/2022",
+    "26",
+    "M",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Pericarditis (link is external)"
+  ],
+  [
+    "715979",
+    "01/03/2022",
+    "47",
+    "F",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Neuralgia (link is external)"
   ],
   [
     "715502",
@@ -568,6 +512,62 @@
     "Ovarian (link is external) cancer (link is external)"
   ],
   [
+    "715863",
+    "01/03/2022",
+    "62",
+    "M",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Appendicitis (link is external)"
+  ],
+  [
+    "715868",
+    "01/03/2022",
+    "11",
+    "M",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Rash (link is external)"
+  ],
+  [
+    "715869",
+    "01/03/2022",
+    "5",
+    "M",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Food (link is external) allergy (link is external)"
+  ],
+  [
+    "715870",
+    "01/03/2022",
+    "85",
+    "F",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Small (link is external) intestinal (link is external) obstruction (link is external)"
+  ],
+  [
+    "715883",
+    "01/03/2022",
+    "45",
+    "F",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Cholecystitis (link is external)"
+  ],
+  [
+    "715915",
+    "01/03/2022",
+    "5",
+    "M",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Syncope (link is external)"
+  ],
+  [
+    "715953",
+    "01/03/2022",
+    "-",
+    "F",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Axillary (link is external) mass (link is external) \n \n Axillary (link is external) pain (link is external) \n \n Breast (link is external) pain (link is external) \n \n Contusion (link is external) \n \n Headache (link is external) \n \n Injection (link is external) site (link is external) swelling (link is external) \n \n Myalgia (link is external) \n \n Pyrexia (link is external)"
+  ],
+  [
     "715406",
     "01/03/2022",
     "56",
@@ -590,14 +590,6 @@
     "F",
     "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
     "Asthenia (link is external) \n \n Chest (link is external) discomfort (link is external) \n \n Chest (link is external) pain (link is external) \n \n Cough (link is external) \n \n Dizziness (link is external) \n \n Dysphagia (link is external) \n \n Dysphonia (link is external) \n \n Dyspnoea (link is external) \n \n Fatigue (link is external) \n \n Feeling (link is external) abnormal (link is external) \n \n Feeling (link is external) cold (link is external) \n \n Hyponatraemia (link is external) \n \n Hypotension (link is external) \n \n Lethargy (link is external) \n \n Oropharyngeal (link is external) pain (link is external) \n \n Pain (link is external)"
-  ],
-  [
-    "715503",
-    "01/03/2022",
-    "21",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Fatigue (link is external) \n \n Infected (link is external) bite (link is external) \n \n Malaise (link is external)"
   ],
   [
     "715503",
@@ -704,76 +696,12 @@
     "Chest (link is external) pain (link is external)"
   ],
   [
-    "715854",
-    "01/03/2022",
-    "52",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Myocardial (link is external) infarction (link is external)"
-  ],
-  [
-    "715856",
-    "01/03/2022",
-    "39",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Gastritis (link is external)"
-  ],
-  [
-    "715862",
-    "01/03/2022",
-    "28",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Hemiplegic (link is external) migraine (link is external)"
-  ],
-  [
-    "715886",
-    "01/03/2022",
-    "5",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Asthma (link is external)"
-  ],
-  [
-    "715890",
+    "715889",
     "01/03/2022",
     "-",
-    "F",
+    "M",
     "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Intestinal (link is external) obstruction (link is external)"
-  ],
-  [
-    "715891",
-    "01/03/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Herpes (link is external) zoster (link is external)"
-  ],
-  [
-    "715902",
-    "01/03/2022",
-    "6",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Asthma (link is external)"
-  ],
-  [
-    "715959",
-    "01/03/2022",
-    "35",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Paraesthesia (link is external)"
-  ],
-  [
-    "715978",
-    "01/03/2022",
-    "-",
-    "-",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Dyspnoea (link is external) \n \n Headache (link is external) \n \n Myalgia (link is external)"
+    "Deafness (link is external)"
   ],
   [
     "715471",
@@ -856,52 +784,76 @@
     "Upper (link is external) respiratory (link is external) tract (link is external) infection (link is external)"
   ],
   [
-    "715872",
+    "715854",
+    "01/03/2022",
+    "52",
+    "F",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Myocardial (link is external) infarction (link is external)"
+  ],
+  [
+    "715856",
+    "01/03/2022",
+    "39",
+    "F",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Gastritis (link is external)"
+  ],
+  [
+    "715862",
+    "01/03/2022",
+    "28",
+    "F",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Hemiplegic (link is external) migraine (link is external)"
+  ],
+  [
+    "715886",
+    "01/03/2022",
+    "5",
+    "F",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Asthma (link is external)"
+  ],
+  [
+    "715890",
+    "01/03/2022",
+    "-",
+    "F",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Intestinal (link is external) obstruction (link is external)"
+  ],
+  [
+    "715891",
+    "01/03/2022",
+    "-",
+    "F",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Herpes (link is external) zoster (link is external)"
+  ],
+  [
+    "715902",
+    "01/03/2022",
+    "6",
+    "F",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Asthma (link is external)"
+  ],
+  [
+    "715959",
     "01/03/2022",
     "35",
     "F",
     "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Adverse (link is external) event (link is external) following (link is external) immunisation (link is external)"
+    "Paraesthesia (link is external)"
   ],
   [
-    "715882",
-    "01/03/2022",
-    "60",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Acute (link is external) coronary (link is external) syndrome (link is external) \n \n Splenomegaly (link is external)"
-  ],
-  [
-    "715899",
+    "715978",
     "01/03/2022",
     "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Lower (link is external) respiratory (link is external) tract (link is external) infection (link is external) \n \n Pneumonia (link is external)"
-  ],
-  [
-    "715909",
-    "01/03/2022",
     "-",
-    "F",
     "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Dysmenorrhoea (link is external) \n \n Menstrual (link is external) disorder (link is external) \n \n Menstruation (link is external) delayed (link is external) \n \n Menstruation (link is external) irregular (link is external)"
-  ],
-  [
-    "715918",
-    "01/03/2022",
-    "25",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Musculoskeletal (link is external) chest (link is external) pain (link is external) \n \n Splenomegaly (link is external)"
-  ],
-  [
-    "715992",
-    "01/03/2022",
-    "47",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Chest (link is external) pain (link is external) \n \n Injection (link is external) site (link is external) pain (link is external) \n \n Pyrexia (link is external)"
+    "Dyspnoea (link is external) \n \n Headache (link is external) \n \n Myalgia (link is external)"
   ],
   [
     "715443",
@@ -1000,6 +952,14 @@
     "Bronchitis (link is external) \n \n Nephrolithiasis (link is external) \n \n Superficial (link is external) vein (link is external) thrombosis (link is external)"
   ],
   [
+    "715743",
+    "01/03/2022",
+    "-",
+    "M",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Labyrinthitis (link is external)"
+  ],
+  [
     "715770",
     "01/03/2022",
     "-",
@@ -1064,52 +1024,52 @@
     "Ovarian (link is external) cyst (link is external)"
   ],
   [
+    "715872",
+    "01/03/2022",
+    "35",
+    "F",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Adverse (link is external) event (link is external) following (link is external) immunisation (link is external)"
+  ],
+  [
+    "715882",
+    "01/03/2022",
+    "60",
+    "F",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Acute (link is external) coronary (link is external) syndrome (link is external) \n \n Splenomegaly (link is external)"
+  ],
+  [
+    "715899",
+    "01/03/2022",
+    "-",
+    "M",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Lower (link is external) respiratory (link is external) tract (link is external) infection (link is external) \n \n Pneumonia (link is external)"
+  ],
+  [
+    "715909",
+    "01/03/2022",
+    "-",
+    "F",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Dysmenorrhoea (link is external) \n \n Menstrual (link is external) disorder (link is external) \n \n Menstruation (link is external) delayed (link is external) \n \n Menstruation (link is external) irregular (link is external)"
+  ],
+  [
+    "715918",
+    "01/03/2022",
+    "25",
+    "F",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Musculoskeletal (link is external) chest (link is external) pain (link is external) \n \n Splenomegaly (link is external)"
+  ],
+  [
     "715992",
     "01/03/2022",
     "47",
     "M",
     "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
     "Chest (link is external) pain (link is external) \n \n Injection (link is external) site (link is external) pain (link is external) \n \n Pyrexia (link is external)"
-  ],
-  [
-    "715871",
-    "01/03/2022",
-    "50",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Arthralgia (link is external) \n \n Chest (link is external) pain (link is external) \n \n Dyspnoea (link is external) \n \n Lethargy (link is external) \n \n Myocarditis (link is external) \n \n Pain (link is external) in (link is external) extremity (link is external)"
-  ],
-  [
-    "715875",
-    "01/03/2022",
-    "38",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Dyspnoea (link is external)"
-  ],
-  [
-    "715881",
-    "01/03/2022",
-    "29",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Diverticulitis (link is external)"
-  ],
-  [
-    "715894",
-    "01/03/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Sepsis (link is external)"
-  ],
-  [
-    "715951",
-    "01/03/2022",
-    "35",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Chest (link is external) pain (link is external) \n \n Dizziness (link is external) \n \n Dyspnoea (link is external) \n \n Hyperhidrosis (link is external) \n \n Lethargy (link is external) \n \n Lip (link is external) swelling (link is external) \n \n Lymphadenopathy (link is external) \n \n Rash (link is external) \n \n Vomiting (link is external)"
   ],
   [
     "715440",
@@ -1256,60 +1216,44 @@
     "Radius (link is external) fracture (link is external)"
   ],
   [
-    "715864",
+    "715871",
     "01/03/2022",
     "50",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Cardiac (link is external) disorder (link is external)"
-  ],
-  [
-    "715873",
-    "01/03/2022",
-    "6",
     "M",
     "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Croup (link is external) infectious (link is external) \n \n SARS-CoV-2 (link is external) test (link is external) positive (link is external)"
+    "Arthralgia (link is external) \n \n Chest (link is external) pain (link is external) \n \n Dyspnoea (link is external) \n \n Lethargy (link is external) \n \n Myocarditis (link is external) \n \n Pain (link is external) in (link is external) extremity (link is external)"
   ],
   [
-    "715900",
+    "715875",
+    "01/03/2022",
+    "38",
+    "F",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Dyspnoea (link is external)"
+  ],
+  [
+    "715881",
+    "01/03/2022",
+    "29",
+    "F",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Diverticulitis (link is external)"
+  ],
+  [
+    "715894",
     "01/03/2022",
     "-",
     "F",
     "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Wheezing (link is external)"
+    "Sepsis (link is external)"
   ],
   [
-    "715901",
+    "715951",
     "01/03/2022",
-    "-",
+    "35",
     "F",
     "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Haematemesis (link is external)"
-  ],
-  [
-    "715903",
-    "01/03/2022",
-    "6",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Pyrexia (link is external) \n \n SARS-CoV-2 (link is external) antibody (link is external) test (link is external) positive (link is external)"
-  ],
-  [
-    "715935",
-    "01/03/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Headache (link is external) \n \n Nausea (link is external)"
-  ],
-  [
-    "715987",
-    "01/03/2022",
-    "43",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Dizziness (link is external) \n \n Migraine (link is external) \n \n Nausea (link is external)"
+    "Chest (link is external) pain (link is external) \n \n Dizziness (link is external) \n \n Dyspnoea (link is external) \n \n Hyperhidrosis (link is external) \n \n Lethargy (link is external) \n \n Lip (link is external) swelling (link is external) \n \n Lymphadenopathy (link is external) \n \n Rash (link is external) \n \n Vomiting (link is external)"
   ],
   [
     "715438",
@@ -1384,36 +1328,60 @@
     "Anaphylactic (link is external) reaction (link is external)"
   ],
   [
-    "715895",
+    "715864",
     "01/03/2022",
-    "15",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Tonsillitis (link is external)"
-  ],
-  [
-    "715897",
-    "01/03/2022",
-    "16",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Chest (link is external) pain (link is external) \n \n C-reactive (link is external) protein (link is external) increased (link is external) \n \n Echocardiogram (link is external) \n \n Injection (link is external) site (link is external) pain (link is external) \n \n Lethargy (link is external) \n \n Myocarditis (link is external) \n \n Pleuritic (link is external) pain (link is external) \n \n Troponin (link is external) increased (link is external)"
-  ],
-  [
-    "715910",
-    "01/03/2022",
-    "13",
+    "50",
     "F",
     "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Vaccination (link is external) error (link is external)"
+    "Cardiac (link is external) disorder (link is external)"
   ],
   [
-    "715977",
+    "715873",
     "01/03/2022",
-    "37",
+    "6",
+    "M",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Croup (link is external) infectious (link is external) \n \n SARS-CoV-2 (link is external) test (link is external) positive (link is external)"
+  ],
+  [
+    "715900",
+    "01/03/2022",
+    "-",
     "F",
     "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Chest (link is external) pain (link is external) \n \n COVID-19 (link is external) \n \n Fibrin (link is external) D (link is external) dimer (link is external) increased (link is external) \n \n Headache (link is external) \n \n Injection (link is external) site (link is external) pain (link is external) \n \n Pyrexia (link is external)"
+    "Wheezing (link is external)"
+  ],
+  [
+    "715901",
+    "01/03/2022",
+    "-",
+    "F",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Haematemesis (link is external)"
+  ],
+  [
+    "715903",
+    "01/03/2022",
+    "6",
+    "F",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Pyrexia (link is external) \n \n SARS-CoV-2 (link is external) antibody (link is external) test (link is external) positive (link is external)"
+  ],
+  [
+    "715935",
+    "01/03/2022",
+    "-",
+    "F",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Headache (link is external) \n \n Nausea (link is external)"
+  ],
+  [
+    "715987",
+    "01/03/2022",
+    "43",
+    "F",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Dizziness (link is external) \n \n Migraine (link is external) \n \n Nausea (link is external)"
   ],
   [
     "715439",
@@ -1536,44 +1504,36 @@
     "COVID-19 (link is external) \n \n Lower (link is external) respiratory (link is external) tract (link is external) infection (link is external)"
   ],
   [
-    "715855",
+    "715895",
     "01/03/2022",
-    "76",
+    "15",
     "M",
     "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Sepsis (link is external)"
+    "Tonsillitis (link is external)"
   ],
   [
-    "715861",
+    "715897",
     "01/03/2022",
-    "8",
+    "16",
+    "M",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Chest (link is external) pain (link is external) \n \n C-reactive (link is external) protein (link is external) increased (link is external) \n \n Echocardiogram (link is external) \n \n Injection (link is external) site (link is external) pain (link is external) \n \n Lethargy (link is external) \n \n Myocarditis (link is external) \n \n Pleuritic (link is external) pain (link is external) \n \n Troponin (link is external) increased (link is external)"
+  ],
+  [
+    "715910",
+    "01/03/2022",
+    "13",
     "F",
     "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Syncope (link is external)"
+    "Vaccination (link is external) error (link is external)"
   ],
   [
-    "715876",
+    "715977",
     "01/03/2022",
-    "5",
-    "M",
+    "37",
+    "F",
     "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Croup (link is external) infectious (link is external)"
-  ],
-  [
-    "715898",
-    "01/03/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Urinary (link is external) tract (link is external) infection (link is external)"
-  ],
-  [
-    "715930",
-    "01/03/2022",
-    "33",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Chest (link is external) discomfort (link is external) \n \n Chest (link is external) pain (link is external) \n \n Dyspnoea (link is external) \n \n Extrasystoles (link is external) \n \n Palpitations (link is external)"
+    "Chest (link is external) pain (link is external) \n \n COVID-19 (link is external) \n \n Fibrin (link is external) D (link is external) dimer (link is external) increased (link is external) \n \n Headache (link is external) \n \n Injection (link is external) site (link is external) pain (link is external) \n \n Pyrexia (link is external)"
   ],
   [
     "715525",
@@ -1728,36 +1688,44 @@
     "Adverse (link is external) event (link is external) following (link is external) immunisation (link is external)"
   ],
   [
-    "715853",
+    "715855",
     "01/03/2022",
-    "74",
+    "76",
     "M",
     "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "COVID-19 (link is external)"
+    "Sepsis (link is external)"
   ],
   [
-    "715877",
+    "715861",
     "01/03/2022",
-    "43",
+    "8",
     "F",
     "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Cholecystectomy (link is external)"
+    "Syncope (link is external)"
   ],
   [
-    "715896",
+    "715876",
     "01/03/2022",
-    "50",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Chest (link is external) pain (link is external) \n \n Cough (link is external) \n \n Dyspnoea (link is external) \n \n Lethargy (link is external) \n \n Lymphadenopathy (link is external) \n \n Musculoskeletal (link is external) chest (link is external) pain (link is external) \n \n Musculoskeletal (link is external) pain (link is external) \n \n Myocarditis (link is external) \n \n Neck (link is external) pain (link is external) \n \n Palpitations (link is external) \n \n Pericarditis (link is external) \n \n Pyrexia (link is external)"
-  ],
-  [
-    "715944",
-    "01/03/2022",
-    "12",
+    "5",
     "M",
     "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Asthenia (link is external) \n \n Seizure (link is external) \n \n Somnolence (link is external)"
+    "Croup (link is external) infectious (link is external)"
+  ],
+  [
+    "715898",
+    "01/03/2022",
+    "-",
+    "M",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Urinary (link is external) tract (link is external) infection (link is external)"
+  ],
+  [
+    "715930",
+    "01/03/2022",
+    "33",
+    "M",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Chest (link is external) discomfort (link is external) \n \n Chest (link is external) pain (link is external) \n \n Dyspnoea (link is external) \n \n Extrasystoles (link is external) \n \n Palpitations (link is external)"
   ],
   [
     "715426",
@@ -1822,6 +1790,38 @@
     "M",
     "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
     "Bradycardia (link is external)"
+  ],
+  [
+    "715853",
+    "01/03/2022",
+    "74",
+    "M",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "COVID-19 (link is external)"
+  ],
+  [
+    "715877",
+    "01/03/2022",
+    "43",
+    "F",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Cholecystectomy (link is external)"
+  ],
+  [
+    "715896",
+    "01/03/2022",
+    "50",
+    "F",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Chest (link is external) pain (link is external) \n \n Cough (link is external) \n \n Dyspnoea (link is external) \n \n Lethargy (link is external) \n \n Lymphadenopathy (link is external) \n \n Musculoskeletal (link is external) chest (link is external) pain (link is external) \n \n Musculoskeletal (link is external) pain (link is external) \n \n Myocarditis (link is external) \n \n Neck (link is external) pain (link is external) \n \n Palpitations (link is external) \n \n Pericarditis (link is external) \n \n Pyrexia (link is external)"
+  ],
+  [
+    "715944",
+    "01/03/2022",
+    "12",
+    "M",
+    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+    "Asthenia (link is external) \n \n Seizure (link is external) \n \n Somnolence (link is external)"
   ],
   [
     "714695",
@@ -1998,2205 +1998,5 @@
     "M",
     "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
     "Product (link is external) administered (link is external) to (link is external) patient (link is external) of (link is external) inappropriate (link is external) age (link is external) \n \n Vaccination (link is external) error (link is external)"
-  ],
-  [
-    "715403",
-    "28/02/2022",
-    "36",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Occipital (link is external) neuralgia (link is external)"
-  ],
-  [
-    "714727",
-    "28/02/2022",
-    "37",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected\n \n COMIRNATY COVID-19 vaccine (tozinameran) - Not suspected",
-    "Genital (link is external) herpes (link is external)"
-  ],
-  [
-    "714737",
-    "28/02/2022",
-    "65",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Paraesthesia (link is external)"
-  ],
-  [
-    "714743",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Myocarditis (link is external)"
-  ],
-  [
-    "714745",
-    "28/02/2022",
-    "49",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Arthralgia (link is external) \n \n Chest (link is external) pain (link is external) \n \n Joint (link is external) swelling (link is external) \n \n Mass (link is external) \n \n Pain (link is external) in (link is external) extremity (link is external) \n \n Paraesthesia (link is external)"
-  ],
-  [
-    "714943",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Expired (link is external) product (link is external) administered (link is external) \n \n Vaccination (link is external) error (link is external)"
-  ],
-  [
-    "715056",
-    "28/02/2022",
-    "43",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Chest (link is external) pain (link is external) \n \n Dizziness (link is external) \n \n Dyspnoea (link is external) \n \n Malaise (link is external) \n \n Pyrexia (link is external)"
-  ],
-  [
-    "715110",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Product (link is external) preparation (link is external) issue (link is external) \n \n Vaccination (link is external) error (link is external)"
-  ],
-  [
-    "715145",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Intervertebral (link is external) disc (link is external) protrusion (link is external)"
-  ],
-  [
-    "715147",
-    "28/02/2022",
-    "62",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Thrombosis (link is external)"
-  ],
-  [
-    "715165",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Nephrolithiasis (link is external)"
-  ],
-  [
-    "715193",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Bundle (link is external) branch (link is external) block (link is external) right (link is external)"
-  ],
-  [
-    "715201",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Endometrial (link is external) atrophy (link is external)"
-  ],
-  [
-    "715225",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Bronchitis (link is external) \n \n Chest (link is external) pain (link is external)"
-  ],
-  [
-    "715226",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Cardiac (link is external) disorder (link is external)"
-  ],
-  [
-    "715272",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Infection (link is external)"
-  ],
-  [
-    "715297",
-    "28/02/2022",
-    "58",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Arthralgia (link is external) \n \n Joint (link is external) swelling (link is external) \n \n Pigmentation (link is external) disorder (link is external)"
-  ],
-  [
-    "715336",
-    "28/02/2022",
-    "15",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Vaccination (link is external) error (link is external)"
-  ],
-  [
-    "715352",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Product (link is external) administered (link is external) to (link is external) patient (link is external) of (link is external) inappropriate (link is external) age (link is external) \n \n Vaccination (link is external) error (link is external)"
-  ],
-  [
-    "715362",
-    "28/02/2022",
-    "55",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Abdominal (link is external) pain (link is external) \n \n Arthralgia (link is external) \n \n Chills (link is external) \n \n Dizziness (link is external) \n \n Dyspnoea (link is external) \n \n Fatigue (link is external) \n \n Headache (link is external) \n \n Hyperhidrosis (link is external) \n \n Irritability (link is external) \n \n Nausea (link is external) \n \n Taste (link is external) disorder (link is external)"
-  ],
-  [
-    "715387",
-    "28/02/2022",
-    "19",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Blood (link is external) pressure (link is external) measurement (link is external) \n \n Chest (link is external) pain (link is external) \n \n Dizziness (link is external) \n \n Dyspnoea (link is external) \n \n Heart (link is external) rate (link is external) irregular (link is external) \n \n Nausea (link is external) \n \n Pericardial (link is external) effusion (link is external) \n \n Pericarditis (link is external)"
-  ],
-  [
-    "714804",
-    "28/02/2022",
-    "61",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Abdominal (link is external) distension (link is external) \n \n Burning (link is external) sensation (link is external) \n \n Chest (link is external) pain (link is external) \n \n Confusional (link is external) state (link is external) \n \n Hypoaesthesia (link is external) \n \n Lethargy (link is external) \n \n Ocular (link is external) hyperaemia (link is external) \n \n Pain (link is external) \n \n Paraesthesia (link is external) \n \n Renal (link is external) pain (link is external) \n \n Swelling (link is external) \n \n Visual (link is external) impairment (link is external) \n \n Vitamin (link is external) B12 (link is external) decreased (link is external)"
-  ],
-  [
-    "714813",
-    "28/02/2022",
-    "39",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Chest (link is external) pain (link is external) \n \n Pain (link is external) in (link is external) extremity (link is external) \n \n Pericarditis (link is external)"
-  ],
-  [
-    "715072",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Pneumonia (link is external)"
-  ],
-  [
-    "715097",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Sinus (link is external) tachycardia (link is external)"
-  ],
-  [
-    "715137",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "COVID-19 (link is external)"
-  ],
-  [
-    "715171",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Retinal (link is external) detachment (link is external)"
-  ],
-  [
-    "715178",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Gastroenteritis (link is external)"
-  ],
-  [
-    "715204",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Blood (link is external) sodium (link is external) decreased (link is external)"
-  ],
-  [
-    "715207",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Herpes (link is external) zoster (link is external)"
-  ],
-  [
-    "715217",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "COVID-19 (link is external)"
-  ],
-  [
-    "715235",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "COVID-19 (link is external)"
-  ],
-  [
-    "715262",
-    "28/02/2022",
-    "5",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Gastroenteritis (link is external)"
-  ],
-  [
-    "715306",
-    "28/02/2022",
-    "70",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Contusion (link is external)"
-  ],
-  [
-    "715318",
-    "28/02/2022",
-    "81",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Adverse (link is external) event (link is external) following (link is external) immunisation (link is external)"
-  ],
-  [
-    "714697",
-    "28/02/2022",
-    "41",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Anaphylactic (link is external) reaction (link is external)"
-  ],
-  [
-    "714717",
-    "28/02/2022",
-    "36",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Abdominal (link is external) pain (link is external) \n \n Eructation (link is external) \n \n Headache (link is external) \n \n Pain (link is external) in (link is external) extremity (link is external) \n \n Pyrexia (link is external) \n \n Vaginal (link is external) haemorrhage (link is external)"
-  ],
-  [
-    "714726",
-    "28/02/2022",
-    "40",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Dermatomyositis (link is external) \n \n Fatigue (link is external) \n \n Rash (link is external)"
-  ],
-  [
-    "714728",
-    "28/02/2022",
-    "31",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected\n \n COMIRNATY COVID-19 vaccine (tozinameran) - Not suspected",
-    "Hallucination (link is external) \n \n Pain (link is external) in (link is external) extremity (link is external) \n \n Pyrexia (link is external)"
-  ],
-  [
-    "714739",
-    "28/02/2022",
-    "32",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected\n \n Lexapro (escitalopram) - Not suspected",
-    "Chest (link is external) pain (link is external) \n \n Chest (link is external) X-ray (link is external) \n \n Electrocardiogram (link is external) ST (link is external) segment (link is external) depression (link is external) \n \n Pericarditis (link is external) \n \n Troponin (link is external)"
-  ],
-  [
-    "715168",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Appendicitis (link is external) \n \n Peritonitis (link is external)"
-  ],
-  [
-    "715181",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Atrial (link is external) fibrillation (link is external)"
-  ],
-  [
-    "715203",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Colitis (link is external) \n \n Diarrhoea (link is external) \n \n Head (link is external) injury (link is external)"
-  ],
-  [
-    "715257",
-    "28/02/2022",
-    "45",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Pulmonary (link is external) embolism (link is external)"
-  ],
-  [
-    "715269",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Kidney (link is external) infection (link is external) \n \n Nephrolithiasis (link is external)"
-  ],
-  [
-    "715292",
-    "28/02/2022",
-    "15",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Chest (link is external) pain (link is external) \n \n Pericarditis (link is external)"
-  ],
-  [
-    "715312",
-    "28/02/2022",
-    "14",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Vaccination (link is external) error (link is external)"
-  ],
-  [
-    "715334",
-    "28/02/2022",
-    "13",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Vaccination (link is external) error (link is external)"
-  ],
-  [
-    "714721",
-    "28/02/2022",
-    "55",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Chills (link is external) \n \n Contusion (link is external) \n \n Gait (link is external) disturbance (link is external) \n \n Muscle (link is external) spasms (link is external) \n \n Pain (link is external) in (link is external) extremity (link is external) \n \n Paraesthesia (link is external)"
-  ],
-  [
-    "714753",
-    "28/02/2022",
-    "55",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Abdominal (link is external) pain (link is external) \n \n Diarrhoea (link is external) \n \n Vomiting (link is external)"
-  ],
-  [
-    "714763",
-    "28/02/2022",
-    "57",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Pruritus (link is external) \n \n Rash (link is external) macular (link is external)"
-  ],
-  [
-    "714793",
-    "28/02/2022",
-    "45",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Arthralgia (link is external) \n \n Chest (link is external) discomfort (link is external) \n \n Chest (link is external) pain (link is external) \n \n Dyspnoea (link is external) \n \n Fatigue (link is external) \n \n Myalgia (link is external) \n \n Pain (link is external) in (link is external) jaw (link is external) \n \n Pyrexia (link is external)"
-  ],
-  [
-    "714838",
-    "28/02/2022",
-    "41",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Concomitant (link is external) disease (link is external) aggravated (link is external) \n \n Insomnia (link is external) \n \n Rash (link is external)"
-  ],
-  [
-    "714876",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Arthralgia (link is external) \n \n Chest (link is external) pain (link is external) \n \n Chills (link is external) \n \n Fatigue (link is external) \n \n Hyperhidrosis (link is external) \n \n Hypoaesthesia (link is external) \n \n Neuralgia (link is external) \n \n Palpitations (link is external) \n \n Paraesthesia (link is external)"
-  ],
-  [
-    "714882",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Balance (link is external) disorder (link is external) \n \n Cold (link is external) sweat (link is external) \n \n Dizziness (link is external) \n \n Paraesthesia (link is external) \n \n Piloerection (link is external)"
-  ],
-  [
-    "715105",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Hypertension (link is external) \n \n Lymphadenopathy (link is external) \n \n Tachycardia (link is external)"
-  ],
-  [
-    "715107",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Pituitary (link is external) tumour (link is external)"
-  ],
-  [
-    "715130",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Cholelithiasis (link is external)"
-  ],
-  [
-    "715134",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Intestinal (link is external) obstruction (link is external)"
-  ],
-  [
-    "715146",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Arrhythmia (link is external) \n \n Blood (link is external) pressure (link is external) measurement (link is external)"
-  ],
-  [
-    "715149",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Nephrolithiasis (link is external)"
-  ],
-  [
-    "715153",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Atrial (link is external) fibrillation (link is external)"
-  ],
-  [
-    "715166",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Viral (link is external) infection (link is external)"
-  ],
-  [
-    "715169",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Renal (link is external) colic (link is external)"
-  ],
-  [
-    "715192",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Amnesia (link is external)"
-  ],
-  [
-    "715248",
-    "28/02/2022",
-    "42",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Back (link is external) pain (link is external) \n \n Dizziness (link is external) \n \n Feeling (link is external) abnormal (link is external) \n \n Injection (link is external) site (link is external) reaction (link is external) \n \n Lethargy (link is external) \n \n Muscle (link is external) spasms (link is external) \n \n Musculoskeletal (link is external) stiffness (link is external) \n \n Myalgia (link is external) \n \n Ocular (link is external) discomfort (link is external) \n \n Uveitis (link is external)"
-  ],
-  [
-    "715263",
-    "28/02/2022",
-    "21",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Pericarditis (link is external)"
-  ],
-  [
-    "715268",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Pneumonia (link is external)"
-  ],
-  [
-    "715291",
-    "28/02/2022",
-    "71",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Concomitant (link is external) disease (link is external) progression (link is external)"
-  ],
-  [
-    "715304",
-    "28/02/2022",
-    "43",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Dyspnoea (link is external) \n \n Feeling (link is external) hot (link is external) \n \n Flushing (link is external) \n \n Malaise (link is external)"
-  ],
-  [
-    "715305",
-    "28/02/2022",
-    "15",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Vaccination (link is external) error (link is external)"
-  ],
-  [
-    "715317",
-    "28/02/2022",
-    "9",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Haematuria (link is external) \n \n IgA (link is external) nephropathy (link is external)"
-  ],
-  [
-    "715351",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Product (link is external) administered (link is external) to (link is external) patient (link is external) of (link is external) inappropriate (link is external) age (link is external) \n \n Vaccination (link is external) error (link is external)"
-  ],
-  [
-    "714708",
-    "28/02/2022",
-    "36",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Colitis (link is external) ulcerative (link is external) \n \n Concomitant (link is external) disease (link is external) progression (link is external)"
-  ],
-  [
-    "714746",
-    "28/02/2022",
-    "46",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Fatigue (link is external) \n \n Gait (link is external) disturbance (link is external) \n \n Loss (link is external) of (link is external) consciousness (link is external)"
-  ],
-  [
-    "714752",
-    "28/02/2022",
-    "19",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Angioedema (link is external) \n \n Chronic (link is external) spontaneous (link is external) urticaria (link is external) \n \n Oropharyngeal (link is external) discomfort (link is external)"
-  ],
-  [
-    "714819",
-    "28/02/2022",
-    "14",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Bell's (link is external) palsy (link is external)"
-  ],
-  [
-    "714837",
-    "28/02/2022",
-    "55",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Dyspnoea (link is external) \n \n Fatigue (link is external) \n \n Hypertension (link is external) \n \n Palpitations (link is external) \n \n Supraventricular (link is external) tachycardia (link is external) \n \n Ventricular (link is external) extrasystoles (link is external)"
-  ],
-  [
-    "715086",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Cholelithiasis (link is external)"
-  ],
-  [
-    "715092",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Dizziness (link is external) \n \n Headache (link is external)"
-  ],
-  [
-    "715093",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Iritis (link is external)"
-  ],
-  [
-    "715112",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Concomitant (link is external) disease (link is external) aggravated (link is external)"
-  ],
-  [
-    "715114",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Palpitations (link is external) \n \n Tachycardia (link is external)"
-  ],
-  [
-    "715127",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Neoplasm (link is external) malignant (link is external)"
-  ],
-  [
-    "715136",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Infection (link is external) \n \n Inflammation (link is external) \n \n Lymphatic (link is external) disorder (link is external)"
-  ],
-  [
-    "715155",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Diverticulitis (link is external)"
-  ],
-  [
-    "715167",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "COVID-19 (link is external)"
-  ],
-  [
-    "715185",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Abortion (link is external) spontaneous (link is external)"
-  ],
-  [
-    "715198",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Diabetic (link is external) ketoacidosis (link is external)"
-  ],
-  [
-    "715210",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Polymyalgia (link is external) rheumatica (link is external)"
-  ],
-  [
-    "715211",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Pericardial (link is external) effusion (link is external)"
-  ],
-  [
-    "715243",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Myocardial (link is external) infarction (link is external)"
-  ],
-  [
-    "715270",
-    "28/02/2022",
-    "10",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Lymphadenitis (link is external)"
-  ],
-  [
-    "715271",
-    "28/02/2022",
-    "53",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Pericarditis (link is external)"
-  ],
-  [
-    "715282",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Chest (link is external) pain (link is external) \n \n Dyspnoea (link is external) \n \n Pericarditis (link is external)"
-  ],
-  [
-    "715298",
-    "28/02/2022",
-    "13",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Malaise (link is external) \n \n Nausea (link is external) \n \n Tinnitus (link is external)"
-  ],
-  [
-    "715342",
-    "28/02/2022",
-    "26",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Myocarditis (link is external) \n \n Palpitations (link is external)"
-  ],
-  [
-    "715345",
-    "28/02/2022",
-    "14",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Vaccination (link is external) error (link is external)"
-  ],
-  [
-    "715354",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Product (link is external) administered (link is external) to (link is external) patient (link is external) of (link is external) inappropriate (link is external) age (link is external) \n \n Vaccination (link is external) error (link is external)"
-  ],
-  [
-    "714701",
-    "28/02/2022",
-    "27",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Exercise (link is external) tolerance (link is external) decreased (link is external) \n \n Headache (link is external) \n \n Hypertension (link is external) \n \n Malaise (link is external) \n \n Presyncope (link is external) \n \n Tachycardia (link is external)"
-  ],
-  [
-    "715209",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Respiratory (link is external) disorder (link is external)"
-  ],
-  [
-    "715221",
-    "28/02/2022",
-    "61",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Cerebrovascular (link is external) accident (link is external)"
-  ],
-  [
-    "715246",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Adnexa (link is external) uteri (link is external) pain (link is external) \n \n Deafness (link is external) \n \n Headache (link is external) \n \n Tinnitus (link is external)"
-  ],
-  [
-    "715261",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Cellulitis (link is external)"
-  ],
-  [
-    "715332",
-    "28/02/2022",
-    "49",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Chest (link is external) discomfort (link is external) \n \n Chest (link is external) pain (link is external) \n \n Cold (link is external) sweat (link is external) \n \n Dizziness (link is external) \n \n Dyspnoea (link is external) \n \n Heart (link is external) rate (link is external) irregular (link is external) \n \n Hypoaesthesia (link is external) \n \n Myocarditis (link is external) \n \n Pain (link is external) in (link is external) extremity (link is external) \n \n Palpitations (link is external)"
-  ],
-  [
-    "714701",
-    "28/02/2022",
-    "27",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Exercise (link is external) tolerance (link is external) decreased (link is external) \n \n Headache (link is external) \n \n Hypertension (link is external) \n \n Malaise (link is external) \n \n Presyncope (link is external) \n \n Tachycardia (link is external)"
-  ],
-  [
-    "714736",
-    "28/02/2022",
-    "34",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Hypersensitivity (link is external) \n \n Hypertension (link is external) \n \n Oropharyngeal (link is external) discomfort (link is external) \n \n Paraesthesia (link is external) \n \n Stridor (link is external) \n \n Tachycardia (link is external)"
-  ],
-  [
-    "714811",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Fibrin (link is external) D (link is external) dimer (link is external) increased (link is external) \n \n Loss (link is external) of (link is external) personal (link is external) independence (link is external) in (link is external) daily (link is external) activities (link is external) \n \n Pericarditis (link is external)"
-  ],
-  [
-    "714945",
-    "28/02/2022",
-    "44",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Chest (link is external) pain (link is external) \n \n Chills (link is external) \n \n Dyspnoea (link is external) \n \n Fatigue (link is external) \n \n Nausea (link is external)"
-  ],
-  [
-    "714999",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Appendicitis (link is external) \n \n Appendicitis (link is external) perforated (link is external)"
-  ],
-  [
-    "715037",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Chest (link is external) pain (link is external) \n \n Lymphadenopathy (link is external) \n \n Tonsillitis (link is external)"
-  ],
-  [
-    "715066",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Pneumonia (link is external)"
-  ],
-  [
-    "715106",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Gastric (link is external) ulcer (link is external)"
-  ],
-  [
-    "715108",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Product (link is external) administered (link is external) to (link is external) patient (link is external) of (link is external) inappropriate (link is external) age (link is external) \n \n Vaccination (link is external) error (link is external)"
-  ],
-  [
-    "715113",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Pleural (link is external) effusion (link is external) \n \n Pneumonia (link is external)"
-  ],
-  [
-    "715135",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "COVID-19 (link is external)"
-  ],
-  [
-    "715172",
-    "28/02/2022",
-    "36",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Chest (link is external) pain (link is external) \n \n Dizziness (link is external) \n \n Heart (link is external) rate (link is external) increased (link is external) \n \n Myocarditis (link is external)"
-  ],
-  [
-    "715184",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Tooth (link is external) infection (link is external)"
-  ],
-  [
-    "714738",
-    "28/02/2022",
-    "53",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Arthralgia (link is external)"
-  ],
-  [
-    "714756",
-    "28/02/2022",
-    "30",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Breast (link is external) engorgement (link is external) \n \n Feeling (link is external) hot (link is external) \n \n Suppressed (link is external) lactation (link is external)"
-  ],
-  [
-    "714774",
-    "28/02/2022",
-    "44",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Headache (link is external)"
-  ],
-  [
-    "714841",
-    "28/02/2022",
-    "52",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Arthralgia (link is external) \n \n Rheumatoid (link is external) arthritis (link is external)"
-  ],
-  [
-    "714843",
-    "28/02/2022",
-    "52",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Chest (link is external) discomfort (link is external) \n \n Dizziness (link is external) \n \n Malaise (link is external) \n \n Oropharyngeal (link is external) discomfort (link is external) \n \n Rash (link is external)"
-  ],
-  [
-    "715022",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Hyperthyroidism (link is external)"
-  ],
-  [
-    "715084",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Intestinal (link is external) obstruction (link is external)"
-  ],
-  [
-    "715144",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Concomitant (link is external) disease (link is external) aggravated (link is external) \n \n Hypertension (link is external)"
-  ],
-  [
-    "715160",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Back (link is external) pain (link is external)"
-  ],
-  [
-    "715176",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Cervix (link is external) carcinoma (link is external)"
-  ],
-  [
-    "715179",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Atrial (link is external) fibrillation (link is external)"
-  ],
-  [
-    "715186",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Myocardial (link is external) infarction (link is external)"
-  ],
-  [
-    "715188",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Gastritis (link is external)"
-  ],
-  [
-    "715213",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Underdose (link is external) \n \n Vaccination (link is external) error (link is external)"
-  ],
-  [
-    "715249",
-    "28/02/2022",
-    "35",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Paraesthesia (link is external) \n \n Sensory (link is external) disturbance (link is external)"
-  ],
-  [
-    "715254",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Atrial (link is external) fibrillation (link is external)"
-  ],
-  [
-    "715287",
-    "28/02/2022",
-    "55",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Arthralgia (link is external) \n \n Decreased (link is external) appetite (link is external) \n \n Lethargy (link is external) \n \n Myalgia (link is external) \n \n Pyrexia (link is external)"
-  ],
-  [
-    "715301",
-    "28/02/2022",
-    "18",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Pericarditis (link is external)"
-  ],
-  [
-    "715311",
-    "28/02/2022",
-    "41",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Arthralgia (link is external) \n \n Chest (link is external) discomfort (link is external) \n \n Chest (link is external) pain (link is external) \n \n Myalgia (link is external)"
-  ],
-  [
-    "715350",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Product (link is external) administered (link is external) to (link is external) patient (link is external) of (link is external) inappropriate (link is external) age (link is external) \n \n Vaccination (link is external) error (link is external)"
-  ],
-  [
-    "714720",
-    "28/02/2022",
-    "32",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Lymphadenopathy (link is external)"
-  ],
-  [
-    "714730",
-    "28/02/2022",
-    "42",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Injection (link is external) site (link is external) pain (link is external) \n \n Necrotising (link is external) retinitis (link is external) \n \n Varicella (link is external) zoster (link is external) virus (link is external) infection (link is external)"
-  ],
-  [
-    "714732",
-    "28/02/2022",
-    "50",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Concomitant (link is external) disease (link is external) aggravated (link is external) \n \n Electrocardiogram (link is external) abnormal (link is external) \n \n Extrasystoles (link is external)"
-  ],
-  [
-    "714842",
-    "28/02/2022",
-    "51",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Chest (link is external) discomfort (link is external) \n \n Chest (link is external) pain (link is external) \n \n Concomitant (link is external) disease (link is external) aggravated (link is external) \n \n Injection (link is external) site (link is external) reaction (link is external) \n \n Palpitations (link is external) \n \n Pericarditis (link is external)"
-  ],
-  [
-    "714845",
-    "28/02/2022",
-    "6",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Injection (link is external) site (link is external) pain (link is external) \n \n Pyrexia (link is external)"
-  ],
-  [
-    "714854",
-    "28/02/2022",
-    "17",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Lethargy (link is external) \n \n Oral (link is external) herpes (link is external) \n \n Pyrexia (link is external)"
-  ],
-  [
-    "715085",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Paraesthesia (link is external)"
-  ],
-  [
-    "715087",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Infection (link is external)"
-  ],
-  [
-    "715094",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Cholelithiasis (link is external)"
-  ],
-  [
-    "715131",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Axillary (link is external) pain (link is external) \n \n Lymphadenopathy (link is external)"
-  ],
-  [
-    "715132",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Polymyalgia (link is external) rheumatica (link is external)"
-  ],
-  [
-    "715148",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Bladder (link is external) cancer (link is external) \n \n Tachycardia (link is external)"
-  ],
-  [
-    "715157",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Adverse (link is external) event (link is external) following (link is external) immunisation (link is external)"
-  ],
-  [
-    "715175",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Cellulitis (link is external) \n \n Hypersensitivity (link is external)"
-  ],
-  [
-    "715189",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Gastrointestinal (link is external) disorder (link is external)"
-  ],
-  [
-    "715216",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Epistaxis (link is external) \n \n Hypertension (link is external)"
-  ],
-  [
-    "715267",
-    "28/02/2022",
-    "5",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Seizure (link is external)"
-  ],
-  [
-    "715283",
-    "28/02/2022",
-    "4",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Product (link is external) administered (link is external) to (link is external) patient (link is external) of (link is external) inappropriate (link is external) age (link is external) \n \n Vaccination (link is external) error (link is external)"
-  ],
-  [
-    "715290",
-    "28/02/2022",
-    "66",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Cardiac (link is external) failure (link is external)"
-  ],
-  [
-    "715323",
-    "28/02/2022",
-    "28",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Dysarthria (link is external) \n \n Dysphagia (link is external) \n \n Feeling (link is external) of (link is external) body (link is external) temperature (link is external) change (link is external) \n \n Injection (link is external) site (link is external) reaction (link is external) \n \n Limb (link is external) immobilisation (link is external) \n \n Muscular (link is external) weakness (link is external) \n \n Somnolence (link is external)"
-  ],
-  [
-    "715346",
-    "28/02/2022",
-    "14",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Vaccination (link is external) error (link is external)"
-  ],
-  [
-    "715353",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Product (link is external) administered (link is external) to (link is external) patient (link is external) of (link is external) inappropriate (link is external) age (link is external) \n \n Vaccination (link is external) error (link is external)"
-  ],
-  [
-    "715361",
-    "28/02/2022",
-    "53",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Confusional (link is external) state (link is external)"
-  ],
-  [
-    "714703",
-    "28/02/2022",
-    "35",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Influenza (link is external) like (link is external) illness (link is external) \n \n Sinus (link is external) congestion (link is external) \n \n Sinus (link is external) pain (link is external) \n \n Vomiting (link is external)"
-  ],
-  [
-    "714760",
-    "28/02/2022",
-    "26",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Chest (link is external) pain (link is external) \n \n Palpitations (link is external)"
-  ],
-  [
-    "714898",
-    "28/02/2022",
-    "48",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Lymphadenopathy (link is external) \n \n Myalgia (link is external) \n \n Pyrexia (link is external)"
-  ],
-  [
-    "715111",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Lower (link is external) respiratory (link is external) tract (link is external) infection (link is external)"
-  ],
-  [
-    "715125",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Akathisia (link is external)"
-  ],
-  [
-    "715187",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Femur (link is external) fracture (link is external)"
-  ],
-  [
-    "715196",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Vertigo (link is external)"
-  ],
-  [
-    "715200",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Nephrolithiasis (link is external)"
-  ],
-  [
-    "715222",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Herpes (link is external) zoster (link is external)"
-  ],
-  [
-    "715238",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "COVID-19 (link is external)"
-  ],
-  [
-    "715245",
-    "28/02/2022",
-    "57",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Myocardial (link is external) infarction (link is external)"
-  ],
-  [
-    "715252",
-    "28/02/2022",
-    "57",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Bell's (link is external) palsy (link is external)"
-  ],
-  [
-    "715256",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Post-acute (link is external) COVID-19 (link is external) syndrome (link is external)"
-  ],
-  [
-    "715265",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Carditis (link is external)"
-  ],
-  [
-    "715322",
-    "28/02/2022",
-    "58",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Back (link is external) pain (link is external) \n \n Chest (link is external) pain (link is external) \n \n Headache (link is external) \n \n Influenza (link is external) like (link is external) illness (link is external) \n \n Injection (link is external) site (link is external) reaction (link is external) \n \n Lymphadenopathy (link is external)"
-  ],
-  [
-    "715338",
-    "28/02/2022",
-    "13",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Vaccination (link is external) error (link is external)"
-  ],
-  [
-    "715343",
-    "28/02/2022",
-    "13",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Vaccination (link is external) error (link is external)"
-  ],
-  [
-    "715349",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Product (link is external) administered (link is external) to (link is external) patient (link is external) of (link is external) inappropriate (link is external) age (link is external) \n \n Vaccination (link is external) error (link is external)"
-  ],
-  [
-    "715384",
-    "28/02/2022",
-    "51",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected\n \n Naltrexone Implant (naltrexone hydrochloride) - Not suspected",
-    "Abdominal (link is external) pain (link is external) upper (link is external)"
-  ],
-  [
-    "714783",
-    "28/02/2022",
-    "32",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Rash (link is external)"
-  ],
-  [
-    "714853",
-    "28/02/2022",
-    "21",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Abdominal (link is external) pain (link is external) upper (link is external) \n \n Diarrhoea (link is external) \n \n Pyrexia (link is external)"
-  ],
-  [
-    "715013",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Chronic (link is external) sinusitis (link is external)"
-  ],
-  [
-    "715019",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Hypersensitivity (link is external)"
-  ],
-  [
-    "715061",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Tonsillitis (link is external)"
-  ],
-  [
-    "715095",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Anaphylactic (link is external) reaction (link is external) \n \n COVID-19 (link is external)"
-  ],
-  [
-    "715100",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Adverse (link is external) event (link is external) following (link is external) immunisation (link is external)"
-  ],
-  [
-    "715124",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Adverse (link is external) event (link is external) following (link is external) immunisation (link is external)"
-  ],
-  [
-    "715152",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Abdominal (link is external) discomfort (link is external) \n \n Body (link is external) temperature (link is external) decreased (link is external) \n \n Pain (link is external)"
-  ],
-  [
-    "715154",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Chest (link is external) pain (link is external) \n \n Lymphadenopathy (link is external) \n \n Swelling (link is external) face (link is external)"
-  ],
-  [
-    "715174",
-    "28/02/2022",
-    "51",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Thrombosis (link is external)"
-  ],
-  [
-    "715220",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Pneumonia (link is external)"
-  ],
-  [
-    "715259",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Chest (link is external) pain (link is external) \n \n Myocarditis (link is external)"
-  ],
-  [
-    "715266",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Pneumonia (link is external)"
-  ],
-  [
-    "715293",
-    "28/02/2022",
-    "44",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Chest (link is external) pain (link is external) \n \n Fatigue (link is external)"
-  ],
-  [
-    "715295",
-    "28/02/2022",
-    "39",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Oropharyngeal (link is external) discomfort (link is external) \n \n Rash (link is external) \n \n Stomatitis (link is external)"
-  ],
-  [
-    "715333",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Arthralgia (link is external) \n \n Chest (link is external) pain (link is external) \n \n Headache (link is external) \n \n Injection (link is external) site (link is external) reaction (link is external) \n \n Myalgia (link is external) \n \n Nausea (link is external) \n \n Tachycardia (link is external) \n \n Vision (link is external) blurred (link is external) \n \n Vomiting (link is external)"
-  ],
-  [
-    "715335",
-    "28/02/2022",
-    "13",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Vaccination (link is external) error (link is external)"
-  ],
-  [
-    "715339",
-    "28/02/2022",
-    "14",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Vaccination (link is external) error (link is external)"
-  ],
-  [
-    "715344",
-    "28/02/2022",
-    "13",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Vaccination (link is external) error (link is external)"
-  ],
-  [
-    "715347",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Product (link is external) administered (link is external) to (link is external) patient (link is external) of (link is external) inappropriate (link is external) age (link is external) \n \n Vaccination (link is external) error (link is external)"
-  ],
-  [
-    "714741",
-    "28/02/2022",
-    "5",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Incorrect (link is external) dose (link is external) administered (link is external) \n \n Vaccination (link is external) error (link is external)"
-  ],
-  [
-    "714961",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Expired (link is external) product (link is external) administered (link is external) \n \n Vaccination (link is external) error (link is external)"
-  ],
-  [
-    "715007",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Abdominal (link is external) pain (link is external) \n \n Liver (link is external) disorder (link is external)"
-  ],
-  [
-    "715098",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Ectopic (link is external) pregnancy (link is external)"
-  ],
-  [
-    "715115",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Schizophrenia (link is external)"
-  ],
-  [
-    "715117",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Pneumonia (link is external)"
-  ],
-  [
-    "715120",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Gastroenteritis (link is external)"
-  ],
-  [
-    "715140",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Femur (link is external) fracture (link is external)"
-  ],
-  [
-    "715141",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Eye (link is external) injury (link is external)"
-  ],
-  [
-    "715150",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Dyspnoea (link is external) \n \n Fatigue (link is external)"
-  ],
-  [
-    "715151",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Deafness (link is external) neurosensory (link is external)"
-  ],
-  [
-    "715158",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Asthma (link is external)"
-  ],
-  [
-    "715161",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Appendicitis (link is external) perforated (link is external)"
-  ],
-  [
-    "715162",
-    "28/02/2022",
-    "77",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Cerebrovascular (link is external) accident (link is external)"
-  ],
-  [
-    "715164",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Hip (link is external) fracture (link is external) \n \n Joint (link is external) dislocation (link is external)"
-  ],
-  [
-    "715224",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Nephrolithiasis (link is external)"
-  ],
-  [
-    "715258",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Gastrointestinal (link is external) carcinoma (link is external)"
-  ],
-  [
-    "715273",
-    "28/02/2022",
-    "44",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Chest (link is external) discomfort (link is external) \n \n Chest (link is external) pain (link is external) \n \n Dyspnoea (link is external) \n \n Lethargy (link is external) \n \n Myocarditis (link is external)"
-  ],
-  [
-    "715274",
-    "28/02/2022",
-    "14",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Product (link is external) administered (link is external) to (link is external) patient (link is external) of (link is external) inappropriate (link is external) age (link is external) \n \n Vaccination (link is external) error (link is external)"
-  ],
-  [
-    "715277",
-    "28/02/2022",
-    "12",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Bell's (link is external) palsy (link is external)"
-  ],
-  [
-    "715284",
-    "28/02/2022",
-    "16",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Dizziness (link is external) \n \n Nausea (link is external)"
-  ],
-  [
-    "715289",
-    "28/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Chest (link is external) pain (link is external) \n \n Dyspnoea (link is external) \n \n Fatigue (link is external) \n \n Heavy (link is external) menstrual (link is external) bleeding (link is external) \n \n Injection (link is external) site (link is external) reaction (link is external) \n \n Menstrual (link is external) discomfort (link is external) \n \n Menstrual (link is external) disorder (link is external) \n \n Menstruation (link is external) irregular (link is external) \n \n Oropharyngeal (link is external) discomfort (link is external)"
-  ],
-  [
-    "715315",
-    "28/02/2022",
-    "40",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected\n \n COMIRNATY COVID-19 vaccine (tozinameran) - Not suspected",
-    "Chest (link is external) pain (link is external)"
-  ],
-  [
-    "715319",
-    "28/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Urticaria (link is external)"
-  ],
-  [
-    "715326",
-    "28/02/2022",
-    "58",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Chest (link is external) pain (link is external) \n \n Injection (link is external) site (link is external) reaction (link is external) \n \n Lymphadenopathy (link is external)"
-  ],
-  [
-    "715337",
-    "28/02/2022",
-    "42",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Lymphadenopathy (link is external)"
-  ],
-  [
-    "715370",
-    "28/02/2022",
-    "50",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected\n \n Plaquenil (hydroxychloroquine sulfate) - Not suspected",
-    "Pruritus (link is external)"
-  ],
-  [
-    "714632",
-    "27/02/2022",
-    "67",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected\n \n COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected",
-    "Diarrhoea (link is external) \n \n Pain (link is external) in (link is external) extremity (link is external)"
-  ],
-  [
-    "714640",
-    "27/02/2022",
-    "72",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Urticaria (link is external)"
-  ],
-  [
-    "714645",
-    "27/02/2022",
-    "51",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Arthralgia (link is external) \n \n Back (link is external) pain (link is external) \n \n Bedridden (link is external) \n \n Cyanosis (link is external) \n \n Groin (link is external) pain (link is external) \n \n Headache (link is external) \n \n Herpes (link is external) zoster (link is external) \n \n Muscular (link is external) weakness (link is external) \n \n Pelvic (link is external) pain (link is external) \n \n Reflux (link is external) gastritis (link is external) \n \n Swelling (link is external)"
-  ],
-  [
-    "714675",
-    "27/02/2022",
-    "41",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Blood (link is external) urine (link is external) present (link is external) \n \n Lower (link is external) respiratory (link is external) tract (link is external) infection (link is external) \n \n Lymphadenopathy (link is external) \n \n Malaise (link is external) \n \n Pharyngitis (link is external) \n \n Rectal (link is external) haemorrhage (link is external)"
-  ],
-  [
-    "714661",
-    "27/02/2022",
-    "42",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Lymphadenopathy (link is external) \n \n Myalgia (link is external)"
-  ],
-  [
-    "714677",
-    "27/02/2022",
-    "55",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Abdominal (link is external) pain (link is external) \n \n Anxiety (link is external) \n \n Chest (link is external) pain (link is external) \n \n Cold (link is external) sweat (link is external) \n \n Confusional (link is external) state (link is external) \n \n Constipation (link is external) \n \n Diarrhoea (link is external) \n \n Diplopia (link is external) \n \n Fall (link is external) \n \n Fatigue (link is external) \n \n Gait (link is external) disturbance (link is external) \n \n Incontinence (link is external) \n \n Insomnia (link is external) \n \n Migraine (link is external) \n \n Muscular (link is external) weakness (link is external) \n \n Palpitations (link is external) \n \n Tachycardia (link is external) \n \n Weight (link is external) decreased (link is external)"
-  ],
-  [
-    "714625",
-    "27/02/2022",
-    "17",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Dizziness (link is external) \n \n Headache (link is external) \n \n Heart (link is external) rate (link is external) increased (link is external) \n \n Myalgia (link is external) \n \n Pyrexia (link is external) \n \n Sinus (link is external) tachycardia (link is external) \n \n Tremor (link is external) \n \n Vomiting (link is external)"
-  ],
-  [
-    "714629",
-    "27/02/2022",
-    "10",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Blood (link is external) blister (link is external) \n \n Pain (link is external) in (link is external) extremity (link is external) \n \n Rash (link is external) pruritic (link is external) \n \n SARS-CoV-2 (link is external) test (link is external) positive (link is external) \n \n Skin (link is external) discolouration (link is external)"
-  ],
-  [
-    "714648",
-    "27/02/2022",
-    "30",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Swelling (link is external)"
-  ],
-  [
-    "714622",
-    "27/02/2022",
-    "52",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Injection (link is external) site (link is external) pain (link is external) \n \n Lymphadenopathy (link is external)"
-  ],
-  [
-    "714626",
-    "27/02/2022",
-    "24",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Dyspepsia (link is external) \n \n Inflammation (link is external) \n \n Palpitations (link is external)"
-  ],
-  [
-    "714637",
-    "27/02/2022",
-    "26",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Injection (link is external) site (link is external) pain (link is external) \n \n Lymphadenopathy (link is external) \n \n Muscular (link is external) weakness (link is external) \n \n Pain (link is external) in (link is external) extremity (link is external)"
-  ],
-  [
-    "714612",
-    "27/02/2022",
-    "39",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Urticaria (link is external)"
-  ],
-  [
-    "714620",
-    "27/02/2022",
-    "20",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Arthralgia (link is external) \n \n Confusional (link is external) state (link is external) \n \n Headache (link is external) \n \n Myalgia (link is external)"
-  ],
-  [
-    "714630",
-    "27/02/2022",
-    "13",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Insomnia (link is external) \n \n Pyrexia (link is external)"
-  ],
-  [
-    "714635",
-    "27/02/2022",
-    "62",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Ear (link is external) pain (link is external) \n \n Hypersensitivity (link is external) \n \n Paraesthesia (link is external) \n \n Rash (link is external) pruritic (link is external)"
-  ],
-  [
-    "714657",
-    "27/02/2022",
-    "30",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Arthralgia (link is external) \n \n Headache (link is external) \n \n Injection (link is external) site (link is external) reaction (link is external) \n \n Lethargy (link is external) \n \n Lymphadenopathy (link is external) \n \n Myalgia (link is external) \n \n Pyrexia (link is external)"
-  ],
-  [
-    "714665",
-    "27/02/2022",
-    "46",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Headache (link is external) \n \n Lymphadenopathy (link is external)"
-  ],
-  [
-    "714627",
-    "27/02/2022",
-    "49",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Asthma (link is external) \n \n Chest (link is external) pain (link is external) \n \n Dyspnoea (link is external) \n \n Joint (link is external) swelling (link is external)"
-  ],
-  [
-    "714639",
-    "27/02/2022",
-    "54",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Headache (link is external) \n \n Malaise (link is external) \n \n Photophobia (link is external) \n \n Vision (link is external) blurred (link is external)"
-  ],
-  [
-    "714611",
-    "27/02/2022",
-    "25",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Influenza (link is external) like (link is external) illness (link is external) \n \n Lymphadenopathy (link is external)"
-  ],
-  [
-    "714624",
-    "27/02/2022",
-    "52",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Chest (link is external) discomfort (link is external) \n \n Injection (link is external) site (link is external) pain (link is external) \n \n Palpitations (link is external)"
-  ],
-  [
-    "714636",
-    "27/02/2022",
-    "35",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Fatigue (link is external) \n \n Hypoaesthesia (link is external) \n \n Injection (link is external) site (link is external) reaction (link is external) \n \n Lymphadenopathy (link is external) \n \n Paraesthesia (link is external) \n \n Swelling (link is external)"
-  ],
-  [
-    "714663",
-    "27/02/2022",
-    "65",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Hypoaesthesia (link is external) \n \n Paraesthesia (link is external)"
-  ],
-  [
-    "714692",
-    "27/02/2022",
-    "-",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Muscle (link is external) fatigue (link is external) \n \n Pain (link is external) in (link is external) extremity (link is external)"
-  ],
-  [
-    "714542",
-    "26/02/2022",
-    "39",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Mass (link is external) \n \n Muscle (link is external) fatigue (link is external) \n \n Myalgia (link is external) \n \n Pain (link is external) in (link is external) extremity (link is external)"
-  ],
-  [
-    "714596",
-    "26/02/2022",
-    "25",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Chest (link is external) pain (link is external) \n \n Dizziness (link is external) \n \n Dyspnoea (link is external) \n \n Fatigue (link is external) \n \n Palpitations (link is external) \n \n Pericarditis (link is external)"
-  ],
-  [
-    "714576",
-    "26/02/2022",
-    "55",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Abdominal (link is external) discomfort (link is external) \n \n Diarrhoea (link is external) \n \n Fatigue (link is external) \n \n Headache (link is external) \n \n Injected (link is external) limb (link is external) mobility (link is external) decreased (link is external) \n \n Injection (link is external) site (link is external) pain (link is external) \n \n Nausea (link is external) \n \n Pyrexia (link is external)"
-  ],
-  [
-    "714580",
-    "26/02/2022",
-    "48",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Chest (link is external) pain (link is external) \n \n Dyspnoea (link is external) \n \n Injection (link is external) site (link is external) pain (link is external) \n \n Palpitations (link is external)"
-  ],
-  [
-    "714581",
-    "26/02/2022",
-    "12",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Menstrual (link is external) disorder (link is external) \n \n Menstruation (link is external) irregular (link is external) \n \n Polymenorrhoea (link is external)"
-  ],
-  [
-    "714568",
-    "26/02/2022",
-    "21",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Lymphadenopathy (link is external)"
-  ],
-  [
-    "714605",
-    "26/02/2022",
-    "12",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Chest (link is external) pain (link is external) \n \n Dyspnoea (link is external) \n \n Fatigue (link is external) \n \n Headache (link is external) \n \n Myalgia (link is external) \n \n Somnolence (link is external)"
-  ],
-  [
-    "714610",
-    "26/02/2022",
-    "42",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Vertigo (link is external)"
-  ],
-  [
-    "714562",
-    "26/02/2022",
-    "43",
-    "M",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Lymph (link is external) node (link is external) pain (link is external) \n \n Lymphadenopathy (link is external) \n \n Swelling (link is external)"
-  ],
-  [
-    "714590",
-    "26/02/2022",
-    "46",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Abdominal (link is external) discomfort (link is external) \n \n Abdominal (link is external) pain (link is external) upper (link is external) \n \n Diarrhoea (link is external) \n \n Fatigue (link is external)"
-  ],
-  [
-    "714585",
-    "26/02/2022",
-    "52",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Chills (link is external) \n \n Dyspnoea (link is external) \n \n Injection (link is external) site (link is external) reaction (link is external) \n \n Oxygen (link is external) saturation (link is external) decreased (link is external)"
-  ],
-  [
-    "714573",
-    "26/02/2022",
-    "47",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Chest (link is external) pain (link is external) \n \n Fatigue (link is external) \n \n Gastritis (link is external) \n \n Herpes (link is external) virus (link is external) infection (link is external) \n \n Lymphadenopathy (link is external) \n \n Menstrual (link is external) disorder (link is external) \n \n Migraine (link is external) \n \n Neuralgia (link is external) \n \n Rash (link is external)"
-  ],
-  [
-    "714588",
-    "26/02/2022",
-    "46",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Abdominal (link is external) pain (link is external) \n \n Heavy (link is external) menstrual (link is external) bleeding (link is external) \n \n Intermenstrual (link is external) bleeding (link is external) \n \n Menstrual (link is external) disorder (link is external) \n \n Menstruation (link is external) irregular (link is external)"
-  ],
-  [
-    "714594",
-    "26/02/2022",
-    "62",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected\n \n COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected",
-    "Fatigue (link is external) \n \n Gastrooesophageal (link is external) reflux (link is external) disease (link is external) \n \n Hypoaesthesia (link is external) \n \n Pain (link is external) \n \n Pain (link is external) in (link is external) extremity (link is external) \n \n Paraesthesia (link is external)"
-  ],
-  [
-    "714088",
-    "25/02/2022",
-    "40",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Confusional (link is external) state (link is external) \n \n Fatigue (link is external) \n \n Migraine (link is external) \n \n Nausea (link is external)"
-  ],
-  [
-    "714141",
-    "25/02/2022",
-    "12",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Pain (link is external) in (link is external) extremity (link is external)"
-  ],
-  [
-    "714172",
-    "25/02/2022",
-    "53",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Fatigue (link is external) \n \n Lymphadenopathy (link is external) \n \n Myalgia (link is external)"
-  ],
-  [
-    "714192",
-    "25/02/2022",
-    "35",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Arthralgia (link is external) \n \n Fatigue (link is external) \n \n Headache (link is external) \n \n Injected (link is external) limb (link is external) mobility (link is external) decreased (link is external) \n \n Injection (link is external) site (link is external) reaction (link is external) \n \n Insomnia (link is external) \n \n Lymphadenopathy (link is external) \n \n Oropharyngeal (link is external) pain (link is external) \n \n Paraesthesia (link is external) \n \n Pyrexia (link is external)"
-  ],
-  [
-    "714226",
-    "25/02/2022",
-    "30",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Hypomenorrhoea (link is external) \n \n Menstrual (link is external) disorder (link is external) \n \n Menstruation (link is external) irregular (link is external)"
-  ],
-  [
-    "714338",
-    "25/02/2022",
-    "61",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Chest (link is external) pain (link is external)"
-  ],
-  [
-    "714380",
-    "25/02/2022",
-    "-",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Dysphagia (link is external) \n \n Paraesthesia (link is external) oral (link is external)"
-  ],
-  [
-    "714442",
-    "25/02/2022",
-    "45",
-    "F",
-    "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
-    "Angioedema (link is external) \n \n Injection (link is external) site (link is external) reaction (link is external) \n \n Nausea (link is external) \n \n Pyrexia (link is external) \n \n Rash (link is external)"
   ]
 ]

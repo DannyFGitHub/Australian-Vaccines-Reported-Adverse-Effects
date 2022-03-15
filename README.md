@@ -33,7 +33,9 @@ Comirnaty is also known originally as Pfizer vaccine.
 
 Using the old name AstraZeneca as the new name Vaxzveria does not return any results on DAEN.
 
-We believe the Novavax data is not available due to Novavax's late rollout.
+### Novavax - Nuvaxovid - Covovax
+
+Using the name Nuvaxovid is the only version that was found at the time of writing.
 
 <hr/>
 For official information on which vaccines have been approved by [Australian Department of Health](https://www.health.gov.au/initiatives-and-programs/covid-19-vaccines/approved-vaccines)
@@ -76,4 +78,3 @@ The data is mainly provided in a SQlite3 database that will be updated on this r
 ### How can this data be used for good?
 
 We believe all data that is publicly available should be made easy to search and analyse for public education.
-

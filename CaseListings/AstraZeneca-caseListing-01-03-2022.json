@@ -1,19 +1,19 @@
 [
   [
-    "715929",
-    "01/03/2022",
-    "-",
-    "F",
-    "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
-    "Pulmonary (link is external) embolism (link is external)"
-  ],
-  [
     "715577",
     "01/03/2022",
     "-",
     "F",
     "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
     "Injection (link is external) site (link is external) urticaria (link is external) \n \n Lethargy (link is external) \n \n Mass (link is external) \n \n Myalgia (link is external) \n \n Swelling (link is external)"
+  ],
+  [
+    "715929",
+    "01/03/2022",
+    "-",
+    "F",
+    "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
+    "Pulmonary (link is external) embolism (link is external)"
   ],
   [
     "715528",
@@ -40,14 +40,6 @@
     "Inappropriate (link is external) schedule (link is external) of (link is external) product (link is external) administration (link is external) \n \n Vaccination (link is external) error (link is external)"
   ],
   [
-    "715957",
-    "01/03/2022",
-    "20",
-    "F",
-    "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
-    "Concomitant (link is external) disease (link is external) aggravated (link is external)"
-  ],
-  [
     "715631",
     "01/03/2022",
     "57",
@@ -62,6 +54,14 @@
     "F",
     "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
     "Anti (link is external) factor (link is external) VIII (link is external) antibody (link is external) increased (link is external) \n \n Cytokine (link is external) storm (link is external) \n \n Postmenopausal (link is external) haemorrhage (link is external)"
+  ],
+  [
+    "715957",
+    "01/03/2022",
+    "20",
+    "F",
+    "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
+    "Concomitant (link is external) disease (link is external) aggravated (link is external)"
   ],
   [
     "715598",
@@ -96,14 +96,6 @@
     "Inappropriate (link is external) schedule (link is external) of (link is external) product (link is external) administration (link is external) \n \n Vaccination (link is external) error (link is external)"
   ],
   [
-    "715955",
-    "01/03/2022",
-    "44",
-    "F",
-    "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
-    "Dizziness (link is external) \n \n Menstrual (link is external) disorder (link is external) \n \n Vision (link is external) blurred (link is external)"
-  ],
-  [
     "715490",
     "01/03/2022",
     "17",
@@ -118,6 +110,14 @@
     "M",
     "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
     "Inappropriate (link is external) schedule (link is external) of (link is external) product (link is external) administration (link is external) \n \n Vaccination (link is external) error (link is external)"
+  ],
+  [
+    "715955",
+    "01/03/2022",
+    "44",
+    "F",
+    "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
+    "Dizziness (link is external) \n \n Menstrual (link is external) disorder (link is external) \n \n Vision (link is external) blurred (link is external)"
   ],
   [
     "714706",
@@ -198,205 +198,5 @@
     "M",
     "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
     "Thrombosis (link is external)"
-  ],
-  [
-    "715278",
-    "28/02/2022",
-    "62",
-    "F",
-    "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
-    "Angiocardiogram (link is external) \n \n Chest (link is external) pain (link is external) \n \n Echocardiogram (link is external) \n \n Electrocardiogram (link is external) \n \n Magnetic (link is external) resonance (link is external) imaging (link is external) heart (link is external) \n \n Myocarditis (link is external) \n \n Nausea (link is external) \n \n Palpitations (link is external) \n \n Troponin (link is external) increased (link is external)"
-  ],
-  [
-    "714808",
-    "28/02/2022",
-    "64",
-    "M",
-    "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected\n \n COMIRNATY COVID-19 vaccine (tozinameran) - Not suspected",
-    "Haemoglobin (link is external) abnormal (link is external)"
-  ],
-  [
-    "715088",
-    "28/02/2022",
-    "29",
-    "F",
-    "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
-    "Vaccination (link is external) error (link is external) \n \n Wrong (link is external) product (link is external) administered (link is external)"
-  ],
-  [
-    "714705",
-    "28/02/2022",
-    "60",
-    "F",
-    "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected\n \n Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected",
-    "Anxiety (link is external) \n \n Asthenia (link is external) \n \n Asthenopia (link is external) \n \n Concomitant (link is external) disease (link is external) aggravated (link is external) \n \n Confusional (link is external) state (link is external) \n \n Coordination (link is external) abnormal (link is external) \n \n Depressed (link is external) mood (link is external) \n \n Diarrhoea (link is external) \n \n Disturbance (link is external) in (link is external) attention (link is external) \n \n Dizziness (link is external) \n \n Fatigue (link is external) \n \n Feeling (link is external) abnormal (link is external) \n \n Headache (link is external) \n \n Insomnia (link is external) \n \n Nausea (link is external) \n \n Night (link is external) sweats (link is external) \n \n Parosmia (link is external) \n \n Pyrexia (link is external) \n \n Rash (link is external) pruritic (link is external) \n \n Somnolence (link is external) \n \n Taste (link is external) disorder (link is external) \n \n Tearfulness (link is external)"
-  ],
-  [
-    "714831",
-    "28/02/2022",
-    "57",
-    "M",
-    "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
-    "Chest (link is external) pain (link is external) \n \n Cold (link is external) sweat (link is external) \n \n Dyspnoea (link is external) \n \n Fatigue (link is external) \n \n Headache (link is external) \n \n Lymphadenopathy (link is external) \n \n Memory (link is external) impairment (link is external) \n \n Mydriasis (link is external) \n \n Palpitations (link is external)"
-  ],
-  [
-    "714631",
-    "27/02/2022",
-    "64",
-    "M",
-    "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
-    "Anxiety (link is external) \n \n Atrial (link is external) fibrillation (link is external) \n \n Dizziness (link is external) \n \n Headache (link is external) \n \n Tachycardia (link is external)"
-  ],
-  [
-    "714634",
-    "27/02/2022",
-    "36",
-    "F",
-    "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
-    "Arthralgia (link is external)"
-  ],
-  [
-    "714647",
-    "27/02/2022",
-    "66",
-    "F",
-    "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
-    "Mass (link is external)"
-  ],
-  [
-    "714649",
-    "27/02/2022",
-    "56",
-    "M",
-    "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected\n \n Levemir (Insulin detemir) - Not suspected",
-    "Arthralgia (link is external)"
-  ],
-  [
-    "714601",
-    "26/02/2022",
-    "52",
-    "F",
-    "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
-    "Tinnitus (link is external)"
-  ],
-  [
-    "714583",
-    "26/02/2022",
-    "54",
-    "M",
-    "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
-    "Herpes (link is external) zoster (link is external)"
-  ],
-  [
-    "714577",
-    "26/02/2022",
-    "68",
-    "M",
-    "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
-    "Atrial (link is external) fibrillation (link is external) \n \n Palpitations (link is external)"
-  ],
-  [
-    "714107",
-    "25/02/2022",
-    "61",
-    "F",
-    "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
-    "Abdominal (link is external) pain (link is external) \n \n Chills (link is external) \n \n Decreased (link is external) appetite (link is external) \n \n Diarrhoea (link is external) \n \n Dizziness (link is external) \n \n Fatigue (link is external) \n \n Nausea (link is external) \n \n Pain (link is external) \n \n Pruritus (link is external) \n \n Rash (link is external) \n \n Somnolence (link is external)"
-  ],
-  [
-    "714143",
-    "25/02/2022",
-    "26",
-    "M",
-    "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
-    "Arthralgia (link is external)"
-  ],
-  [
-    "714242",
-    "25/02/2022",
-    "52",
-    "M",
-    "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
-    "Dyspnoea (link is external)"
-  ],
-  [
-    "714077",
-    "25/02/2022",
-    "67",
-    "F",
-    "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
-    "Fatigue (link is external) \n \n Headache (link is external) \n \n Hypertension (link is external) \n \n Nausea (link is external) \n \n Presyncope (link is external)"
-  ],
-  [
-    "714387",
-    "25/02/2022",
-    "57",
-    "F",
-    "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
-    "Concomitant (link is external) disease (link is external) aggravated (link is external) \n \n Palpitations (link is external)"
-  ],
-  [
-    "714140",
-    "25/02/2022",
-    "34",
-    "F",
-    "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
-    "Arthralgia (link is external) \n \n Chest (link is external) pain (link is external) \n \n Concomitant (link is external) disease (link is external) aggravated (link is external) \n \n Dyspnoea (link is external) \n \n Fibrin (link is external) D (link is external) dimer (link is external) increased (link is external) \n \n Headache (link is external) \n \n Malaise (link is external) \n \n Pulmonary (link is external) embolism (link is external)"
-  ],
-  [
-    "714518",
-    "25/02/2022",
-    "70",
-    "M",
-    "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
-    "Drug (link is external) tolerance (link is external)"
-  ],
-  [
-    "714207",
-    "25/02/2022",
-    "-",
-    "-",
-    "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
-    "Gingival (link is external) bleeding (link is external)"
-  ],
-  [
-    "714074",
-    "25/02/2022",
-    "62",
-    "M",
-    "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
-    "Nasal (link is external) congestion (link is external) \n \n Viral (link is external) infection (link is external)"
-  ],
-  [
-    "714125",
-    "25/02/2022",
-    "55",
-    "F",
-    "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
-    "Injection (link is external) site (link is external) reaction (link is external) \n \n Myalgia (link is external) \n \n Neuralgia (link is external) \n \n Thyroiditis (link is external)"
-  ],
-  [
-    "714355",
-    "25/02/2022",
-    "69",
-    "F",
-    "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
-    "Thrombosis (link is external)"
-  ],
-  [
-    "714119",
-    "25/02/2022",
-    "60",
-    "M",
-    "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
-    "Lymphadenopathy (link is external) \n \n Myalgia (link is external) \n \n Pain (link is external) in (link is external) extremity (link is external)"
-  ],
-  [
-    "714157",
-    "25/02/2022",
-    "35",
-    "F",
-    "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
-    "Fatigue (link is external) \n \n Menstrual (link is external) disorder (link is external) \n \n Menstruation (link is external) delayed (link is external)"
   ]
 ]
