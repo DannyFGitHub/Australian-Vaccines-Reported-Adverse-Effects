@@ -1,0 +1,1522 @@
+[
+  {
+    "caseNumber": "726032",
+    "reportEntryDate": "2022-03-31T00:00:00.000+11:00",
+    "age": "19",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain",
+      "Headache",
+      "Lethargy",
+      "Myalgia",
+      "Nausea",
+      "Pyrexia"
+    ]
+  },
+  {
+    "caseNumber": "724046",
+    "reportEntryDate": "2022-03-25T00:00:00.000+11:00",
+    "age": "21",
+    "gender": "-",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Dyspnoea"
+    ]
+  },
+  {
+    "caseNumber": "725471",
+    "reportEntryDate": "2022-03-30T00:00:00.000+11:00",
+    "age": "23",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Pericarditis"
+    ]
+  },
+  {
+    "caseNumber": "724301",
+    "reportEntryDate": "2022-03-25T00:00:00.000+11:00",
+    "age": "23",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Blood bilirubin increased",
+      "Chest discomfort",
+      "Chest pain",
+      "Dizziness",
+      "Echocardiogram abnormal",
+      "Malaise",
+      "Mitral valve thickening",
+      "Palpitations",
+      "Pericarditis",
+      "Tachycardia"
+    ]
+  },
+  {
+    "caseNumber": "725714",
+    "reportEntryDate": "2022-03-31T00:00:00.000+11:00",
+    "age": "24",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Menstrual disorder",
+      "Menstruation irregular"
+    ]
+  },
+  {
+    "caseNumber": "725626",
+    "reportEntryDate": "2022-03-30T00:00:00.000+11:00",
+    "age": "25",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain"
+    ]
+  },
+  {
+    "caseNumber": "724609",
+    "reportEntryDate": "2022-03-28T00:00:00.000+11:00",
+    "age": "27",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Injection site pain"
+    ]
+  },
+  {
+    "caseNumber": "724596",
+    "reportEntryDate": "2022-03-28T00:00:00.000+11:00",
+    "age": "27",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Anxiety",
+      "Dysmenorrhoea",
+      "Menstrual disorder",
+      "Menstruation irregular",
+      "Tachycardia"
+    ]
+  },
+  {
+    "caseNumber": "724857",
+    "reportEntryDate": "2022-03-28T00:00:00.000+11:00",
+    "age": "27",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Pericarditis"
+    ]
+  },
+  {
+    "caseNumber": "724476",
+    "reportEntryDate": "2022-03-27T00:00:00.000+11:00",
+    "age": "27",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Arthralgia",
+      "Burning sensation",
+      "Chest pain",
+      "Dyspnoea",
+      "Fatigue",
+      "Headache",
+      "Injection site pain",
+      "Lymphadenopathy",
+      "Myalgia",
+      "Pruritus",
+      "Pyrexia"
+    ]
+  },
+  {
+    "caseNumber": "725688",
+    "reportEntryDate": "2022-03-31T00:00:00.000+11:00",
+    "age": "28",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain",
+      "Painful respiration"
+    ]
+  },
+  {
+    "caseNumber": "724821",
+    "reportEntryDate": "2022-03-28T00:00:00.000+11:00",
+    "age": "28",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Concomitant disease aggravated",
+      "Dizziness",
+      "Pericarditis"
+    ]
+  },
+  {
+    "caseNumber": "725270",
+    "reportEntryDate": "2022-03-29T00:00:00.000+11:00",
+    "age": "29",
+    "gender": "-",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain",
+      "Dyspnoea",
+      "Pain in extremity",
+      "Palpitations"
+    ]
+  },
+  {
+    "caseNumber": "724572",
+    "reportEntryDate": "2022-03-28T00:00:00.000+11:00",
+    "age": "29",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Confusional state",
+      "Decreased appetite",
+      "Dizziness",
+      "Fatigue",
+      "Headache",
+      "Injection site reaction",
+      "Pain",
+      "Pyrexia"
+    ]
+  },
+  {
+    "caseNumber": "724501",
+    "reportEntryDate": "2022-03-27T00:00:00.000+11:00",
+    "age": "29",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Arthralgia",
+      "Chills",
+      "Fatigue",
+      "Pyrexia"
+    ]
+  },
+  {
+    "caseNumber": "723860",
+    "reportEntryDate": "2022-03-24T00:00:00.000+11:00",
+    "age": "29",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Abdominal pain",
+      "Arthralgia",
+      "Headache",
+      "Lethargy",
+      "Myalgia",
+      "Pericarditis",
+      "Pyrexia"
+    ]
+  },
+  {
+    "caseNumber": "723710",
+    "reportEntryDate": "2022-03-24T00:00:00.000+11:00",
+    "age": "30",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Hyperphagia",
+      "Injected limb mobility decreased",
+      "Injection site pain"
+    ]
+  },
+  {
+    "caseNumber": "725642",
+    "reportEntryDate": "2022-03-30T00:00:00.000+11:00",
+    "age": "31",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain",
+      "Dizziness",
+      "Dyspnoea",
+      "Vomiting"
+    ]
+  },
+  {
+    "caseNumber": "725074",
+    "reportEntryDate": "2022-03-29T00:00:00.000+11:00",
+    "age": "31",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Feeling abnormal",
+      "Injection site reaction",
+      "Lymphadenopathy",
+      "Paraesthesia",
+      "Somnolence"
+    ]
+  },
+  {
+    "caseNumber": "724104",
+    "reportEntryDate": "2022-03-25T00:00:00.000+11:00",
+    "age": "31",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Abdominal pain",
+      "Chest pain",
+      "Diarrhoea",
+      "Dyspnoea",
+      "Paraesthesia"
+    ]
+  },
+  {
+    "caseNumber": "724045",
+    "reportEntryDate": "2022-03-25T00:00:00.000+11:00",
+    "age": "32",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Fatigue",
+      "Injection site reaction",
+      "Oropharyngeal pain",
+      "Pyrexia",
+      "SARS-CoV-2 test positive"
+    ]
+  },
+  {
+    "caseNumber": "724044",
+    "reportEntryDate": "2022-03-25T00:00:00.000+11:00",
+    "age": "32",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Abdominal pain",
+      "Myalgia",
+      "Neuralgia",
+      "Pelvic pain"
+    ]
+  },
+  {
+    "caseNumber": "723731",
+    "reportEntryDate": "2022-03-24T00:00:00.000+11:00",
+    "age": "32",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Headache",
+      "Injection site swelling",
+      "Nausea"
+    ]
+  },
+  {
+    "caseNumber": "725387",
+    "reportEntryDate": "2022-03-30T00:00:00.000+11:00",
+    "age": "33",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Hypoaesthesia",
+      "Nausea",
+      "Paraesthesia",
+      "Pruritus",
+      "Vomiting"
+    ]
+  },
+  {
+    "caseNumber": "725824",
+    "reportEntryDate": "2022-03-31T00:00:00.000+11:00",
+    "age": "34",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Arthralgia",
+      "Back pain",
+      "Chest pain",
+      "Decreased appetite",
+      "Diarrhoea",
+      "Dry mouth",
+      "Fatigue",
+      "Injection site pain",
+      "Migraine",
+      "Nausea"
+    ]
+  },
+  {
+    "caseNumber": "724985",
+    "reportEntryDate": "2022-03-29T00:00:00.000+11:00",
+    "age": "34",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest discomfort",
+      "Chest pain",
+      "Injection site reaction"
+    ]
+  },
+  {
+    "caseNumber": "725384",
+    "reportEntryDate": "2022-03-30T00:00:00.000+11:00",
+    "age": "35",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Injection site bruising",
+      "Injection site rash",
+      "Pyrexia"
+    ]
+  },
+  {
+    "caseNumber": "724448",
+    "reportEntryDate": "2022-03-27T00:00:00.000+11:00",
+    "age": "35",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Fatigue",
+      "Myalgia",
+      "Palpitations",
+      "Pyrexia"
+    ]
+  },
+  {
+    "caseNumber": "724058",
+    "reportEntryDate": "2022-03-25T00:00:00.000+11:00",
+    "age": "35",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Hypotension",
+      "Paraesthesia"
+    ]
+  },
+  {
+    "caseNumber": "726010",
+    "reportEntryDate": "2022-03-31T00:00:00.000+11:00",
+    "age": "36",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chills",
+      "Headache",
+      "Injection site reaction",
+      "Lethargy",
+      "Pain",
+      "Syncope"
+    ]
+  },
+  {
+    "caseNumber": "725711",
+    "reportEntryDate": "2022-03-31T00:00:00.000+11:00",
+    "age": "36",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Abdominal pain",
+      "Arthralgia",
+      "Hypoaesthesia",
+      "Lethargy",
+      "Myalgia",
+      "Nausea",
+      "Neuralgia",
+      "Paraesthesia",
+      "Vomiting"
+    ]
+  },
+  {
+    "caseNumber": "724672",
+    "reportEntryDate": "2022-03-28T00:00:00.000+11:00",
+    "age": "36",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Back pain",
+      "Neck pain",
+      "Pruritus"
+    ]
+  },
+  {
+    "caseNumber": "725055",
+    "reportEntryDate": "2022-03-29T00:00:00.000+11:00",
+    "age": "37",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Back pain",
+      "Palpitations",
+      "Pyrexia"
+    ]
+  },
+  {
+    "caseNumber": "723873",
+    "reportEntryDate": "2022-03-24T00:00:00.000+11:00",
+    "age": "37",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Headache",
+      "Lethargy"
+    ]
+  },
+  {
+    "caseNumber": "724658",
+    "reportEntryDate": "2022-03-28T00:00:00.000+11:00",
+    "age": "38",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Drug-induced liver injury",
+      "Jaundice",
+      "Pruritus"
+    ]
+  },
+  {
+    "caseNumber": "725719",
+    "reportEntryDate": "2022-03-31T00:00:00.000+11:00",
+    "age": "39",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Diarrhoea",
+      "Fatigue",
+      "Headache",
+      "Injection site swelling",
+      "Nausea",
+      "Vomiting"
+    ]
+  },
+  {
+    "caseNumber": "726030",
+    "reportEntryDate": "2022-03-31T00:00:00.000+11:00",
+    "age": "40",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "COVID-19",
+      "Dyspnoea",
+      "Influenza like illness",
+      "Rash",
+      "Urinary tract infection"
+    ]
+  },
+  {
+    "caseNumber": "726011",
+    "reportEntryDate": "2022-03-31T00:00:00.000+11:00",
+    "age": "40",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Arthralgia",
+      "Fatigue",
+      "Malaise",
+      "Muscle twitching",
+      "Nausea",
+      "Neuralgia"
+    ]
+  },
+  {
+    "caseNumber": "724729",
+    "reportEntryDate": "2022-03-28T00:00:00.000+11:00",
+    "age": "40",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Injection site reaction",
+      "Pain in extremity"
+    ]
+  },
+  {
+    "caseNumber": "723978",
+    "reportEntryDate": "2022-03-25T00:00:00.000+11:00",
+    "age": "40",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest discomfort",
+      "Chest pain",
+      "Injection site pain"
+    ]
+  },
+  {
+    "caseNumber": "725622",
+    "reportEntryDate": "2022-03-30T00:00:00.000+11:00",
+    "age": "41",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest discomfort",
+      "Chest pain",
+      "Dyspepsia",
+      "Electrocardiogram abnormal",
+      "Hypertension",
+      "Palpitations",
+      "Pericarditis"
+    ]
+  },
+  {
+    "caseNumber": "725475",
+    "reportEntryDate": "2022-03-30T00:00:00.000+11:00",
+    "age": "42",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Peripheral swelling",
+      "Urticaria"
+    ]
+  },
+  {
+    "caseNumber": "724550",
+    "reportEntryDate": "2022-03-28T00:00:00.000+11:00",
+    "age": "42",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain",
+      "Concomitant disease aggravated",
+      "Dizziness",
+      "Headache",
+      "Nausea",
+      "Palpitations"
+    ]
+  },
+  {
+    "caseNumber": "724481",
+    "reportEntryDate": "2022-03-27T00:00:00.000+11:00",
+    "age": "42",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected",
+      "Tradename not specified (Product not coded) - Not suspected"
+    ],
+    "meddraReactionTerms": [
+      "Confusional state",
+      "Dizziness",
+      "Headache",
+      "Hyperhidrosis",
+      "Intermenstrual bleeding",
+      "Lymphadenopathy",
+      "Menstrual disorder",
+      "Nausea",
+      "Palpitations",
+      "Pyrexia"
+    ]
+  },
+  {
+    "caseNumber": "724453",
+    "reportEntryDate": "2022-03-27T00:00:00.000+11:00",
+    "age": "42",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Costochondritis",
+      "Palpitations",
+      "Pruritus"
+    ]
+  },
+  {
+    "caseNumber": "725476",
+    "reportEntryDate": "2022-03-30T00:00:00.000+11:00",
+    "age": "44",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Breast pain",
+      "Chest discomfort",
+      "Chest pain",
+      "Confusional state",
+      "Diarrhoea",
+      "Discoloured vomit",
+      "Exercise tolerance decreased",
+      "Faeces pale",
+      "Injection site reaction",
+      "Lethargy",
+      "Migraine",
+      "Paraesthesia",
+      "Swelling face",
+      "Urinary tract infection",
+      "Vomiting"
+    ]
+  },
+  {
+    "caseNumber": "725169",
+    "reportEntryDate": "2022-03-29T00:00:00.000+11:00",
+    "age": "44",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Ecchymosis",
+      "Petechiae",
+      "Syncope"
+    ]
+  },
+  {
+    "caseNumber": "724820",
+    "reportEntryDate": "2022-03-28T00:00:00.000+11:00",
+    "age": "44",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Diarrhoea",
+      "Dyspnoea",
+      "Febrile convulsion",
+      "Injection site reaction",
+      "Oropharyngeal pain",
+      "Pyrexia"
+    ]
+  },
+  {
+    "caseNumber": "724344",
+    "reportEntryDate": "2022-03-26T00:00:00.000+11:00",
+    "age": "44",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain",
+      "Palpitations"
+    ]
+  },
+  {
+    "caseNumber": "724036",
+    "reportEntryDate": "2022-03-25T00:00:00.000+11:00",
+    "age": "44",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Back pain",
+      "Fatigue",
+      "Headache",
+      "Pain"
+    ]
+  },
+  {
+    "caseNumber": "725898",
+    "reportEntryDate": "2022-03-31T00:00:00.000+11:00",
+    "age": "45",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest discomfort",
+      "Cough"
+    ]
+  },
+  {
+    "caseNumber": "725820",
+    "reportEntryDate": "2022-03-31T00:00:00.000+11:00",
+    "age": "45",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Injection site rash",
+      "Pyrexia"
+    ]
+  },
+  {
+    "caseNumber": "725175",
+    "reportEntryDate": "2022-03-29T00:00:00.000+11:00",
+    "age": "45",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Influenza like illness"
+    ]
+  },
+  {
+    "caseNumber": "724846",
+    "reportEntryDate": "2022-03-28T00:00:00.000+11:00",
+    "age": "45",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Paraesthesia"
+    ]
+  },
+  {
+    "caseNumber": "724464",
+    "reportEntryDate": "2022-03-27T00:00:00.000+11:00",
+    "age": "45",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Burning sensation",
+      "Chest pain",
+      "Confusional state",
+      "Dizziness",
+      "Dyspnoea",
+      "Electric shock sensation",
+      "Hypertension",
+      "Lethargy",
+      "Nausea",
+      "Pain in extremity",
+      "Paraesthesia",
+      "Pericarditis",
+      "Pneumonia",
+      "Pollakiuria",
+      "Tachycardia"
+    ]
+  },
+  {
+    "caseNumber": "724317",
+    "reportEntryDate": "2022-03-25T00:00:00.000+11:00",
+    "age": "45",
+    "gender": "-",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Headache",
+      "Musculoskeletal pain",
+      "Nausea",
+      "Rash"
+    ]
+  },
+  {
+    "caseNumber": "723910",
+    "reportEntryDate": "2022-03-24T00:00:00.000+11:00",
+    "age": "45",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Confusional state",
+      "Diarrhoea",
+      "Fatigue",
+      "Injection site pain",
+      "Malaise",
+      "Nausea",
+      "Syncope"
+    ]
+  },
+  {
+    "caseNumber": "725075",
+    "reportEntryDate": "2022-03-29T00:00:00.000+11:00",
+    "age": "46",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Burning sensation",
+      "Chest pain",
+      "Confusional state",
+      "Dizziness",
+      "Dyspnoea",
+      "Echocardiogram abnormal",
+      "Electric shock sensation",
+      "Hypertension",
+      "Nausea",
+      "Paraesthesia",
+      "Pericarditis",
+      "Pneumonia",
+      "Tachycardia",
+      "Tremor"
+    ]
+  },
+  {
+    "caseNumber": "724302",
+    "reportEntryDate": "2022-03-25T00:00:00.000+11:00",
+    "age": "46",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Fatigue",
+      "Headache",
+      "Injection site reaction"
+    ]
+  },
+  {
+    "caseNumber": "725269",
+    "reportEntryDate": "2022-03-29T00:00:00.000+11:00",
+    "age": "47",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Hypoaesthesia"
+    ]
+  },
+  {
+    "caseNumber": "725322",
+    "reportEntryDate": "2022-03-29T00:00:00.000+11:00",
+    "age": "47",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Injection site pruritus",
+      "Injection site swelling"
+    ]
+  },
+  {
+    "caseNumber": "724594",
+    "reportEntryDate": "2022-03-28T00:00:00.000+11:00",
+    "age": "47",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Headache"
+    ]
+  },
+  {
+    "caseNumber": "725071",
+    "reportEntryDate": "2022-03-29T00:00:00.000+11:00",
+    "age": "48",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Influenza like illness"
+    ]
+  },
+  {
+    "caseNumber": "724849",
+    "reportEntryDate": "2022-03-28T00:00:00.000+11:00",
+    "age": "48",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Pruritus"
+    ]
+  },
+  {
+    "caseNumber": "725025",
+    "reportEntryDate": "2022-03-29T00:00:00.000+11:00",
+    "age": "49",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Injection site reaction"
+    ]
+  },
+  {
+    "caseNumber": "724906",
+    "reportEntryDate": "2022-03-28T00:00:00.000+11:00",
+    "age": "50",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest discomfort",
+      "Dyspnoea"
+    ]
+  },
+  {
+    "caseNumber": "724697",
+    "reportEntryDate": "2022-03-28T00:00:00.000+11:00",
+    "age": "50",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Arthralgia",
+      "Cyanosis",
+      "Pain",
+      "Pain in extremity"
+    ]
+  },
+  {
+    "caseNumber": "725473",
+    "reportEntryDate": "2022-03-30T00:00:00.000+11:00",
+    "age": "51",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Confusional state",
+      "Dizziness",
+      "Dry mouth",
+      "Headache",
+      "Injection site pain",
+      "Myalgia",
+      "Pyrexia"
+    ]
+  },
+  {
+    "caseNumber": "725321",
+    "reportEntryDate": "2022-03-29T00:00:00.000+11:00",
+    "age": "51",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest discomfort",
+      "Chest pain",
+      "Cold sweat"
+    ]
+  },
+  {
+    "caseNumber": "724499",
+    "reportEntryDate": "2022-03-27T00:00:00.000+11:00",
+    "age": "51",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Arthralgia",
+      "Essential tremor",
+      "Hypoaesthesia"
+    ]
+  },
+  {
+    "caseNumber": "724299",
+    "reportEntryDate": "2022-03-25T00:00:00.000+11:00",
+    "age": "51",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Back pain",
+      "Burning sensation",
+      "Chest pain",
+      "Lacrimation increased",
+      "Lymphadenopathy",
+      "Pain in extremity",
+      "Pruritus",
+      "Swelling"
+    ]
+  },
+  {
+    "caseNumber": "726000",
+    "reportEntryDate": "2022-03-31T00:00:00.000+11:00",
+    "age": "52",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Headache",
+      "Injection site reaction"
+    ]
+  },
+  {
+    "caseNumber": "724413",
+    "reportEntryDate": "2022-03-26T00:00:00.000+11:00",
+    "age": "53",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Injection site reaction",
+      "Rash"
+    ]
+  },
+  {
+    "caseNumber": "725016",
+    "reportEntryDate": "2022-03-29T00:00:00.000+11:00",
+    "age": "54",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain",
+      "Headache",
+      "Pain in extremity",
+      "Paraesthesia",
+      "Visual impairment"
+    ]
+  },
+  {
+    "caseNumber": "724422",
+    "reportEntryDate": "2022-03-26T00:00:00.000+11:00",
+    "age": "55",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Balance disorder",
+      "Confusional state",
+      "Dizziness",
+      "Headache",
+      "Lethargy",
+      "Vertigo"
+    ]
+  },
+  {
+    "caseNumber": "723668",
+    "reportEntryDate": "2022-03-24T00:00:00.000+11:00",
+    "age": "55",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Injection site cellulitis"
+    ]
+  },
+  {
+    "caseNumber": "724724",
+    "reportEntryDate": "2022-03-28T00:00:00.000+11:00",
+    "age": "56",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Eye swelling",
+      "Headache",
+      "Influenza"
+    ]
+  },
+  {
+    "caseNumber": "724628",
+    "reportEntryDate": "2022-03-28T00:00:00.000+11:00",
+    "age": "57",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain",
+      "Headache"
+    ]
+  },
+  {
+    "caseNumber": "723741",
+    "reportEntryDate": "2022-03-24T00:00:00.000+11:00",
+    "age": "57",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected",
+      "Tradename not specified (ibuprofen) - Not suspected"
+    ],
+    "meddraReactionTerms": [
+      "Fatigue",
+      "Injection site swelling",
+      "Joint stiffness",
+      "Pyrexia",
+      "Tremor"
+    ]
+  },
+  {
+    "caseNumber": "725653",
+    "reportEntryDate": "2022-03-30T00:00:00.000+11:00",
+    "age": "58",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Arthralgia",
+      "Injected limb mobility decreased"
+    ]
+  },
+  {
+    "caseNumber": "725422",
+    "reportEntryDate": "2022-03-30T00:00:00.000+11:00",
+    "age": "60",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Dizziness"
+    ]
+  },
+  {
+    "caseNumber": "724279",
+    "reportEntryDate": "2022-03-25T00:00:00.000+11:00",
+    "age": "61",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Injection site rash",
+      "Injection site swelling",
+      "Pruritus"
+    ]
+  },
+  {
+    "caseNumber": "725203",
+    "reportEntryDate": "2022-03-29T00:00:00.000+11:00",
+    "age": "62",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Disturbance in attention",
+      "Fatigue",
+      "Feeling abnormal",
+      "Neck pain",
+      "Pain in extremity",
+      "Paraesthesia"
+    ]
+  },
+  {
+    "caseNumber": "724468",
+    "reportEntryDate": "2022-03-27T00:00:00.000+11:00",
+    "age": "62",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Eye infection"
+    ]
+  },
+  {
+    "caseNumber": "724864",
+    "reportEntryDate": "2022-03-28T00:00:00.000+11:00",
+    "age": "63",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Palpitations",
+      "Paraesthesia"
+    ]
+  },
+  {
+    "caseNumber": "724304",
+    "reportEntryDate": "2022-03-25T00:00:00.000+11:00",
+    "age": "64",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Dysgeusia",
+      "Headache",
+      "Injection site pain",
+      "Injection site rash",
+      "Paraesthesia"
+    ]
+  },
+  {
+    "caseNumber": "726008",
+    "reportEntryDate": "2022-03-31T00:00:00.000+11:00",
+    "age": "69",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Abdominal pain",
+      "Blood pressure increased",
+      "Chest discomfort",
+      "Chest pain",
+      "Decreased appetite",
+      "Diarrhoea",
+      "Headache",
+      "Lethargy",
+      "Myalgia",
+      "Nausea",
+      "Tachycardia"
+    ]
+  },
+  {
+    "caseNumber": "724883",
+    "reportEntryDate": "2022-03-28T00:00:00.000+11:00",
+    "age": "71",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Influenza like illness",
+      "Pyrexia"
+    ]
+  },
+  {
+    "caseNumber": "725980",
+    "reportEntryDate": "2022-03-31T00:00:00.000+11:00",
+    "age": "-",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Rash pruritic"
+    ]
+  },
+  {
+    "caseNumber": "725630",
+    "reportEntryDate": "2022-03-30T00:00:00.000+11:00",
+    "age": "-",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Asthenia",
+      "Fatigue",
+      "Lethargy",
+      "Vomiting"
+    ]
+  },
+  {
+    "caseNumber": "725631",
+    "reportEntryDate": "2022-03-30T00:00:00.000+11:00",
+    "age": "-",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Headache"
+    ]
+  },
+  {
+    "caseNumber": "724992",
+    "reportEntryDate": "2022-03-29T00:00:00.000+11:00",
+    "age": "-",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain",
+      "Dizziness",
+      "Fatigue",
+      "Nausea",
+      "Visual impairment"
+    ]
+  },
+  {
+    "caseNumber": "724994",
+    "reportEntryDate": "2022-03-29T00:00:00.000+11:00",
+    "age": "-",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Arthralgia",
+      "Gout",
+      "Headache",
+      "Injection site swelling",
+      "Lethargy",
+      "Myalgia",
+      "Pyrexia"
+    ]
+  },
+  {
+    "caseNumber": "725000",
+    "reportEntryDate": "2022-03-29T00:00:00.000+11:00",
+    "age": "-",
+    "gender": "-",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Ear discomfort",
+      "Ear swelling",
+      "Furuncle",
+      "Pruritus",
+      "Rash",
+      "Throat irritation"
+    ]
+  },
+  {
+    "caseNumber": "725293",
+    "reportEntryDate": "2022-03-29T00:00:00.000+11:00",
+    "age": "-",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Vaccination error"
+    ]
+  },
+  {
+    "caseNumber": "724860",
+    "reportEntryDate": "2022-03-28T00:00:00.000+11:00",
+    "age": "-",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Arthralgia",
+      "Erythema",
+      "Pain"
+    ]
+  },
+  {
+    "caseNumber": "724717",
+    "reportEntryDate": "2022-03-28T00:00:00.000+11:00",
+    "age": "-",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain",
+      "Cough",
+      "Neck pain"
+    ]
+  },
+  {
+    "caseNumber": "724850",
+    "reportEntryDate": "2022-03-28T00:00:00.000+11:00",
+    "age": "-",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Headache",
+      "Neuralgia",
+      "Tachycardia"
+    ]
+  },
+  {
+    "caseNumber": "724325",
+    "reportEntryDate": "2022-03-26T00:00:00.000+11:00",
+    "age": "-",
+    "gender": "-",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Concomitant disease aggravated",
+      "Gastrointestinal disorder",
+      "Headache",
+      "Liver disorder",
+      "SARS-CoV-2 test positive"
+    ]
+  },
+  {
+    "caseNumber": "723879",
+    "reportEntryDate": "2022-03-24T00:00:00.000+11:00",
+    "age": "-",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Tradename not specified (Product not coded) - Suspected",
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Diarrhoea",
+      "Headache",
+      "Malaise",
+      "Nausea"
+    ]
+  }
+]
