@@ -19,7 +19,7 @@ But researchers aren't interested in a pre-masticated report.
 
 In the name of all researchers out there, we are providing a WIP export from the beginning of time to the most current date possible of Australian COVID-19 vaccines adverse events data that we could find on the DAEN site.
 
-We were able to locate 3 out of 4 approved vaccine data on the DAEN site. These include:
+We were able to locate 4 approved vaccine data on the DAEN site. These include:
 
 ### SpikeVax
 
