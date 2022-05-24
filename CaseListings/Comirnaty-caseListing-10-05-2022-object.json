@@ -1,0 +1,1856 @@
+[
+  {
+    "caseNumber": "734187",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "5",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Abdominal pain",
+      "Cardiac arrest"
+    ]
+  },
+  {
+    "caseNumber": "734225",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "5",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Henoch-Schonlein purpura"
+    ]
+  },
+  {
+    "caseNumber": "734162",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "5",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Concomitant disease aggravated"
+    ]
+  },
+  {
+    "caseNumber": "734393",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "5",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Rash pruritic"
+    ]
+  },
+  {
+    "caseNumber": "734147",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "6",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "SARS-CoV-2 test positive"
+    ]
+  },
+  {
+    "caseNumber": "733790",
+    "reportEntryDate": "2022-05-07T00:00:00.000+10:00",
+    "age": "6",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Abdominal pain",
+      "Pallor",
+      "Pyrexia"
+    ]
+  },
+  {
+    "caseNumber": "733948",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "7",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Rash maculo-papular"
+    ]
+  },
+  {
+    "caseNumber": "733791",
+    "reportEntryDate": "2022-05-07T00:00:00.000+10:00",
+    "age": "8",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain",
+      "Dyspnoea"
+    ]
+  },
+  {
+    "caseNumber": "733730",
+    "reportEntryDate": "2022-05-06T00:00:00.000+10:00",
+    "age": "9",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Dyspnoea"
+    ]
+  },
+  {
+    "caseNumber": "734066",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "10",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Headache",
+      "Lethargy",
+      "Pruritus",
+      "Pyrexia",
+      "Vomiting"
+    ]
+  },
+  {
+    "caseNumber": "733898",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "12",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+      "FluQuadri Vaccine (Influenza virus haemagglutinin) - Not suspected"
+    ],
+    "meddraReactionTerms": [
+      "Product administered to patient of inappropriate age",
+      "Vaccination error"
+    ]
+  },
+  {
+    "caseNumber": "734385",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "13",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain",
+      "Dizziness",
+      "Myocarditis",
+      "Orthostatic hypotension",
+      "Palpitations"
+    ]
+  },
+  {
+    "caseNumber": "733904",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "14",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+      "FluQuadri Vaccine (Influenza virus haemagglutinin) - Not suspected"
+    ],
+    "meddraReactionTerms": [
+      "Product administered to patient of inappropriate age",
+      "Vaccination error"
+    ]
+  },
+  {
+    "caseNumber": "734408",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "15",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Blood creatine phosphokinase increased",
+      "Myositis"
+    ]
+  },
+  {
+    "caseNumber": "734069",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "16",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Castleman's disease"
+    ]
+  },
+  {
+    "caseNumber": "733567",
+    "reportEntryDate": "2022-05-06T00:00:00.000+10:00",
+    "age": "16",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain",
+      "Epigastric discomfort",
+      "Nausea",
+      "Palpitations"
+    ]
+  },
+  {
+    "caseNumber": "734378",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "18",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Abdominal pain",
+      "Arthralgia",
+      "Chest pain",
+      "Headache",
+      "Injection site reaction",
+      "Lethargy",
+      "Myalgia",
+      "Nausea"
+    ]
+  },
+  {
+    "caseNumber": "734377",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "19",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chills",
+      "Conversion disorder",
+      "Headache",
+      "Lethargy",
+      "Muscular weakness",
+      "Myalgia"
+    ]
+  },
+  {
+    "caseNumber": "734045",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "19",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Headache",
+      "Malaise"
+    ]
+  },
+  {
+    "caseNumber": "734085",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "19",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Dyspnoea",
+      "Pericarditis"
+    ]
+  },
+  {
+    "caseNumber": "734380",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "20",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Abdominal pain",
+      "Arthralgia",
+      "Chest pain",
+      "Chills",
+      "Dyspnoea",
+      "Headache",
+      "Injection site reaction",
+      "Lethargy",
+      "Myalgia",
+      "Nausea"
+    ]
+  },
+  {
+    "caseNumber": "734388",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "20",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Arthralgia",
+      "Chest pain",
+      "Dyspnoea",
+      "Extensive swelling of vaccinated limb",
+      "Headache",
+      "Lethargy",
+      "Myalgia",
+      "Pericardial effusion",
+      "Pyrexia",
+      "Syncope"
+    ]
+  },
+  {
+    "caseNumber": "734328",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "21",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chills",
+      "Headache",
+      "Lethargy",
+      "Myalgia",
+      "Nausea"
+    ]
+  },
+  {
+    "caseNumber": "734382",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "22",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain",
+      "Lethargy",
+      "Myalgia",
+      "Pyrexia"
+    ]
+  },
+  {
+    "caseNumber": "734381",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "22",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Abdominal pain",
+      "Arthralgia",
+      "Cough",
+      "Diarrhoea",
+      "Headache",
+      "Injection site reaction",
+      "Lip swelling",
+      "Myalgia",
+      "Pyrexia",
+      "Rash",
+      "Vomiting"
+    ]
+  },
+  {
+    "caseNumber": "734356",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "23",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Abdominal pain",
+      "Chest pain",
+      "Diarrhoea",
+      "Headache",
+      "Injection site reaction",
+      "Lethargy",
+      "Myalgia",
+      "Pyrexia",
+      "Vomiting"
+    ]
+  },
+  {
+    "caseNumber": "734419",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "25",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Lymphadenopathy"
+    ]
+  },
+  {
+    "caseNumber": "734374",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "26",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Abdominal pain",
+      "Arthralgia",
+      "Diarrhoea",
+      "Dyspnoea",
+      "Headache",
+      "Lethargy",
+      "Myalgia",
+      "Pyrexia",
+      "Syncope",
+      "Tachycardia"
+    ]
+  },
+  {
+    "caseNumber": "734210",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "27",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Abdominal pain",
+      "Headache",
+      "Menstrual disorder",
+      "Menstruation irregular",
+      "Myalgia",
+      "Pyrexia",
+      "Vomiting"
+    ]
+  },
+  {
+    "caseNumber": "734360",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "27",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Fracture"
+    ]
+  },
+  {
+    "caseNumber": "734376",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "27",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain"
+    ]
+  },
+  {
+    "caseNumber": "734076",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "27",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Dyspnoea",
+      "Pneumonitis",
+      "SARS-CoV-2 test positive"
+    ]
+  },
+  {
+    "caseNumber": "734452",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "28",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Dizziness",
+      "Dysmenorrhoea",
+      "Heavy menstrual bleeding",
+      "Hypoacusis",
+      "Menstrual disorder",
+      "Polymenorrhoea",
+      "Tinnitus",
+      "Visual impairment"
+    ]
+  },
+  {
+    "caseNumber": "734387",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "28",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain"
+    ]
+  },
+  {
+    "caseNumber": "734375",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "29",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Arthralgia",
+      "Chest pain",
+      "Headache",
+      "Myalgia"
+    ]
+  },
+  {
+    "caseNumber": "734373",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "29",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain",
+      "Lethargy",
+      "Myalgia"
+    ]
+  },
+  {
+    "caseNumber": "734067",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "29",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Pericarditis"
+    ]
+  },
+  {
+    "caseNumber": "734049",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "29",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Injection site reaction",
+      "Musculoskeletal stiffness",
+      "Nausea",
+      "Pallor",
+      "Syncope",
+      "Vomiting"
+    ]
+  },
+  {
+    "caseNumber": "734054",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "29",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Abdominal pain",
+      "Ectopic pregnancy",
+      "Ovarian cyst"
+    ]
+  },
+  {
+    "caseNumber": "734384",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "30",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Arthralgia",
+      "Chest pain",
+      "Chills",
+      "Dyspnoea",
+      "Headache",
+      "Lethargy",
+      "Myalgia",
+      "Syncope"
+    ]
+  },
+  {
+    "caseNumber": "733896",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "30",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Cough",
+      "Decreased appetite",
+      "Dyspnoea",
+      "Fatigue",
+      "Headache",
+      "Myalgia",
+      "Nausea",
+      "Oropharyngeal pain",
+      "Pyrexia",
+      "Rhinorrhoea",
+      "SARS-CoV-2 test positive",
+      "Vaccine breakthrough infection"
+    ]
+  },
+  {
+    "caseNumber": "733792",
+    "reportEntryDate": "2022-05-07T00:00:00.000+10:00",
+    "age": "30",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Not suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain",
+      "Dyspnoea",
+      "Pericarditis"
+    ]
+  },
+  {
+    "caseNumber": "733724",
+    "reportEntryDate": "2022-05-06T00:00:00.000+10:00",
+    "age": "30",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Abdominal pain",
+      "Ovarian oedema"
+    ]
+  },
+  {
+    "caseNumber": "734160",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "31",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Cough",
+      "Headache",
+      "Heavy menstrual bleeding",
+      "Injection site pain",
+      "Menstrual disorder",
+      "Menstruation irregular",
+      "Myalgia",
+      "Nasal congestion",
+      "Nausea",
+      "Pyrexia"
+    ]
+  },
+  {
+    "caseNumber": "734239",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "31",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chills",
+      "Headache",
+      "Lymphadenopathy",
+      "Myalgia",
+      "Pyrexia"
+    ]
+  },
+  {
+    "caseNumber": "734407",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "33",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Adverse event following immunisation"
+    ]
+  },
+  {
+    "caseNumber": "734075",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "33",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain"
+    ]
+  },
+  {
+    "caseNumber": "733888",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "33",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Apathy",
+      "Confusional state",
+      "Fatigue",
+      "Headache",
+      "Upper-airway cough syndrome"
+    ]
+  },
+  {
+    "caseNumber": "734134",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "34",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Dysmenorrhoea",
+      "Heavy menstrual bleeding",
+      "Menstrual disorder",
+      "Orthostatic hypotension"
+    ]
+  },
+  {
+    "caseNumber": "734367",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "35",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "COVID-19"
+    ]
+  },
+  {
+    "caseNumber": "734359",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "35",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Cardiac disorder",
+      "Chest discomfort"
+    ]
+  },
+  {
+    "caseNumber": "734413",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "35",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected",
+      "Ritalin (methylphenidate hydrochloride) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain",
+      "Dyspnoea",
+      "Malaise",
+      "Palpitations",
+      "Pyrexia"
+    ]
+  },
+  {
+    "caseNumber": "734200",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "35",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Bundle branch block right",
+      "Chest pain",
+      "Dizziness",
+      "Dyspnoea",
+      "Hypoaesthesia",
+      "Myocarditis",
+      "Nausea",
+      "Palpitations",
+      "Supraventricular tachycardia"
+    ]
+  },
+  {
+    "caseNumber": "734058",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "35",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Myalgia",
+      "Pyrexia"
+    ]
+  },
+  {
+    "caseNumber": "733664",
+    "reportEntryDate": "2022-05-06T00:00:00.000+10:00",
+    "age": "35",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Headache",
+      "Injection site cellulitis",
+      "Pyrexia"
+    ]
+  },
+  {
+    "caseNumber": "733914",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "36",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Ageusia",
+      "Anosmia",
+      "Confusional state",
+      "Fatigue",
+      "Influenza like illness",
+      "Nausea"
+    ]
+  },
+  {
+    "caseNumber": "733601",
+    "reportEntryDate": "2022-05-06T00:00:00.000+10:00",
+    "age": "36",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Capsular contracture associated with implant",
+      "Dizziness",
+      "Gastroenteritis",
+      "Headache",
+      "Respiratory tract infection"
+    ]
+  },
+  {
+    "caseNumber": "734000",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "37",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain",
+      "Dyspnoea",
+      "Palpitations"
+    ]
+  },
+  {
+    "caseNumber": "733842",
+    "reportEntryDate": "2022-05-08T00:00:00.000+10:00",
+    "age": "37",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Syncope"
+    ]
+  },
+  {
+    "caseNumber": "734437",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "38",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Arthralgia",
+      "Hypoaesthesia",
+      "Rheumatoid factor increased"
+    ]
+  },
+  {
+    "caseNumber": "734362",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "41",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Nephrolithiasis"
+    ]
+  },
+  {
+    "caseNumber": "733922",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "41",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Dysmenorrhoea",
+      "Menstrual disorder",
+      "Menstruation irregular"
+    ]
+  },
+  {
+    "caseNumber": "733761",
+    "reportEntryDate": "2022-05-06T00:00:00.000+10:00",
+    "age": "42",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain"
+    ]
+  },
+  {
+    "caseNumber": "734426",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "44",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Deep vein thrombosis",
+      "Injection site pain",
+      "Malaise",
+      "Pain in extremity"
+    ]
+  },
+  {
+    "caseNumber": "734234",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "44",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Ascites",
+      "Cardiomegaly",
+      "Chest pain",
+      "Dyspnoea",
+      "Echocardiogram abnormal",
+      "Pericardial effusion",
+      "Pericarditis"
+    ]
+  },
+  {
+    "caseNumber": "734438",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "45",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Arthralgia",
+      "Blood glucose increased",
+      "Blood iron decreased",
+      "Bradycardia",
+      "Concomitant disease aggravated",
+      "Inflammation",
+      "Myalgia",
+      "Pain",
+      "Pain in extremity",
+      "Swelling"
+    ]
+  },
+  {
+    "caseNumber": "734418",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "45",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Asthenia",
+      "Chills",
+      "Decreased appetite",
+      "Disorientation",
+      "Feeling abnormal",
+      "Headache",
+      "Lethargy",
+      "Pyrexia"
+    ]
+  },
+  {
+    "caseNumber": "734083",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "45",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Appendicitis"
+    ]
+  },
+  {
+    "caseNumber": "734370",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "46",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Liver disorder"
+    ]
+  },
+  {
+    "caseNumber": "734372",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "47",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Pneumonia"
+    ]
+  },
+  {
+    "caseNumber": "734365",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "47",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Lymphadenopathy"
+    ]
+  },
+  {
+    "caseNumber": "733936",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "47",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain",
+      "Dizziness",
+      "Dyspnoea",
+      "Hypertension",
+      "Hypoaesthesia",
+      "Palpitations",
+      "Rash",
+      "Swelling"
+    ]
+  },
+  {
+    "caseNumber": "734411",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "48",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Encephalitis autoimmune",
+      "Headache",
+      "Lethargy",
+      "Pericardial effusion",
+      "Pericarditis",
+      "Tic",
+      "Tremor"
+    ]
+  },
+  {
+    "caseNumber": "734077",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "48",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Blood pressure abnormal",
+      "Diabetes mellitus",
+      "Syncope"
+    ]
+  },
+  {
+    "caseNumber": "734100",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "48",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain",
+      "Tachycardia",
+      "Vitreous floaters"
+    ]
+  },
+  {
+    "caseNumber": "734357",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "49",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Migraine"
+    ]
+  },
+  {
+    "caseNumber": "733767",
+    "reportEntryDate": "2022-05-06T00:00:00.000+10:00",
+    "age": "49",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain",
+      "Dyspnoea",
+      "Headache",
+      "Lethargy"
+    ]
+  },
+  {
+    "caseNumber": "734051",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "50",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Urticaria"
+    ]
+  },
+  {
+    "caseNumber": "734070",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "51",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain"
+    ]
+  },
+  {
+    "caseNumber": "734186",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "52",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Shoulder injury related to vaccine administration",
+      "Vaccination error"
+    ]
+  },
+  {
+    "caseNumber": "734412",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "52",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Not suspected"
+    ],
+    "meddraReactionTerms": [
+      "Inappropriate schedule of product administration",
+      "Vaccination error"
+    ]
+  },
+  {
+    "caseNumber": "734043",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "52",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Arthralgia",
+      "Chills",
+      "Malaise"
+    ]
+  },
+  {
+    "caseNumber": "733721",
+    "reportEntryDate": "2022-05-06T00:00:00.000+10:00",
+    "age": "53",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Periarthritis"
+    ]
+  },
+  {
+    "caseNumber": "733766",
+    "reportEntryDate": "2022-05-06T00:00:00.000+10:00",
+    "age": "53",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain",
+      "Dizziness",
+      "Lymphadenopathy",
+      "Nausea",
+      "Vision blurred"
+    ]
+  },
+  {
+    "caseNumber": "734168",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "54",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Ear pain",
+      "Headache",
+      "Throat tightness"
+    ]
+  },
+  {
+    "caseNumber": "733959",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "57",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Arthralgia",
+      "Concomitant disease aggravated"
+    ]
+  },
+  {
+    "caseNumber": "733653",
+    "reportEntryDate": "2022-05-06T00:00:00.000+10:00",
+    "age": "57",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Alopecia"
+    ]
+  },
+  {
+    "caseNumber": "734371",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "61",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Palpitations"
+    ]
+  },
+  {
+    "caseNumber": "734047",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "61",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected"
+    ],
+    "meddraReactionTerms": [
+      "Headache"
+    ]
+  },
+  {
+    "caseNumber": "733958",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "62",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chills",
+      "Headache",
+      "Injection site reaction",
+      "Myalgia",
+      "Pyrexia"
+    ]
+  },
+  {
+    "caseNumber": "733895",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "62",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "SARS-CoV-2 test positive",
+      "Vaccine breakthrough infection"
+    ]
+  },
+  {
+    "caseNumber": "733906",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "65",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Acute myocardial infarction"
+    ]
+  },
+  {
+    "caseNumber": "733812",
+    "reportEntryDate": "2022-05-07T00:00:00.000+10:00",
+    "age": "65",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+      "FLUAD QUAD (Influenza virus haemagglutinin) - Suspected",
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected"
+    ],
+    "meddraReactionTerms": [
+      "Lethargy",
+      "Oropharyngeal pain",
+      "Pyrexia",
+      "Rhinorrhoea",
+      "SARS-CoV-2 test positive"
+    ]
+  },
+  {
+    "caseNumber": "733604",
+    "reportEntryDate": "2022-05-06T00:00:00.000+10:00",
+    "age": "65",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Dizziness",
+      "Dysphagia",
+      "Pulmonary congestion",
+      "Vomiting"
+    ]
+  },
+  {
+    "caseNumber": "734038",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "67",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Pain in extremity"
+    ]
+  },
+  {
+    "caseNumber": "734164",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "70",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Cough"
+    ]
+  },
+  {
+    "caseNumber": "733873",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "70",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
+      "Magmin (magnesium aspartate) - Not suspected",
+      "Tradename not specified (mometasone furoate) - Not suspected",
+      "Karvea (irbesartan) - Not suspected",
+      "Oxis Turbuhaler (formoterol (eformoterol) fumarate dihydrate) - Not suspected",
+      "Vitamin D3 (colecalciferol) - Not suspected",
+      "Alvesco (ciclesonide) - Not suspected",
+      "Eliquis (apixaban) - Not suspected",
+      "TALTZ ixekizumab 80 mg/mL solution for injection prefilled pen (ixekizumab) - Not suspected",
+      "Tradename not specified (methotrexate) - Not suspected",
+      "Tradename not specified (folic acid) - Not suspected",
+      "Ventolin (salbutamol) - Not suspected",
+      "Epipen (adrenaline (epinephrine)) - Not suspected"
+    ],
+    "meddraReactionTerms": [
+      "Bell's palsy",
+      "Influenza like illness",
+      "Lethargy"
+    ]
+  },
+  {
+    "caseNumber": "733871",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "70",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Hypoaesthesia",
+      "Lethargy",
+      "Somnolence"
+    ]
+  },
+  {
+    "caseNumber": "733899",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "70",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+      "FLUAD QUAD (Influenza virus haemagglutinin) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Blister",
+      "Urticaria"
+    ]
+  },
+  {
+    "caseNumber": "734034",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "71",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Balance disorder",
+      "Dyspnoea",
+      "Hemiparesis",
+      "Tremor"
+    ]
+  },
+  {
+    "caseNumber": "734055",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "73",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Pancytopenia"
+    ]
+  },
+  {
+    "caseNumber": "734073",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "73",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Influenza"
+    ]
+  },
+  {
+    "caseNumber": "733813",
+    "reportEntryDate": "2022-05-07T00:00:00.000+10:00",
+    "age": "75",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "FLUAD QUAD (Influenza virus haemagglutinin) - Suspected",
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Balance disorder",
+      "Diarrhoea",
+      "Feeling hot",
+      "Hyperhidrosis",
+      "Lethargy",
+      "Visual impairment",
+      "Vomiting"
+    ]
+  },
+  {
+    "caseNumber": "733814",
+    "reportEntryDate": "2022-05-07T00:00:00.000+10:00",
+    "age": "75",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected"
+    ],
+    "meddraReactionTerms": [
+      "Diarrhoea"
+    ]
+  },
+  {
+    "caseNumber": "734207",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "76",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Herpes zoster"
+    ]
+  },
+  {
+    "caseNumber": "733815",
+    "reportEntryDate": "2022-05-07T00:00:00.000+10:00",
+    "age": "76",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected"
+    ],
+    "meddraReactionTerms": [
+      "Dyspnoea",
+      "Headache",
+      "Myalgia"
+    ]
+  },
+  {
+    "caseNumber": "734203",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "78",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected",
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Cardiac failure congestive",
+      "Chest pain",
+      "Concomitant disease aggravated",
+      "Myalgia"
+    ]
+  },
+  {
+    "caseNumber": "734205",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "78",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Influenza Vaccine (TNS) (Influenza virus haemagglutinin) - Suspected",
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Aortic dissection rupture",
+      "Fatigue",
+      "Nausea",
+      "Pain",
+      "Pyrexia"
+    ]
+  },
+  {
+    "caseNumber": "734396",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "80",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Haemophagocytic lymphohistiocytosis",
+      "Hepatitis",
+      "Renal failure"
+    ]
+  },
+  {
+    "caseNumber": "734405",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "80",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Concomitant disease aggravated",
+      "Dyspnoea"
+    ]
+  },
+  {
+    "caseNumber": "734369",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "82",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Lower respiratory tract infection"
+    ]
+  },
+  {
+    "caseNumber": "733953",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "82",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Arthralgia",
+      "Injection site reaction",
+      "Musculoskeletal stiffness",
+      "Myalgia"
+    ]
+  },
+  {
+    "caseNumber": "734125",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "87",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected"
+    ],
+    "meddraReactionTerms": [
+      "Cough",
+      "Malaise",
+      "Pain in extremity",
+      "Syncope"
+    ]
+  },
+  {
+    "caseNumber": "734081",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "98",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Cardiac arrest"
+    ]
+  },
+  {
+    "caseNumber": "734130",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "-",
+    "gender": "-",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Cardiac disorder"
+    ]
+  },
+  {
+    "caseNumber": "734414",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "-",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Arthralgia",
+      "Candida infection",
+      "Dysuria",
+      "Headache",
+      "Motor dysfunction",
+      "Myalgia",
+      "Paraesthesia",
+      "Taste disorder",
+      "Visual impairment"
+    ]
+  },
+  {
+    "caseNumber": "734149",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "-",
+    "gender": "-",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "SARS-CoV-2 test positive",
+      "Vaccine breakthrough infection"
+    ]
+  },
+  {
+    "caseNumber": "734148",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "-",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Agitation neonatal",
+      "Exposure via breast milk",
+      "Tremor neonatal"
+    ]
+  },
+  {
+    "caseNumber": "734044",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "-",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Epistaxis"
+    ]
+  },
+  {
+    "caseNumber": "734059",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "-",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Diarrhoea",
+      "Fatigue",
+      "Headache",
+      "Hot flush",
+      "Injection site pain",
+      "Lymphadenopathy",
+      "Muscle spasms",
+      "Musculoskeletal stiffness",
+      "Myalgia",
+      "Nausea",
+      "Neck pain",
+      "Oropharyngeal pain",
+      "Pain in extremity",
+      "Pruritus"
+    ]
+  },
+  {
+    "caseNumber": "733894",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "-",
+    "gender": "-",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Adverse event following immunisation"
+    ]
+  },
+  {
+    "caseNumber": "733886",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "-",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Asthenia",
+      "Depression",
+      "Headache",
+      "Hypersensitivity",
+      "Hypoaesthesia",
+      "Lip swelling",
+      "Muscle tightness",
+      "Tremor"
+    ]
+  },
+  {
+    "caseNumber": "734042",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "-",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Blood pressure increased",
+      "Headache",
+      "Hypoaesthesia",
+      "Lethargy",
+      "Pain in extremity",
+      "Tachycardia"
+    ]
+  },
+  {
+    "caseNumber": "734061",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "-",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Back pain",
+      "Muscular weakness",
+      "Pain in extremity"
+    ]
+  },
+  {
+    "caseNumber": "733705",
+    "reportEntryDate": "2022-05-06T00:00:00.000+10:00",
+    "age": "-",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Haematuria"
+    ]
+  }
+]
