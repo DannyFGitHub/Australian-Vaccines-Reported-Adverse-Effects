@@ -1,0 +1,384 @@
+[
+  {
+    "caseNumber": "734508",
+    "reportEntryDate": "2022-05-11T00:00:00.000+10:00",
+    "age": "15",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Product administered to patient of inappropriate age",
+      "Vaccination error"
+    ]
+  },
+  {
+    "caseNumber": "734678",
+    "reportEntryDate": "2022-05-12T00:00:00.000+10:00",
+    "age": "19",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Seizure"
+    ]
+  },
+  {
+    "caseNumber": "734599",
+    "reportEntryDate": "2022-05-11T00:00:00.000+10:00",
+    "age": "32",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Alopecia",
+      "Dizziness",
+      "Eye pain",
+      "Headache",
+      "Hypersensitivity",
+      "Memory impairment",
+      "Paraesthesia",
+      "Tinnitus",
+      "Vomiting"
+    ]
+  },
+  {
+    "caseNumber": "733888",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "33",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Apathy",
+      "Confusional state",
+      "Fatigue",
+      "Headache",
+      "Upper-airway cough syndrome"
+    ]
+  },
+  {
+    "caseNumber": "734482",
+    "reportEntryDate": "2022-05-11T00:00:00.000+10:00",
+    "age": "34",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Amenorrhoea",
+      "Menstrual disorder"
+    ]
+  },
+  {
+    "caseNumber": "734236",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "36",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Stomatitis"
+    ]
+  },
+  {
+    "caseNumber": "733872",
+    "reportEntryDate": "2022-05-09T00:00:00.000+10:00",
+    "age": "36",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Ear congestion",
+      "Headache",
+      "Hyperhidrosis",
+      "Idiopathic orbital inflammation",
+      "Lethargy",
+      "Optic neuritis"
+    ]
+  },
+  {
+    "caseNumber": "735130",
+    "reportEntryDate": "2022-05-13T00:00:00.000+10:00",
+    "age": "37",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Anaphylactic reaction",
+      "Dizziness",
+      "Rash",
+      "Vertigo"
+    ]
+  },
+  {
+    "caseNumber": "734723",
+    "reportEntryDate": "2022-05-12T00:00:00.000+10:00",
+    "age": "38",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Abdominal pain",
+      "Angioedema",
+      "Concomitant disease aggravated",
+      "Dizziness",
+      "Nausea",
+      "Pruritus",
+      "Throat tightness"
+    ]
+  },
+  {
+    "caseNumber": "735234",
+    "reportEntryDate": "2022-05-15T00:00:00.000+10:00",
+    "age": "39",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chills",
+      "Cough",
+      "Dyspnoea",
+      "Fatigue",
+      "Headache",
+      "Hypoaesthesia",
+      "Oropharyngeal pain",
+      "Product colour issue"
+    ]
+  },
+  {
+    "caseNumber": "734944",
+    "reportEntryDate": "2022-05-13T00:00:00.000+10:00",
+    "age": "39",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Back pain",
+      "Fatigue",
+      "Headache",
+      "Insomnia",
+      "Lymphadenopathy",
+      "Night sweats",
+      "Pain"
+    ]
+  },
+  {
+    "caseNumber": "735188",
+    "reportEntryDate": "2022-05-14T00:00:00.000+10:00",
+    "age": "43",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Cardiac disorder",
+      "Carditis",
+      "Chest pain",
+      "Exercise tolerance decreased",
+      "Fatigue",
+      "Headache",
+      "Heart rate irregular",
+      "Hyperaesthesia",
+      "Influenza like illness",
+      "Injection site pain",
+      "Nausea",
+      "Pyrexia"
+    ]
+  },
+  {
+    "caseNumber": "734717",
+    "reportEntryDate": "2022-05-12T00:00:00.000+10:00",
+    "age": "45",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Anaphylactic reaction",
+      "Feeling cold",
+      "Paraesthesia"
+    ]
+  },
+  {
+    "caseNumber": "734696",
+    "reportEntryDate": "2022-05-12T00:00:00.000+10:00",
+    "age": "49",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Diarrhoea",
+      "Palpitations"
+    ]
+  },
+  {
+    "caseNumber": "734470",
+    "reportEntryDate": "2022-05-11T00:00:00.000+10:00",
+    "age": "49",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Fatigue",
+      "Headache",
+      "Injection site swelling",
+      "Lymphadenopathy",
+      "Myalgia",
+      "Pyrexia"
+    ]
+  },
+  {
+    "caseNumber": "734840",
+    "reportEntryDate": "2022-05-12T00:00:00.000+10:00",
+    "age": "54",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Concomitant disease aggravated"
+    ]
+  },
+  {
+    "caseNumber": "734464",
+    "reportEntryDate": "2022-05-11T00:00:00.000+10:00",
+    "age": "55",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected",
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Not suspected"
+    ],
+    "meddraReactionTerms": [
+      "Haemorrhoids thrombosed"
+    ]
+  },
+  {
+    "caseNumber": "734201",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "56",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Dizziness",
+      "Head discomfort",
+      "Lethargy",
+      "Pyrexia"
+    ]
+  },
+  {
+    "caseNumber": "734202",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "56",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Confusional state",
+      "Facial pain",
+      "Lethargy",
+      "Nausea",
+      "Neck pain"
+    ]
+  },
+  {
+    "caseNumber": "735229",
+    "reportEntryDate": "2022-05-15T00:00:00.000+10:00",
+    "age": "58",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected",
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Not suspected",
+      "Osteomol 665 Paracetamol (paracetamol) - Not suspected"
+    ],
+    "meddraReactionTerms": [
+      "Arthritis",
+      "Groin pain",
+      "Testicular pain"
+    ]
+  },
+  {
+    "caseNumber": "734417",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "65",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Tinnitus"
+    ]
+  },
+  {
+    "caseNumber": "734869",
+    "reportEntryDate": "2022-05-12T00:00:00.000+10:00",
+    "age": "69",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain",
+      "Myalgia",
+      "Supraventricular extrasystoles"
+    ]
+  },
+  {
+    "caseNumber": "734209",
+    "reportEntryDate": "2022-05-10T00:00:00.000+10:00",
+    "age": "76",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected",
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Not suspected"
+    ],
+    "meddraReactionTerms": [
+      "Herpes zoster reactivation"
+    ]
+  },
+  {
+    "caseNumber": "734716",
+    "reportEntryDate": "2022-05-12T00:00:00.000+10:00",
+    "age": "78",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Cellulitis",
+      "Dysgeusia",
+      "Streptococcal bacteraemia"
+    ]
+  },
+  {
+    "caseNumber": "734857",
+    "reportEntryDate": "2022-05-12T00:00:00.000+10:00",
+    "age": "93",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Haemoglobin decreased",
+      "Myocardial infarction"
+    ]
+  }
+]
