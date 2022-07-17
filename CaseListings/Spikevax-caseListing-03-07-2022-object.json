@@ -1,0 +1,1105 @@
+[
+  {
+    "caseNumber": "743108",
+    "reportEntryDate": "2022-07-01T00:00:00.000+10:00",
+    "age": "16",
+    "gender": "-",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Conversion disorder",
+      "Petit mal epilepsy"
+    ]
+  },
+  {
+    "caseNumber": "742527",
+    "reportEntryDate": "2022-06-27T00:00:00.000+10:00",
+    "age": "17",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Inappropriate schedule of product administration",
+      "Vaccination error"
+    ]
+  },
+  {
+    "caseNumber": "742517",
+    "reportEntryDate": "2022-06-27T00:00:00.000+10:00",
+    "age": "19",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain",
+      "Dizziness",
+      "Myopericarditis",
+      "Nausea"
+    ]
+  },
+  {
+    "caseNumber": "742113",
+    "reportEntryDate": "2022-06-23T00:00:00.000+10:00",
+    "age": "20",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain",
+      "Dyspnoea",
+      "Feeling drunk",
+      "Pain in extremity"
+    ]
+  },
+  {
+    "caseNumber": "742461",
+    "reportEntryDate": "2022-06-27T00:00:00.000+10:00",
+    "age": "21",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Abdominal pain",
+      "Chest pain",
+      "Cough",
+      "Lethargy",
+      "Nausea",
+      "Palpitations",
+      "Pyrexia",
+      "Rhinorrhoea"
+    ]
+  },
+  {
+    "caseNumber": "742649",
+    "reportEntryDate": "2022-06-28T00:00:00.000+10:00",
+    "age": "23",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Arthralgia",
+      "Diarrhoea",
+      "Headache",
+      "Pain in extremity",
+      "Somnolence",
+      "Urticaria",
+      "Vomiting"
+    ]
+  },
+  {
+    "caseNumber": "742639",
+    "reportEntryDate": "2022-06-28T00:00:00.000+10:00",
+    "age": "25",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Syncope"
+    ]
+  },
+  {
+    "caseNumber": "741619",
+    "reportEntryDate": "2022-06-20T00:00:00.000+10:00",
+    "age": "26",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Presyncope"
+    ]
+  },
+  {
+    "caseNumber": "741957",
+    "reportEntryDate": "2022-06-22T00:00:00.000+10:00",
+    "age": "28",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Dizziness",
+      "Headache",
+      "Malaise",
+      "Nausea",
+      "Pyrexia",
+      "Urticaria"
+    ]
+  },
+  {
+    "caseNumber": "743141",
+    "reportEntryDate": "2022-07-01T00:00:00.000+10:00",
+    "age": "30",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Adrenal insufficiency",
+      "Amnesia",
+      "Chest pain",
+      "Cognitive disorder",
+      "Dissociation",
+      "Dizziness",
+      "Dyspnoea",
+      "Electric shock sensation",
+      "Exploding head syndrome",
+      "Feeling abnormal",
+      "Insomnia",
+      "Nausea",
+      "Palpitations",
+      "Panic attack",
+      "Pruritus",
+      "Skin burning sensation",
+      "Tachycardia",
+      "Tremor",
+      "Vertigo",
+      "Visual impairment"
+    ]
+  },
+  {
+    "caseNumber": "742469",
+    "reportEntryDate": "2022-06-27T00:00:00.000+10:00",
+    "age": "30",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Abdominal distension",
+      "Abdominal pain",
+      "Constipation",
+      "Diarrhoea"
+    ]
+  },
+  {
+    "caseNumber": "742701",
+    "reportEntryDate": "2022-06-28T00:00:00.000+10:00",
+    "age": "33",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Dizziness",
+      "Nausea"
+    ]
+  },
+  {
+    "caseNumber": "742853",
+    "reportEntryDate": "2022-06-29T00:00:00.000+10:00",
+    "age": "38",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Migraine",
+      "Myalgia",
+      "Pyrexia"
+    ]
+  },
+  {
+    "caseNumber": "742047",
+    "reportEntryDate": "2022-06-23T00:00:00.000+10:00",
+    "age": "40",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest discomfort",
+      "Chest pain",
+      "Dyspnoea",
+      "Hypoaesthesia",
+      "Palpitations",
+      "Postural orthostatic tachycardia syndrome",
+      "Presyncope"
+    ]
+  },
+  {
+    "caseNumber": "742835",
+    "reportEntryDate": "2022-06-29T00:00:00.000+10:00",
+    "age": "41",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Dizziness",
+      "Palpitations"
+    ]
+  },
+  {
+    "caseNumber": "742424",
+    "reportEntryDate": "2022-06-27T00:00:00.000+10:00",
+    "age": "41",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Injection site pain"
+    ]
+  },
+  {
+    "caseNumber": "741539",
+    "reportEntryDate": "2022-06-20T00:00:00.000+10:00",
+    "age": "41",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Amenorrhoea",
+      "Menstrual disorder"
+    ]
+  },
+  {
+    "caseNumber": "741607",
+    "reportEntryDate": "2022-06-20T00:00:00.000+10:00",
+    "age": "41",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Dizziness",
+      "Guillain-Barre syndrome",
+      "Injection site pain",
+      "Slow speech"
+    ]
+  },
+  {
+    "caseNumber": "742832",
+    "reportEntryDate": "2022-06-29T00:00:00.000+10:00",
+    "age": "42",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Back pain",
+      "Cellulitis",
+      "Chest discomfort",
+      "Chills",
+      "Infection",
+      "Injection site reaction",
+      "Lethargy",
+      "Nausea",
+      "Pyrexia"
+    ]
+  },
+  {
+    "caseNumber": "742662",
+    "reportEntryDate": "2022-06-28T00:00:00.000+10:00",
+    "age": "42",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Heavy menstrual bleeding",
+      "Menstrual disorder"
+    ]
+  },
+  {
+    "caseNumber": "741869",
+    "reportEntryDate": "2022-06-22T00:00:00.000+10:00",
+    "age": "42",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "COVID-19",
+      "Drug ineffective"
+    ]
+  },
+  {
+    "caseNumber": "742393",
+    "reportEntryDate": "2022-06-27T00:00:00.000+10:00",
+    "age": "43",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected",
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Not suspected"
+    ],
+    "meddraReactionTerms": [
+      "Injection site swelling"
+    ]
+  },
+  {
+    "caseNumber": "743289",
+    "reportEntryDate": "2022-07-02T00:00:00.000+10:00",
+    "age": "45",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected",
+      "Tradename not specified (desvenlafaxine) - Not suspected"
+    ],
+    "meddraReactionTerms": [
+      "Concomitant disease aggravated",
+      "Injection site pain",
+      "Nervous system disorder"
+    ]
+  },
+  {
+    "caseNumber": "741959",
+    "reportEntryDate": "2022-06-22T00:00:00.000+10:00",
+    "age": "45",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Nausea"
+    ]
+  },
+  {
+    "caseNumber": "741613",
+    "reportEntryDate": "2022-06-20T00:00:00.000+10:00",
+    "age": "45",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Arthralgia",
+      "Dizziness",
+      "Fatigue",
+      "Headache",
+      "Injection site reaction",
+      "Lymphadenopathy",
+      "Nausea",
+      "Pyrexia",
+      "Rash"
+    ]
+  },
+  {
+    "caseNumber": "742449",
+    "reportEntryDate": "2022-06-27T00:00:00.000+10:00",
+    "age": "47",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Injection site reaction",
+      "Nausea"
+    ]
+  },
+  {
+    "caseNumber": "742661",
+    "reportEntryDate": "2022-06-28T00:00:00.000+10:00",
+    "age": "48",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Influenza like illness"
+    ]
+  },
+  {
+    "caseNumber": "741529",
+    "reportEntryDate": "2022-06-20T00:00:00.000+10:00",
+    "age": "48",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Suspected",
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "COVID-19",
+      "Vaccination failure"
+    ]
+  },
+  {
+    "caseNumber": "741779",
+    "reportEntryDate": "2022-06-21T00:00:00.000+10:00",
+    "age": "50",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest pain",
+      "Dyspnoea",
+      "Groin pain",
+      "Malaise"
+    ]
+  },
+  {
+    "caseNumber": "741786",
+    "reportEntryDate": "2022-06-21T00:00:00.000+10:00",
+    "age": "50",
+    "gender": "-",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Rash"
+    ]
+  },
+  {
+    "caseNumber": "742316",
+    "reportEntryDate": "2022-06-26T00:00:00.000+10:00",
+    "age": "51",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Arthralgia",
+      "Arthritis",
+      "Concomitant disease aggravated",
+      "Menstruation irregular",
+      "Osteoporosis"
+    ]
+  },
+  {
+    "caseNumber": "742467",
+    "reportEntryDate": "2022-06-27T00:00:00.000+10:00",
+    "age": "55",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Dizziness",
+      "Dyspnoea",
+      "Injection site pain",
+      "Lethargy",
+      "Palpitations",
+      "Pyrexia"
+    ]
+  },
+  {
+    "caseNumber": "742178",
+    "reportEntryDate": "2022-06-24T00:00:00.000+10:00",
+    "age": "57",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected",
+      "Creon (Pancreatic extract) - Not suspected"
+    ],
+    "meddraReactionTerms": [
+      "Arthritis",
+      "Bone pain",
+      "Dizziness",
+      "Fatigue",
+      "Gout",
+      "Joint swelling",
+      "Migraine"
+    ]
+  },
+  {
+    "caseNumber": "742513",
+    "reportEntryDate": "2022-06-27T00:00:00.000+10:00",
+    "age": "58",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Adverse event following immunisation"
+    ]
+  },
+  {
+    "caseNumber": "741955",
+    "reportEntryDate": "2022-06-22T00:00:00.000+10:00",
+    "age": "58",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Rash pruritic"
+    ]
+  },
+  {
+    "caseNumber": "742475",
+    "reportEntryDate": "2022-06-27T00:00:00.000+10:00",
+    "age": "60",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Upper respiratory tract infection"
+    ]
+  },
+  {
+    "caseNumber": "742632",
+    "reportEntryDate": "2022-06-28T00:00:00.000+10:00",
+    "age": "61",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Dyspnoea",
+      "Palpitations"
+    ]
+  },
+  {
+    "caseNumber": "741515",
+    "reportEntryDate": "2022-06-20T00:00:00.000+10:00",
+    "age": "61",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Injected limb mobility decreased",
+      "Injection site pain"
+    ]
+  },
+  {
+    "caseNumber": "741946",
+    "reportEntryDate": "2022-06-22T00:00:00.000+10:00",
+    "age": "62",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Arthralgia",
+      "Grip strength decreased",
+      "Hypoaesthesia",
+      "Injection site erythema",
+      "Joint stiffness",
+      "Pain in extremity",
+      "Paraesthesia",
+      "Product administered at inappropriate site",
+      "Vaccination error"
+    ]
+  },
+  {
+    "caseNumber": "743000",
+    "reportEntryDate": "2022-06-30T00:00:00.000+10:00",
+    "age": "63",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Hypoglycaemia",
+      "Syncope"
+    ]
+  },
+  {
+    "caseNumber": "742468",
+    "reportEntryDate": "2022-06-27T00:00:00.000+10:00",
+    "age": "64",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Abdominal pain",
+      "Arthralgia",
+      "Diarrhoea",
+      "Dyspnoea",
+      "Fatigue",
+      "Headache",
+      "Injection site reaction",
+      "Myalgia",
+      "Pyrexia",
+      "Rash",
+      "Vomiting"
+    ]
+  },
+  {
+    "caseNumber": "743011",
+    "reportEntryDate": "2022-06-30T00:00:00.000+10:00",
+    "age": "65",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Abdominal pain",
+      "Arthralgia",
+      "Headache",
+      "Muscle spasms",
+      "Myalgia",
+      "Nausea",
+      "Pain in extremity",
+      "Renal pain"
+    ]
+  },
+  {
+    "caseNumber": "742992",
+    "reportEntryDate": "2022-06-30T00:00:00.000+10:00",
+    "age": "66",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Contusion",
+      "Joint swelling",
+      "Pain in extremity"
+    ]
+  },
+  {
+    "caseNumber": "741882",
+    "reportEntryDate": "2022-06-22T00:00:00.000+10:00",
+    "age": "66",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Dyspnoea",
+      "Fatigue",
+      "Headache",
+      "Myalgia",
+      "Rash"
+    ]
+  },
+  {
+    "caseNumber": "742709",
+    "reportEntryDate": "2022-06-28T00:00:00.000+10:00",
+    "age": "67",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Herpes zoster"
+    ]
+  },
+  {
+    "caseNumber": "741996",
+    "reportEntryDate": "2022-06-22T00:00:00.000+10:00",
+    "age": "67",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Contusion",
+      "Thrombocytopenia"
+    ]
+  },
+  {
+    "caseNumber": "743194",
+    "reportEntryDate": "2022-07-01T00:00:00.000+10:00",
+    "age": "68",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Dyspepsia"
+    ]
+  },
+  {
+    "caseNumber": "742949",
+    "reportEntryDate": "2022-06-30T00:00:00.000+10:00",
+    "age": "68",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Feeling cold",
+      "Feeling hot",
+      "Headache",
+      "Malaise"
+    ]
+  },
+  {
+    "caseNumber": "741964",
+    "reportEntryDate": "2022-06-22T00:00:00.000+10:00",
+    "age": "68",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Skin discolouration"
+    ]
+  },
+  {
+    "caseNumber": "742767",
+    "reportEntryDate": "2022-06-29T00:00:00.000+10:00",
+    "age": "71",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Peripheral swelling"
+    ]
+  },
+  {
+    "caseNumber": "742781",
+    "reportEntryDate": "2022-06-29T00:00:00.000+10:00",
+    "age": "72",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Herpes zoster"
+    ]
+  },
+  {
+    "caseNumber": "743229",
+    "reportEntryDate": "2022-07-01T00:00:00.000+10:00",
+    "age": "75",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Adverse event following immunisation"
+    ]
+  },
+  {
+    "caseNumber": "743014",
+    "reportEntryDate": "2022-06-30T00:00:00.000+10:00",
+    "age": "75",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Arthralgia"
+    ]
+  },
+  {
+    "caseNumber": "741886",
+    "reportEntryDate": "2022-06-22T00:00:00.000+10:00",
+    "age": "75",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Fatigue",
+      "Headache",
+      "Hyperhidrosis",
+      "Rhinorrhoea"
+    ]
+  },
+  {
+    "caseNumber": "741799",
+    "reportEntryDate": "2022-06-21T00:00:00.000+10:00",
+    "age": "75",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Pneumonia"
+    ]
+  },
+  {
+    "caseNumber": "742859",
+    "reportEntryDate": "2022-06-29T00:00:00.000+10:00",
+    "age": "76",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Hyperhidrosis",
+      "Palpitations"
+    ]
+  },
+  {
+    "caseNumber": "742905",
+    "reportEntryDate": "2022-06-30T00:00:00.000+10:00",
+    "age": "77",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected",
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Not suspected",
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected"
+    ],
+    "meddraReactionTerms": [
+      "Inappropriate schedule of product administration",
+      "Vaccination error"
+    ]
+  },
+  {
+    "caseNumber": "742425",
+    "reportEntryDate": "2022-06-27T00:00:00.000+10:00",
+    "age": "80",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Headache",
+      "Lethargy",
+      "Movement disorder",
+      "Polymyalgia rheumatica"
+    ]
+  },
+  {
+    "caseNumber": "743008",
+    "reportEntryDate": "2022-06-30T00:00:00.000+10:00",
+    "age": "-",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Abdominal pain",
+      "Decreased appetite",
+      "Lethargy",
+      "Myalgia",
+      "Nausea"
+    ]
+  },
+  {
+    "caseNumber": "742855",
+    "reportEntryDate": "2022-06-29T00:00:00.000+10:00",
+    "age": "-",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Arthritis",
+      "Joint swelling",
+      "Lethargy",
+      "Muscle spasms",
+      "Paraesthesia"
+    ]
+  },
+  {
+    "caseNumber": "742641",
+    "reportEntryDate": "2022-06-28T00:00:00.000+10:00",
+    "age": "-",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Injection site reaction",
+      "Pain in extremity"
+    ]
+  },
+  {
+    "caseNumber": "742670",
+    "reportEntryDate": "2022-06-28T00:00:00.000+10:00",
+    "age": "-",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Fatigue",
+      "Injection site reaction",
+      "Pain"
+    ]
+  },
+  {
+    "caseNumber": "742682",
+    "reportEntryDate": "2022-06-28T00:00:00.000+10:00",
+    "age": "-",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Hypoaesthesia",
+      "Swollen tongue"
+    ]
+  },
+  {
+    "caseNumber": "742710",
+    "reportEntryDate": "2022-06-28T00:00:00.000+10:00",
+    "age": "-",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Fluarix Tetra Vaccine (Influenza virus haemagglutinin) - Suspected",
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Dizziness",
+      "Syncope"
+    ]
+  },
+  {
+    "caseNumber": "742718",
+    "reportEntryDate": "2022-06-28T00:00:00.000+10:00",
+    "age": "-",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Arthralgia",
+      "Myalgia",
+      "Pyrexia",
+      "Shoulder injury related to vaccine administration"
+    ]
+  },
+  {
+    "caseNumber": "742455",
+    "reportEntryDate": "2022-06-27T00:00:00.000+10:00",
+    "age": "-",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Pain in extremity",
+      "Palpitations"
+    ]
+  },
+  {
+    "caseNumber": "742462",
+    "reportEntryDate": "2022-06-27T00:00:00.000+10:00",
+    "age": "-",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected",
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Chest discomfort",
+      "Chest pain",
+      "Pericarditis"
+    ]
+  },
+  {
+    "caseNumber": "742268",
+    "reportEntryDate": "2022-06-24T00:00:00.000+10:00",
+    "age": "-",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Pericarditis"
+    ]
+  },
+  {
+    "caseNumber": "742046",
+    "reportEntryDate": "2022-06-23T00:00:00.000+10:00",
+    "age": "-",
+    "gender": "-",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Tinnitus"
+    ]
+  },
+  {
+    "caseNumber": "742141",
+    "reportEntryDate": "2022-06-23T00:00:00.000+10:00",
+    "age": "-",
+    "gender": "M",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Fatigue",
+      "Myalgia"
+    ]
+  },
+  {
+    "caseNumber": "741895",
+    "reportEntryDate": "2022-06-22T00:00:00.000+10:00",
+    "age": "-",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected",
+      "COMIRNATY COVID-19 vaccine (tozinameran) - Not suspected",
+      "COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected"
+    ],
+    "meddraReactionTerms": [
+      "Feeling hot",
+      "Papule",
+      "Pruritus",
+      "Vaccination error"
+    ]
+  },
+  {
+    "caseNumber": "741952",
+    "reportEntryDate": "2022-06-22T00:00:00.000+10:00",
+    "age": "-",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Angioedema",
+      "Arthralgia",
+      "Chills",
+      "Dizziness postural",
+      "Hallucination",
+      "Headache",
+      "Lethargy",
+      "Myalgia",
+      "Nightmare",
+      "Skin discomfort",
+      "Sneezing"
+    ]
+  },
+  {
+    "caseNumber": "741965",
+    "reportEntryDate": "2022-06-22T00:00:00.000+10:00",
+    "age": "-",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Abdominal pain",
+      "Arthralgia",
+      "Erythema",
+      "Headache",
+      "Muscle spasms",
+      "Myalgia",
+      "Pruritus",
+      "Swelling"
+    ]
+  },
+  {
+    "caseNumber": "741802",
+    "reportEntryDate": "2022-06-21T00:00:00.000+10:00",
+    "age": "-",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Headache",
+      "Hepatic enzyme abnormal",
+      "Nausea",
+      "Pyrexia"
+    ]
+  },
+  {
+    "caseNumber": "741594",
+    "reportEntryDate": "2022-06-20T00:00:00.000+10:00",
+    "age": "-",
+    "gender": "F",
+    "medicinesReportedAsBeingTaken": [
+      "Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected"
+    ],
+    "meddraReactionTerms": [
+      "Deep vein thrombosis"
+    ]
+  }
+]
